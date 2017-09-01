@@ -2,13 +2,7 @@
 
 List of awesome CSS frameworks
 
-<!--
-- [**TODO**](TODO) - TODO  
-  ![](https://img.shields.io/github/stars/TODO/TODO.svg?style=social&label=Star)
-  [Demo](TODO),
-  [Docs](TODO),
-  [Repo](TODO)
--->
+Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob/master/contributing.md).
 
 
 ## Base / Reset / Normalize
@@ -69,11 +63,11 @@ Frameworks that are smaller than ~5KB.
 ## General Purpose
 
 - [**Bootstrap**](http://getbootstrap.com) -  The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web  
-   ![](https://img.shields.io/github/stars/twbs/bootstrap.svg?style=social&label=Star)
-    [Demo](https://getbootstrap.com/docs/4.0/examples/),
-   [Docs](https://getbootstrap.com/docs/4.0/),
-   [Themes](https://github.com/therebelrobot/awesome-bootstrap),
-   [Repo](https://github.com/twbs/bootstrap)
+  ![](https://img.shields.io/github/stars/twbs/bootstrap.svg?style=social&label=Star)
+  [Demo](https://getbootstrap.com/docs/4.0/examples/),
+  [Docs](https://getbootstrap.com/docs/4.0/),
+  [Themes](https://github.com/therebelrobot/awesome-bootstrap),
+  [Repo](https://github.com/twbs/bootstrap)
 
 - [**Semantic UI**](https://semantic-ui.com/) -  User Interface is the language of the web   
   ![](https://img.shields.io/github/stars/semantic-org/semantic-ui.svg?style=social&label=Star)
