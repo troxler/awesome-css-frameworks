@@ -45,7 +45,7 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://picnicss.com/documentation),
   [Repo](https://github.com/franciscop/picnic)
 
-- [**Mobi.css**](http://getmobicss.com/) -  A lightweight, scalable, mobile-first css framework  
+- [**Mobi.css**](http://getmobicss.com/) - Lightweight, scalable, mobile-first css framework  
   ![](https://img.shields.io/github/stars/mobi-css/mobi.css.svg?style=social&label=Star)
   [Docs](http://getmobicss.com/docs/introduction.html),
   [Repo](https://github.com/mobi-css/mobi.css)
@@ -62,14 +62,14 @@ Frameworks that are smaller than ~5KB.
 
 ## General Purpose
 
-- [**Bootstrap**](http://getbootstrap.com) -  The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web  
+- [**Bootstrap**](http://getbootstrap.com) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web  
   ![](https://img.shields.io/github/stars/twbs/bootstrap.svg?style=social&label=Star)
   [Demo](https://getbootstrap.com/docs/4.0/examples/),
   [Docs](https://getbootstrap.com/docs/4.0/),
   [Themes](https://github.com/therebelrobot/awesome-bootstrap),
   [Repo](https://github.com/twbs/bootstrap)
 
-- [**Semantic UI**](https://semantic-ui.com/) -  User Interface is the language of the web   
+- [**Semantic UI**](https://semantic-ui.com/) - User Interface is the language of the web   
   ![](https://img.shields.io/github/stars/semantic-org/semantic-ui.svg?style=social&label=Star)
   [Docs](https://semantic-ui.com/introduction/getting-started.html),
   [Repo](https://github.com/semantic-org/semantic-ui)
@@ -92,13 +92,13 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://getuikit.com/docs/introduction),
   [Repo](https://github.com/uikit/uikit)
 
-- [**Blaze CSS**](http://blazecss.com/) -  Open source modular CSS toolkit providing great structure for building websites quickly   
+- [**Blaze CSS**](http://blazecss.com/) - Open source modular CSS toolkit providing great structure for building websites quickly   
   ![](https://img.shields.io/github/stars/BlazeCSS/blaze.svg?style=social&label=Star)
   [Demo](http://blazecss.com/templates/),
   [Docs](http://blazecss.com/getting-started/install/),
   [Repo](https://github.com/BlazeCSS/blaze)
 
-- [**Base**](http://getbase.org/) -  A Rock Solid, Responsive HTML/CSS Framework  
+- [**Base**](http://getbase.org/) - Rock Solid, Responsive HTML/CSS Framework  
   ![](https://img.shields.io/github/stars/matthewhartman/base.svg?style=social&label=Star)
   [Docs](http://getbase.org/docs/),
   [Repo](https://github.com/matthewhartman/base)
