@@ -92,6 +92,11 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://getuikit.com/docs/introduction),
   [Repo](https://github.com/uikit/uikit)
 
+- [**Primer**](http://primercss.io/) - CSS framework that powers GitHub's front-end design  
+  ![](https://img.shields.io/github/stars/primer/primer-css.svg?style=social&label=Star)
+  [Docs](http://primercss.io/scaffolding/),
+  [Repo](https://github.com/primer/primer-css)
+
 - [**Blaze CSS**](http://blazecss.com/) - Open source modular CSS toolkit providing great structure for building websites quickly   
   ![](https://img.shields.io/github/stars/BlazeCSS/blaze.svg?style=social&label=Star)
   [Demo](http://blazecss.com/templates/),
