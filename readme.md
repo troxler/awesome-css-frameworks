@@ -101,6 +101,11 @@ Frameworks that are smaller than ~5KB.
   [Docs](http://primercss.io/scaffolding/),
   [Repo](https://github.com/primer/primer-css)
 
+- [**Spectre.css**](https://picturepan2.github.io/spectre/) - Lightweight, responsive and modern CSS framework  
+  ![](https://img.shields.io/github/stars/picturepan2/spectre.svg?style=social&label=Star)
+  [Docs](https://picturepan2.github.io/spectre/getting-started.html),
+  [Repo](https://github.com/picturepan2/spectre)
+
 - [**Blaze CSS**](http://blazecss.com/) - Open source modular CSS toolkit providing great structure for building websites quickly   
   ![](https://img.shields.io/github/stars/BlazeCSS/blaze.svg?style=social&label=Star)
   [Demo](http://blazecss.com/templates/),
