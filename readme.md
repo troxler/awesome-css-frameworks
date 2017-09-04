@@ -55,6 +55,10 @@ Frameworks that are smaller than ~5KB.
   [Docs](http://minicss.org/modules),
   [Repo](https://github.com/Chalarangelo/mini.css)
 
+- [**Wing**](http://usewing.ml/) - Beautiful CSS framework designed for minimalists  
+  ![](https://img.shields.io/github/stars/kbrsh/wing.svg?style=social&label=Star)
+  [Repo](https://github.com/kbrsh/wing)
+
 - [**Cutestrap**](https://www.cutestrap.com/) - Sassy, opinionated CSS Framework, a tiny alternative to Bootstrap  
   ![](https://img.shields.io/github/stars/tylerchilds/cutestrap.svg?style=social&label=Star)
   [Repo](https://github.com/tylerchilds/cutestrap)
