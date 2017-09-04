@@ -112,6 +112,11 @@ Frameworks that are smaller than ~5KB.
   [Docs](http://blazecss.com/getting-started/install/),
   [Repo](https://github.com/BlazeCSS/blaze)
 
+- [**Kube**](https://imperavi.com/kube/) - Web framework for professional developers and designers  
+  ![](https://img.shields.io/github/stars/imperavi/kube.svg?style=social&label=Star)
+  [Docs](https://imperavi.com/kube/docs/),
+  [Repo](https://github.com/imperavi/kube)
+
 - [**Base**](http://getbase.org/) - Rock Solid, Responsive HTML/CSS Framework  
   ![](https://img.shields.io/github/stars/matthewhartman/base.svg?style=social&label=Star)
   [Docs](http://getbase.org/docs/),
