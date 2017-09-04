@@ -2,7 +2,7 @@
 
 List of awesome CSS frameworks
 
-Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob/master/contributing.md).
+Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob/master/.github/CONTRIBUTING.md).
 
 
 ## Base / Reset / Normalize
