@@ -190,6 +190,11 @@ We are keeping them here for reference/inspiration and hope for a revival.
   ![](https://img.shields.io/github/stars/dropbox/scooter.svg?style=social&label=Star)
   [Repo](https://github.com/dropbox/scooter)
 
+- [**Centurion**](https://www.centurionframework.com/) - Web-based framework for rapid prototyping and building larger web projects  
+  ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social&label=Star)
+  [Docs](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
+  [Repo](https://github.com/justinhough/Centurion)
+
 
 ----
 
