@@ -186,6 +186,10 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](http://compass-style.org/help/),
   [Repo](https://github.com/Compass/compass)
 
+- [**Scooter**](http://dropbox.github.io/scooter/) - SCSS framework & UI library for Dropbox Web  
+  ![](https://img.shields.io/github/stars/dropbox/scooter.svg?style=social&label=Star)
+  [Repo](https://github.com/dropbox/scooter)
+
 
 ----
 
