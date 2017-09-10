@@ -71,10 +71,6 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/kbrsh/wing.svg?style=social&label=Star)
   [Repo](https://github.com/kbrsh/wing)
 
-- [**Cutestrap**](https://www.cutestrap.com/) - Sassy, opinionated CSS Framework, a tiny alternative to Bootstrap  
-  ![](https://img.shields.io/github/stars/tylerchilds/cutestrap.svg?style=social&label=Star)
-  [Repo](https://github.com/tylerchilds/cutestrap)
-
 
 ## General Purpose
 
@@ -201,6 +197,10 @@ We are keeping them here for reference/inspiration and hope for a revival.
 - [**Pills**](http://arkpod.in/pills/) - Simple responsive CSS Grid for humans  
   ![](https://img.shields.io/github/stars/rohitkrai03/pills.svg?style=social&label=Star)
   [Repo](https://github.com/rohitkrai03/pills)
+
+- [**Cutestrap**](https://www.cutestrap.com/) - Sassy, opinionated CSS Framework, a tiny alternative to Bootstrap  
+  ![](https://img.shields.io/github/stars/tylerchilds/cutestrap.svg?style=social&label=Star)
+  [Repo](https://github.com/tylerchilds/cutestrap)
 
 - [**unsemantic**](https://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop  
   ![](https://img.shields.io/github/stars/nathansmith/unsemantic.svg?style=social&label=Star)
