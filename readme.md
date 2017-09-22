@@ -71,6 +71,11 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/kbrsh/wing.svg?style=social&label=Star)
   [Repo](https://github.com/kbrsh/wing)
 
+- [**sakura**](https://oxal.org/projects/sakura/) - Minimal classless CSS framework/theme  
+  ![](https://img.shields.io/github/stars/oxalorg/sakura.svg?style=social&label=Star)
+  [Demo](https://oxal.org/projects/sakura/demo/),
+  [Repo](https://github.com/oxalorg/sakura)
+
 
 ## General Purpose
 
