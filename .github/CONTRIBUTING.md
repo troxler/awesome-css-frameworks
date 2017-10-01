@@ -17,7 +17,7 @@
 * Create a pull request
 
 ```
-- [**TODO**](TODO) - TODO  
+- [**TODO**](TODO) - TODO.  
   ![](https://img.shields.io/github/stars/TODO/TODO.svg?style=social&label=Star)
   [Demo](TODO),
   [Docs](TODO),
