@@ -5,7 +5,7 @@ List of awesome CSS frameworks
 Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob/master/.github/CONTRIBUTING.md).
 
 <details>
-  <summary><strong>Table of Contents</strong></summary>
+  <summary><strong>Contents</strong></summary>
 
 * [Base / Reset / Normalize](#base--reset--normalize)
 * [Very Lightweight](#very-lightweight)
