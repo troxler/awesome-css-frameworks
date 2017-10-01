@@ -57,7 +57,7 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://picnicss.com/documentation),
   [Repo](https://github.com/franciscop/picnic)
 
-- [**Mobi.css**](http://getmobicss.com/) - Lightweight, scalable, mobile-first css framework.  
+- [**Mobi.css**](http://getmobicss.com/) - Lightweight, scalable, mobile-first CSS framework.  
   ![](https://img.shields.io/github/stars/mobi-css/mobi.css.svg?style=social&label=Star)
   [Docs](http://getmobicss.com/docs/introduction.html),
   [Repo](https://github.com/mobi-css/mobi.css)
@@ -114,7 +114,7 @@ Frameworks that are smaller than ~5KB.
   [Docs](http://primercss.io/scaffolding/),
   [Repo](https://github.com/primer/primer-css)
 
-- [**Tachyons**](http://tachyons.io/) - Quickly build and design new UI without writing css.  
+- [**Tachyons**](http://tachyons.io/) - Quickly build and design new UI without writing CSS.  
   ![](https://img.shields.io/github/stars/tachyons-css/tachyons.svg?style=social&label=Star)
   [Demo](http://tachyons.io/gallery/),
   [Docs](http://tachyons.io/docs/),
