@@ -11,7 +11,7 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 * [Very Lightweight](#very-lightweight)
 * [General Purpose](#general-purpose)
 * [Material Design](#material-design)
-* [Components](#components)
+* [Specialized](#specialized)
 * [Stalled Development](#stalled-development)
 
 </details>
@@ -170,7 +170,7 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/muicss/mui)
 
 
-## Components
+## Specialized
 
 ### Grids
 
