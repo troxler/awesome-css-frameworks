@@ -76,6 +76,11 @@ Frameworks that are smaller than ~5KB.
   [Demo](https://oxal.org/projects/sakura/demo/),
   [Repo](https://github.com/oxalorg/sakura)
 
+- [**Skeleton**](http://getskeleton.com/) - A dead simple, responsive boilerplate/CSS framework.  
+  ![](https://img.shields.io/github/stars/dhg/Skeleton.svg?style=social&label=Star)
+  [Demo](http://getskeleton.com/examples/landing/),
+  [Docs](http://getskeleton.com/),
+  [Repo](https://github.com/dhg/Skeleton)
 
 ## General Purpose
 
