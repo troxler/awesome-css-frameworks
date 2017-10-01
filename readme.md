@@ -172,12 +172,6 @@ Frameworks that are smaller than ~5KB.
 
 ## Specialized
 
-### Grids
-
-- [**Flexbox Grid**](http://flexboxgrid.com/) - Grid based on CSS3 flexbox  
-  ![](https://img.shields.io/github/stars/kristoferjoseph/flexboxgrid.svg?style=social&label=Star)
-  [Repo](https://github.com/kristoferjoseph/flexboxgrid)
-
 
 ## Stalled Development
 
@@ -197,6 +191,10 @@ We are keeping them here for reference/inspiration and hope for a revival.
   ![](https://img.shields.io/github/stars/Compass/compass.svg?style=social&label=Star)
   [Docs](http://compass-style.org/help/),
   [Repo](https://github.com/Compass/compass)
+
+- [**Flexbox Grid**](http://flexboxgrid.com/) - Grid based on CSS3 flexbox  
+  ![](https://img.shields.io/github/stars/kristoferjoseph/flexboxgrid.svg?style=social&label=Star)
+  [Repo](https://github.com/kristoferjoseph/flexboxgrid)
 
 - [**Basscss**](http://basscss.com/) - Low-level CSS Toolkit  
   ![](https://img.shields.io/github/stars/basscss/basscss.svg?style=social&label=Star)
