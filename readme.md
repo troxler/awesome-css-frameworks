@@ -184,6 +184,9 @@ Frameworks that are smaller than ~5KB.
 Frameworks that have not seen any real development for more than about one year.
 We are keeping them here for reference/inspiration and hope for a revival.
 
+<details>
+  <summary><strong>Show Section</strong></summary>
+
 - [**Skeleton**](http://getskeleton.com/) - Dead simple, responsive boilerplate  
   ![](https://img.shields.io/github/stars/dhg/Skeleton.svg?style=social&label=Star)
   [Demo](http://getskeleton.com/#examples),
@@ -222,6 +225,7 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
   [Repo](https://github.com/justinhough/Centurion)
 
+</details>
 
 ----
 
