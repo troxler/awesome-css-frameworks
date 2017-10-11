@@ -184,7 +184,7 @@ Frameworks that are smaller than ~5KB.
 
 ## Stalled Development
 
-Frameworks that have not seen any real development for more than about one year.
+Frameworks that have not seen any real development for more than about one year or officially have been deprecated.
 We are keeping them here for reference/inspiration and hope for a revival.
 
 <details>
