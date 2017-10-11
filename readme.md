@@ -150,14 +150,6 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://material.io/components/web/docs/),
   [Repo](https://github.com/material-components/material-components-web)
 
-- [**Material Design Lite**](https://getmdl.io/) - Material Design Components in HTML/CSS/JS.  
-  ![](https://img.shields.io/github/stars/google/material-design-lite.svg?style=social&label=Star)
-  [Demo](https://getmdl.io/showcase/index.html),
-  [Docs](https://getmdl.io/started/index.html),
-  [Repo](https://github.com/google/material-design-lite)
-
-### Unofficial Implementations
-
 - [**Materialize**](http://materializecss.com/) - CSS Framework based on material design.  
   ![](https://img.shields.io/github/stars/Dogfalo/materialize.svg?style=social&label=Star)
   [Demo](http://materializecss.com/showcase.html),
@@ -189,6 +181,12 @@ We are keeping them here for reference/inspiration and hope for a revival.
 
 <details>
   <summary><strong>Show Section</strong></summary>
+
+- [**Material Design Lite**](https://getmdl.io/) - Material Design Components in HTML/CSS/JS.  
+  ![](https://img.shields.io/github/stars/google/material-design-lite.svg?style=social&label=Star)
+  [Demo](https://getmdl.io/showcase/index.html),
+  [Docs](https://getmdl.io/started/index.html),
+  [Repo](https://github.com/google/material-design-lite)
 
 - [**Skeleton**](http://getskeleton.com/) - Dead simple, responsive boilerplate.  
   ![](https://img.shields.io/github/stars/dhg/Skeleton.svg?style=social&label=Star)
