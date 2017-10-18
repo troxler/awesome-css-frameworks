@@ -75,6 +75,10 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/oxalorg/sakura.svg?style=social&label=Star)
   [Demo](https://oxal.org/projects/sakura/demo/),
   [Repo](https://github.com/oxalorg/sakura)
+  
+- [**Tacit**](https://yegor256.github.io/tacit/) - CSS framework for dummies, without classes.  
+  ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social&label=Star)
+  [Repo](https://github.com/yegor256/tacit/)
 
 
 ## General Purpose
