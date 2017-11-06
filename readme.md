@@ -172,6 +172,10 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/BafS/Gutenberg.svg?style=social&label=Star)
   [Demo](http://bafs.github.io/Gutenberg/)
 
+- [**Tufte CSS**](https://edwardtufte.github.io/tufte-css/) - Style your webpage like Edward Tufte’s handouts.  
+  ![](https://img.shields.io/github/stars/edwardtufte/tufte-css.svg?style=social&label=Star)
+  [Repo](https://github.com/edwardtufte/tufte-css)
+
 - [**Bojler**](http://bojler.slicejack.com/) - Email framework for developing responsive and lightweight email templates.  
   ![](https://img.shields.io/github/stars/Slicejack/bojler.svg?style=social&label=Star)
   [Docs](http://bojler.slicejack.com/getting-started/),
