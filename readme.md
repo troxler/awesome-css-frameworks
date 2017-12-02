@@ -180,6 +180,11 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/edwardtufte/tufte-css.svg?style=social&label=Star)
   [Repo](https://github.com/edwardtufte/tufte-css)
 
+- [**Tailwind CSS**](https://tailwindcss.com/) - A utility-first CSS framework for rapid UI development.  
+  ![](https://img.shields.io/github/stars/tailwindcss/tailwindcss.svg?style=social&label=Star)
+  [Docs](https://tailwindcss.com/docs/what-is-tailwind/),
+  [Repo](https://github.com/tailwindcss/tailwindcss)
+
 - [**Bojler**](http://bojler.slicejack.com/) - Email framework for developing responsive and lightweight email templates.  
   ![](https://img.shields.io/github/stars/Slicejack/bojler.svg?style=social&label=Star)
   [Docs](http://bojler.slicejack.com/getting-started/),
