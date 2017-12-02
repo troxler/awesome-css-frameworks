@@ -80,6 +80,10 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social&label=Star)
   [Repo](https://github.com/yegor256/tacit/)
 
+- [**Chota**](https://jenil.github.io/chota/) - A really small CSS framework.  
+  ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social&label=Star)
+  [Repo](https://github.com/jenil/chota)
+
 
 ## General Purpose
 
