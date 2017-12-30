@@ -149,6 +149,11 @@ Frameworks that are smaller than ~5KB.
   [Docs](http://getbase.org/docs/),
   [Repo](https://github.com/matthewhartman/base)
 
+- [**Concise CSS**](http://concisecss.com/) - Give up the bloat. Stop tripping over your classes. Be Concise.  
+  ![](https://img.shields.io/github/stars/ConciseCSS/concise.css.svg?style=social&label=Star)
+  [Docs](http://concisecss.com/documentation/),
+  [Repo](https://github.com/ConciseCSS/concise.css)
+
 
 ## Material Design
 
