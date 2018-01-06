@@ -83,6 +83,11 @@ Frameworks that are smaller than ~5KB.
 - [**Chota**](https://jenil.github.io/chota/) - A really small CSS framework.  
   ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social&label=Star)
   [Repo](https://github.com/jenil/chota)
+  
+- [**lit**](https://ajusa.github.io/lit/) - World's smallest responsive CSS framework.  
+  ![](https://img.shields.io/github/stars/ajusa/lit.svg?style=social&label=Star)
+  [Docs](https://ajusa.github.io/lit/)
+  [Repo](https://github.com/ajusa/lit)
 
 
 ## General Purpose
