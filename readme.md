@@ -67,14 +67,14 @@ Frameworks that are smaller than ~5KB.
   [Docs](http://minicss.org/modules),
   [Repo](https://github.com/Chalarangelo/mini.css)
 
-- [**Wing**](http://usewing.ml/) - Beautiful CSS framework designed for minimalists.  
-  ![](https://img.shields.io/github/stars/kbrsh/wing.svg?style=social&label=Star)
-  [Repo](https://github.com/kbrsh/wing)
-
 - [**sakura**](https://oxal.org/projects/sakura/) - Minimal classless CSS framework/theme.  
   ![](https://img.shields.io/github/stars/oxalorg/sakura.svg?style=social&label=Star)
   [Demo](https://oxal.org/projects/sakura/demo/),
   [Repo](https://github.com/oxalorg/sakura)
+
+- [**Wing**](http://usewing.ml/) - Beautiful CSS framework designed for minimalists.  
+  ![](https://img.shields.io/github/stars/kbrsh/wing.svg?style=social&label=Star)
+  [Repo](https://github.com/kbrsh/wing)
 
 - [**Tacit**](https://yegor256.github.io/tacit/) - CSS framework for dummies, without classes.  
   ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social&label=Star)
@@ -177,6 +177,11 @@ Frameworks that are smaller than ~5KB.
 
 ## Specialized
 
+- [**Tailwind CSS**](https://tailwindcss.com/) - A utility-first CSS framework for rapid UI development.  
+  ![](https://img.shields.io/github/stars/tailwindcss/tailwindcss.svg?style=social&label=Star)
+  [Docs](https://tailwindcss.com/docs/what-is-tailwind/),
+  [Repo](https://github.com/tailwindcss/tailwindcss)
+
 - [**Gutenberg**](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.  
   ![](https://img.shields.io/github/stars/BafS/Gutenberg.svg?style=social&label=Star)
   [Demo](http://bafs.github.io/Gutenberg/)
@@ -184,11 +189,6 @@ Frameworks that are smaller than ~5KB.
 - [**Tufte CSS**](https://edwardtufte.github.io/tufte-css/) - Style your webpage like Edward Tufte’s handouts.  
   ![](https://img.shields.io/github/stars/edwardtufte/tufte-css.svg?style=social&label=Star)
   [Repo](https://github.com/edwardtufte/tufte-css)
-
-- [**Tailwind CSS**](https://tailwindcss.com/) - A utility-first CSS framework for rapid UI development.  
-  ![](https://img.shields.io/github/stars/tailwindcss/tailwindcss.svg?style=social&label=Star)
-  [Docs](https://tailwindcss.com/docs/what-is-tailwind/),
-  [Repo](https://github.com/tailwindcss/tailwindcss)
 
 - [**Bojler**](http://bojler.slicejack.com/) - Email framework for developing responsive and lightweight email templates.  
   ![](https://img.shields.io/github/stars/Slicejack/bojler.svg?style=social&label=Star)
