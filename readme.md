@@ -179,6 +179,11 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://www.muicss.com/docs/v1/getting-started/introduction),
   [Repo](https://github.com/muicss/mui)
 
+- [**Propeller**](https://propeller.in/) - Front-end responsive framework based on Google's Material Design Standards & Bootstrap.  
+  ![](https://img.shields.io/github/stars/digicorp/propeller.svg?style=social&label=Star)
+  [Docs](https://propeller.in/get-started/),
+  [Repo](https://github.com/digicorp/propeller)
+
 
 ## Specialized
 
