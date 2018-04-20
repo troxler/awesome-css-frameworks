@@ -159,7 +159,7 @@ Frameworks that are smaller than ~5KB.
   [Docs](http://responsivebp.com/getting-started/),
   [Repo](https://github.com/responsivebp/responsive)
   
-- [**Turret CSS**](http://turretcss.com/) - Developed for design, turretcss is a styles and browser behaviour normalisation framework for rapid development of responsive and accessible websites.
+- [**turretcss**](http://turretcss.com/) - Responsive Front-end Framework for Accessible and Semantic Websites.  
   ![](https://img.shields.io/github/stars/turretcss/turretcss.svg?style=social&label=Star)
   [Demo](http://turretcss.com/docs/demo/),
   [Docs](http://turretcss.com/docs/getting-started/),
