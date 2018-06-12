@@ -211,6 +211,11 @@ Frameworks that are smaller than ~5KB.
   [Docs](http://bojler.slicejack.com/getting-started/),
   [Repo](https://github.com/Slicejack/bojler)
 
+- [**Strawberry**](https://github.com/jfet97/strawberry) - A set of common flexbox's utilities focused on making your life easier and faster with nested flexboxes.  
+  ![](https://img.shields.io/github/stars/jfet97/strawberry.svg?style=social&label=Star)
+  [repo](https://github.com/jfet97/strawberry),
+  [wiki](https://github.com/jfet97/strawberry/wiki),
+  [website](https://jfet97.github.io/strawberry/)
 
 ## Stalled Development
 
