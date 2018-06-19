@@ -72,7 +72,7 @@ Frameworks that are smaller than ~5KB.
   [Demo](https://oxal.org/projects/sakura/demo/),
   [Repo](https://github.com/oxalorg/sakura)
 
-- [**Wing**](http://usewing.ml/) - Beautiful CSS framework designed for minimalists.  
+- [**Wing**](https://kbrsh.github.io/wing/) - Beautiful CSS framework designed for minimalists.  
   ![](https://img.shields.io/github/stars/kbrsh/wing.svg?style=social&label=Star)
   [Repo](https://github.com/kbrsh/wing)
 
