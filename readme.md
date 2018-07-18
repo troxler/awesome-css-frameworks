@@ -23,7 +23,7 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   ![](https://img.shields.io/github/stars/necolas/normalize.css.svg?style=social&label=Star)
   [Repo](https://github.com/necolas/normalize.css/)
 
-- [**sanitize.css**](https://jonathantneal.github.io/sanitize.css/) - The best-practices CSS foundation.  
+- [**sanitize.css**](https://csstools.github.io/sanitize.css/) - The best-practices CSS foundation.  
   ![](https://img.shields.io/github/stars/jonathantneal/sanitize.css.svg?style=social&label=Star)
   [Repo](https://github.com/jonathantneal/sanitize.css)
 
@@ -34,6 +34,10 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 - [**minireset.css**](http://jgthms.com/minireset.css/) - Tiny modern CSS reset.  
   ![](https://img.shields.io/github/stars/jgthms/minireset.css.svg?style=social&label=Star)
   [Repo](https://github.com/jgthms/minireset.css)
+  
+- [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) - Modernized Normalize.  
+  ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize.svg?style=social&label=Star)
+  [Repo](https://github.com/sindresorhus/modern-normalize)
 
 
 ## Very Lightweight
