@@ -133,11 +133,11 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://picturepan2.github.io/spectre/getting-started.html),
   [Repo](https://github.com/picturepan2/spectre)
 
-- [**Blaze CSS**](http://blazecss.com/) - Open source modular CSS toolkit providing great structure for building websites quickly.  
-  ![](https://img.shields.io/github/stars/BlazeCSS/blaze.svg?style=social&label=Star)
-  [Demo](http://blazecss.com/templates/),
-  [Docs](http://blazecss.com/getting-started/install/),
-  [Repo](https://github.com/BlazeCSS/blaze)
+- [**Blaze UI**](https://www.blazeui.com/) - Blaze is an open source modular toolkit providing great structure for building websites quickly with a scalable and maintainable foundation.  
+  ![](https://img.shields.io/github/stars/BlazeUI/blaze.svg?style=social&label=Star)
+  [Demo](https://www.blazeui.com/components/buttons/),
+  [Docs](https://www.blazeui.com/getting-started/install),
+  [Repo](https://github.com/BlazeUI/blaze)
 
 - [**Kube**](https://imperavi.com/kube/) - Web framework for professional developers and designers.  
   ![](https://img.shields.io/github/stars/imperavi/kube.svg?style=social&label=Star)
