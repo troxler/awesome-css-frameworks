@@ -133,7 +133,7 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://picturepan2.github.io/spectre/getting-started.html),
   [Repo](https://github.com/picturepan2/spectre)
 
-- [**Blaze UI**](https://www.blazeui.com/) - Blaze is an open source modular toolkit providing great structure for building websites quickly with a scalable and maintainable foundation.  
+- [**Blaze UI**](https://www.blazeui.com/) - Open source modular toolkit providing great structure for building websites quickly with a scalable and maintainable foundation.  
   ![](https://img.shields.io/github/stars/BlazeUI/blaze.svg?style=social&label=Star)
   [Demo](https://www.blazeui.com/components/buttons/),
   [Docs](https://www.blazeui.com/getting-started/install),
