@@ -35,7 +35,7 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   ![](https://img.shields.io/github/stars/jgthms/minireset.css.svg?style=social&label=Star)
   [Repo](https://github.com/jgthms/minireset.css)
   
-- [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) - Modernized Normalize.  
+- [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) - Normalize for Chrome, Firefox, and Safari only (no support for Edge or Internet Explorer).  
   ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize.svg?style=social&label=Star)
   [Repo](https://github.com/sindresorhus/modern-normalize)
 
