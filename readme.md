@@ -24,8 +24,8 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   [Repo](https://github.com/necolas/normalize.css/)
 
 - [**sanitize.css**](https://csstools.github.io/sanitize.css/) - The best-practices CSS foundation.  
-  ![](https://img.shields.io/github/stars/jonathantneal/sanitize.css.svg?style=social&label=Star)
-  [Repo](https://github.com/jonathantneal/sanitize.css)
+  ![](https://img.shields.io/github/stars/csstools/sanitize.css.svg?style=social&label=Star)
+  [Repo](https://github.com/csstools/sanitize.css)
 
 - [**inuitcss**](https://github.com/inuitcss/inuitcss) - Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.  
   ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social&label=Star)
