@@ -84,7 +84,7 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social&label=Star)
   [Repo](https://github.com/yegor256/tacit/)
 
-- [**Chota**](https://jenil.github.io/chota/) - A really small CSS framework.  
+- [**Chota**](https://jenil.github.io/chota/) - Really small CSS framework.  
   ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social&label=Star)
   [Repo](https://github.com/jenil/chota)
 
@@ -98,7 +98,7 @@ Frameworks that are smaller than ~5KB.
   [Themes](https://github.com/therebelrobot/awesome-bootstrap),
   [Repo](https://github.com/twbs/bootstrap)
 
-- [**Semantic UI**](https://semantic-ui.com) - User Interface is the language of the web.  
+- [**Semantic UI**](https://semantic-ui.com) - User interface is the language of the web.  
   ![](https://img.shields.io/github/stars/semantic-org/semantic-ui.svg?style=social&label=Star)
   [Docs](https://semantic-ui.com/introduction/getting-started.html),
   [Repo](https://github.com/semantic-org/semantic-ui)
@@ -148,12 +148,12 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://imperavi.com/kube/docs/),
   [Repo](https://github.com/imperavi/kube)
 
-- [**Base**](http://getbase.org) - Rock Solid, Responsive HTML/CSS Framework.  
+- [**Base**](http://getbase.org) - Rock solid, responsive HTML/CSS framework.  
   ![](https://img.shields.io/github/stars/matthewhartman/base.svg?style=social&label=Star)
   [Docs](http://getbase.org/docs/),
   [Repo](https://github.com/matthewhartman/base)
 
-- [**Concise CSS**](http://concisecss.com) - Give up the bloat. Stop tripping over your classes. Be Concise.  
+- [**Concise CSS**](http://concisecss.com) - Give up the bloat. Stop tripping over your classes. Be concise.  
   ![](https://img.shields.io/github/stars/ConciseCSS/concise.css.svg?style=social&label=Star)
   [Docs](http://concisecss.com/documentation/),
   [Repo](https://github.com/ConciseCSS/concise.css)
@@ -163,7 +163,7 @@ Frameworks that are smaller than ~5KB.
   [Docs](http://responsivebp.com/getting-started/),
   [Repo](https://github.com/responsivebp/responsive)
   
-- [**turretcss**](http://turretcss.com) - Responsive Front-end Framework for Accessible and Semantic Websites.  
+- [**turretcss**](http://turretcss.com) - Responsive front-end framework for accessible and semantic websites.  
   ![](https://img.shields.io/github/stars/turretcss/turretcss.svg?style=social&label=Star)
   [Demo](http://turretcss.com/docs/demo/),
   [Docs](http://turretcss.com/docs/getting-started/),
@@ -178,7 +178,7 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://material.io/components/web/docs/),
   [Repo](https://github.com/material-components/material-components-web)
 
-- [**Materialize**](http://materializecss.com) - CSS Framework based on material design.  
+- [**Materialize**](http://materializecss.com) - CSS framework based on material design.  
   ![](https://img.shields.io/github/stars/Dogfalo/materialize.svg?style=social&label=Star)
   [Demo](http://materializecss.com/showcase.html),
   [Docs](http://materializecss.com/getting-started.html),
@@ -189,7 +189,7 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://www.muicss.com/docs/v1/getting-started/introduction),
   [Repo](https://github.com/muicss/mui)
 
-- [**Propeller**](https://propeller.in) - Front-end responsive framework based on Google's Material Design Standards & Bootstrap.  
+- [**Propeller**](https://propeller.in) - Front-end responsive framework based on Google's Material Design standards & Bootstrap.  
   ![](https://img.shields.io/github/stars/digicorp/propeller.svg?style=social&label=Star)
   [Docs](https://propeller.in/get-started/),
   [Repo](https://github.com/digicorp/propeller)
@@ -197,7 +197,7 @@ Frameworks that are smaller than ~5KB.
 
 ## Specialized
 
-- [**Tailwind CSS**](https://tailwindcss.com) - A utility-first CSS framework for rapid UI development.  
+- [**Tailwind CSS**](https://tailwindcss.com) - Utility-first CSS framework for rapid UI development.  
   ![](https://img.shields.io/github/stars/tailwindcss/tailwindcss.svg?style=social&label=Star)
   [Docs](https://tailwindcss.com/docs/what-is-tailwind/),
   [Repo](https://github.com/tailwindcss/tailwindcss)
@@ -224,7 +224,7 @@ We are keeping them here for reference/inspiration and hope for a revival.
 <details>
   <summary><strong>Show Section</strong></summary>
 
-- [**Material Design Lite**](https://getmdl.io) - Material Design Components in HTML/CSS/JS.  
+- [**Material Design Lite**](https://getmdl.io) - Material Design components in HTML/CSS/JS.  
   ![](https://img.shields.io/github/stars/google/material-design-lite.svg?style=social&label=Star)
   [Demo](https://getmdl.io/showcase/index.html),
   [Docs](https://getmdl.io/started/index.html),
@@ -236,7 +236,7 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](http://getskeleton.com/#grid),
   [Repo](https://github.com/dhg/Skeleton/)
 
-- [**Compass**](http://compass-style.org) - Open-source CSS Authoring Framework.  
+- [**Compass**](http://compass-style.org) - Open-source CSS authoring framework.  
   ![](https://img.shields.io/github/stars/Compass/compass.svg?style=social&label=Star)
   [Docs](http://compass-style.org/help/),
   [Repo](https://github.com/Compass/compass)
@@ -245,7 +245,7 @@ We are keeping them here for reference/inspiration and hope for a revival.
   ![](https://img.shields.io/github/stars/kristoferjoseph/flexboxgrid.svg?style=social&label=Star)
   [Repo](https://github.com/kristoferjoseph/flexboxgrid)
 
-- [**Basscss**](http://basscss.com) - Low-level CSS Toolkit.  
+- [**Basscss**](http://basscss.com) - Low-level CSS toolkit.  
   ![](https://img.shields.io/github/stars/basscss/basscss.svg?style=social&label=Star)
   [Repo](https://github.com/basscss/basscss/)
 
@@ -253,7 +253,7 @@ We are keeping them here for reference/inspiration and hope for a revival.
   ![](https://img.shields.io/github/stars/rohitkrai03/pills.svg?style=social&label=Star)
   [Repo](https://github.com/rohitkrai03/pills)
 
-- [**Cutestrap**](https://www.cutestrap.com) - Sassy, opinionated CSS Framework, a tiny alternative to Bootstrap.  
+- [**Cutestrap**](https://www.cutestrap.com) - Sassy, opinionated CSS framework, a tiny alternative to Bootstrap.  
   ![](https://img.shields.io/github/stars/tylerchilds/cutestrap.svg?style=social&label=Star)
   [Repo](https://github.com/tylerchilds/cutestrap)
 
@@ -263,7 +263,7 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://unsemantic.com/css-documentation),
   [Repo](https://github.com/nathansmith/unsemantic)
 
-- [**Scooter**](http://dropbox.github.io/scooter/) - SCSS framework & UI library for Dropbox Web.  
+- [**Scooter**](http://dropbox.github.io/scooter/) - SCSS framework & UI library for Dropbox web.  
   ![](https://img.shields.io/github/stars/dropbox/scooter.svg?style=social&label=Star)
   [Repo](https://github.com/dropbox/scooter)
 
