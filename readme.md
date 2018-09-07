@@ -22,6 +22,7 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 - [**normalize.css**](http://necolas.github.io/normalize.css/) - Modern, HTML5-ready alternative to CSS resets.  
   ![](https://img.shields.io/github/stars/necolas/normalize.css.svg?style=social&label=Star)
   [Repo](https://github.com/necolas/normalize.css/)
+  | #CSS
 
 - [**sanitize.css**](https://csstools.github.io/sanitize.css/) - The best-practices CSS foundation.  
   ![](https://img.shields.io/github/stars/csstools/sanitize.css.svg?style=social&label=Star)
@@ -49,6 +50,7 @@ Frameworks that are smaller than ~5KB.
   [Demo](https://purecss.io/layouts/),
   [Docs](https://purecss.io/start/),
   [Repo](https://github.com/yahoo/pure/)
+  | #CSS
 
 - [**Milligram**](http://milligram.io) - Minimalist CSS framework.  
   ![](https://img.shields.io/github/stars/milligram/milligram.svg?style=social&label=Star)
@@ -97,6 +99,7 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://getbootstrap.com/docs/4.0/),
   [Themes](https://github.com/therebelrobot/awesome-bootstrap),
   [Repo](https://github.com/twbs/bootstrap)
+  | #SCSS
 
 - [**Semantic UI**](https://semantic-ui.com) - User interface is the language of the web.  
   ![](https://img.shields.io/github/stars/semantic-org/semantic-ui.svg?style=social&label=Star)
@@ -177,6 +180,7 @@ Frameworks that are smaller than ~5KB.
   [Demo](https://material.io/components/web/catalog/),
   [Docs](https://material.io/components/web/docs/),
   [Repo](https://github.com/material-components/material-components-web)
+  | #SCSS
 
 - [**Materialize**](http://materializecss.com) - CSS framework based on material design.  
   ![](https://img.shields.io/github/stars/Dogfalo/materialize.svg?style=social&label=Star)
@@ -201,6 +205,7 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/tailwindcss/tailwindcss.svg?style=social&label=Star)
   [Docs](https://tailwindcss.com/docs/what-is-tailwind/),
   [Repo](https://github.com/tailwindcss/tailwindcss)
+  | #CSS
 
 - [**Gutenberg**](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.  
   ![](https://img.shields.io/github/stars/BafS/Gutenberg.svg?style=social&label=Star)
