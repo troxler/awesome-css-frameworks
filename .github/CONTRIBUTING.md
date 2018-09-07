@@ -22,8 +22,10 @@
   [Demo](TODO),
   [Docs](TODO),
   [Repo](TODO)
+  | #TODO
 ```
 
 Note that there are two whitespaces after the first line to enforce a line break.
 
 Adding links to the demo or documentation is optional, but you should add them if they are explicitly provided by the framework.
+The last line is used to add information about what CSS preprocessors (if any) are used by the framework. For example, if something only uses CSS, add `#CSS`. If a framework uses CSS, SASS, and Stylus, add `#CSS #SASS #Stylus`.
