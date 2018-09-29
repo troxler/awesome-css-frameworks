@@ -197,6 +197,12 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/turretcss/turretcss)
   | #CSS
 
+- [**HiQ**](https://jonathanharrell.github.io/hiq/) - Simple CSS foundation with responsive typography and input styling.  
+  ![](https://img.shields.io/github/stars/jonathanharrell/hiq.svg?style=social&label=Star)
+  [Docs](https://jonathanharrell.github.io/hiq/guide/),
+  [Repo](https://github.com/jonathanharrell/hiq/)
+  | #PostCSS
+
 
 ## Material Design
 
