@@ -178,8 +178,9 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/matthewhartman/base)
   | #SCSS #LESS
 
-- [**Carbon Components**](http://www.carbondesignsystem.com/) The component library behind IBM's Carbon Design System.  
+- [**Carbon Components**](http://www.carbondesignsystem.com/) - Component library behind IBM's Carbon Design System.  
   ![](https://img.shields.io/github/stars/IBM/carbon-components.svg?style=social&label=Star)
+  [Docs](http://www.carbondesignsystem.com/components/overview),
   [Repo](https://github.com/IBM/carbon-components)
   | #SCSS
 
