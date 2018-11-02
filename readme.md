@@ -219,6 +219,14 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/material-components/material-components-web)
   | #SCSS
 
+- [**Material Design Lite**](https://getmdl.io/components/index.html) - Material Design Components in HTML/CSS/JS   
+  ![](https://img.shields.io/github/stars/google/material-design-lite.svg?style=social&label=Star)
+  [Demo](https://getmdl.io/showcase/index.html)
+  [Docs](https://getmdl.io/)
+  [Repo](https://github.com/google/material-design-lite)
+  | #CSS
+
+
 - [**Materialize**](http://materializecss.com) - CSS framework based on material design.  
   ![](https://img.shields.io/github/stars/Dogfalo/materialize.svg?style=social&label=Star)
   [Demo](http://materializecss.com/showcase.html),
