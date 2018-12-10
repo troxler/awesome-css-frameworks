@@ -1,4 +1,4 @@
-# Awesome CSS Frameworks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome CSS Frameworks
 
 List of awesome CSS frameworks.
 
