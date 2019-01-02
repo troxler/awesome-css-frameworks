@@ -91,6 +91,12 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/kbrsh/wing.svg?style=social&label=Star)
   [Repo](https://github.com/kbrsh/wing)
   | #Stylus
+  
+- [**Marx**](https://mblode.github.io/marx/) - Classless CSS reset.  
+  ![](https://img.shields.io/github/stars/mblode/marx.svg?style=social&label=Star)
+  [Docs](https://mblode.github.io/marx/documentation/),
+  [Repo](https://github.com/mblode/marx)
+  | #SCSS #Stylus
 
 - [**Tacit**](https://yegor256.github.io/tacit/) - CSS framework for dummies, without classes.  
   ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social&label=Star)
@@ -101,13 +107,6 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social&label=Star)
   [Repo](https://github.com/jenil/chota)
   | #CSS
-  
-- [**Marx**](https://mblode.github.io/marx/) - The classless CSS reset.  
-  ![](https://img.shields.io/github/stars/mblode/marx.svg?style=social&label=Star)
-  [Demo](http://codepen.io/mblode/details/JdYbJj),
-  [Docs](https://mblode.github.io/marx/documentation/),
-  [Repo](https://github.com/mblode/marx)
-  | #SCSS
 
 
 ## General Purpose
