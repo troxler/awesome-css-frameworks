@@ -101,6 +101,11 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social&label=Star)
   [Repo](https://github.com/jenil/chota)
   | #CSS
+  
+- [**awsm.css**](https://igoradamenko.github.io/awsm.css) - It makes your HTML beautiful.  
+  ![](https://img.shields.io/github/stars/igoradamenko/awsm.css.svg?style=social&label=Star)
+  [Repo](https://github.com/igoradamenko/awsm.css)
+  | #CSS
 
 
 ## General Purpose
