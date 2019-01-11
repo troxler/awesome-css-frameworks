@@ -12,6 +12,7 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 - [General Purpose](#general-purpose)
 - [Material Design](#material-design)
 - [Specialized](#specialized)
+- [Toolkits](#toolkits)
 - [Stalled Development](#stalled-development)
 
 </details>
@@ -268,6 +269,26 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/Slicejack/bojler.svg?style=social&label=Star)
   [Docs](http://bojler.slicejack.com/getting-started/),
   [Repo](https://github.com/Slicejack/bojler)
+  | #SCSS
+
+
+## Toolkits
+
+Toolkits are closer to a library than to a framework.
+They do not provide actual styling but utilities (e.g. mixins) that you can use in your CSS preprocessor.
+
+- [**Bourbon**](https://www.bourbon.io/) - Lightweight Sass tool set.  
+  ![](https://img.shields.io/github/stars/thoughtbot/bourbon.svg?style=social&label=Star)
+  [Docs](https://www.bourbon.io/docs/latest/),
+  [Repo](https://github.com/thoughtbot/bourbon/),
+  [Scaffold](http://bitters.bourbon.io/)
+  | #SCSS
+
+- [**Neat**](https://neat.bourbon.io/) - Lightweight and flexible Sass grid.  
+  ![](https://img.shields.io/github/stars/thoughtbot/neat.svg?style=social&label=Star)
+  [Demo](https://neat.bourbon.io/examples/),
+  [Docs](https://neat.bourbon.io/docs/latest/),
+  [Repo](https://github.com/thoughtbot/neat)
   | #SCSS
 
 
