@@ -4,9 +4,7 @@ List of awesome CSS frameworks.
 
 Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob/master/.github/CONTRIBUTING.md).
 
-<details>
-  <summary><strong>Contents</strong></summary>
-
+<strong>Contents</strong>
 - [Base / Reset / Normalize](#base--reset--normalize)
 - [Very Lightweight](#very-lightweight)
 - [General Purpose](#general-purpose)
@@ -14,8 +12,6 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 - [Specialized](#specialized)
 - [Toolkits](#toolkits)
 - [Stalled Development](#stalled-development)
-
-</details>
 
 
 ## Base / Reset / Normalize
