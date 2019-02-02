@@ -99,6 +99,12 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social&label=Star)
   [Repo](https://github.com/yegor256/tacit/)
   | #SCSS
+  
+- [**awsm.css**](https://igoradamenko.github.io/awsm.css) - CSS library for semantic HTML markup without classes, attributes, etc.  
+  ![](https://img.shields.io/github/stars/igoradamenko/awsm.css.svg?style=social&label=Star)
+  [Demo](https://igoradamenko.github.io/awsm.css/),
+  [Repo](https://github.com/igoradamenko/awsm.css)
+  | #SCSS
 
 - [**Chota**](https://jenil.github.io/chota/) - Really small CSS framework.  
   ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social&label=Star)
