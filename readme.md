@@ -72,12 +72,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/Chalarangelo/mini.css)
   | #SCSS
 
-- [**Mobi.css**](http://getmobicss.com) - Lightweight, scalable, mobile-first CSS framework.  
-  ![](https://img.shields.io/github/stars/mobi-css/mobi.css.svg?style=social&label=Star)
-  [Docs](http://getmobicss.com/docs/introduction.html),
-  [Repo](https://github.com/mobi-css/mobi.css)
-  | #CSS
-
 - [**sakura**](https://oxal.org/projects/sakura/) - Minimal classless CSS framework/theme.  
   ![](https://img.shields.io/github/stars/oxalorg/sakura.svg?style=social&label=Star)
   [Demo](https://oxal.org/projects/sakura/demo/),
@@ -176,12 +170,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/BlazeUI/blaze)
   | #SCSS
 
-- [**Kube**](https://imperavi.com/kube/) - Web framework for professional developers and designers.  
-  ![](https://img.shields.io/github/stars/imperavi/kube.svg?style=social&label=Star)
-  [Docs](https://imperavi.com/kube/docs/),
-  [Repo](https://github.com/imperavi/kube)
-  | #SCSS
-
 - [**Base**](http://getbase.org) - Rock solid, responsive HTML/CSS framework.  
   ![](https://img.shields.io/github/stars/matthewhartman/base.svg?style=social&label=Star)
   [Docs](http://getbase.org/docs/),
@@ -192,18 +180,6 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/IBM/carbon-components.svg?style=social&label=Star)
   [Docs](http://www.carbondesignsystem.com/components/overview),
   [Repo](https://github.com/IBM/carbon-components)
-  | #SCSS
-
-- [**Concise CSS**](http://concisecss.com) - Give up the bloat. Stop tripping over your classes. Be concise.  
-  ![](https://img.shields.io/github/stars/ConciseCSS/concise.css.svg?style=social&label=Star)
-  [Docs](http://concisecss.com/documentation/),
-  [Repo](https://github.com/ConciseCSS/concise.css)
-  | #SCSS
-
-- [**Responsive Boilerplate**](http://responsivebp.com) - Powerful, accessible, developer friendly framework for building responsive websites.  
-  ![](https://img.shields.io/github/stars/responsivebp/responsive.svg?style=social&label=Star)
-  [Docs](http://responsivebp.com/getting-started/),
-  [Repo](https://github.com/responsivebp/responsive)
   | #SCSS
   
 - [**turretcss**](http://turretcss.com) - Responsive front-end framework for accessible and semantic websites.  
@@ -328,6 +304,12 @@ We are keeping them here for reference/inspiration and hope for a revival.
   ![](https://img.shields.io/github/stars/basscss/basscss.svg?style=social&label=Star)
   [Repo](https://github.com/basscss/basscss/)
 
+- [**Mobi.css**](http://getmobicss.com) - Lightweight, scalable, mobile-first CSS framework.  
+  ![](https://img.shields.io/github/stars/mobi-css/mobi.css.svg?style=social&label=Star)
+  [Docs](http://getmobicss.com/docs/introduction.html),
+  [Repo](https://github.com/mobi-css/mobi.css)
+  | #CSS
+
 - [**Pills**](http://arkpod.in/pills/) - Simple responsive CSS Grid for humans.  
   ![](https://img.shields.io/github/stars/rohitkrai03/pills.svg?style=social&label=Star)
   [Repo](https://github.com/rohitkrai03/pills)
@@ -342,9 +324,27 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://unsemantic.com/css-documentation),
   [Repo](https://github.com/nathansmith/unsemantic)
 
+- [**Kube**](https://imperavi.com/kube/) - Web framework for professional developers and designers.  
+  ![](https://img.shields.io/github/stars/imperavi/kube.svg?style=social&label=Star)
+  [Docs](https://imperavi.com/kube/docs/),
+  [Repo](https://github.com/imperavi/kube)
+  | #SCSS
+
+- [**Concise CSS**](http://concisecss.com) - Give up the bloat. Stop tripping over your classes. Be concise.  
+  ![](https://img.shields.io/github/stars/ConciseCSS/concise.css.svg?style=social&label=Star)
+  [Docs](http://concisecss.com/documentation/),
+  [Repo](https://github.com/ConciseCSS/concise.css)
+  | #SCSS
+
 - [**Scooter**](http://dropbox.github.io/scooter/) - SCSS framework & UI library for Dropbox web.  
   ![](https://img.shields.io/github/stars/dropbox/scooter.svg?style=social&label=Star)
   [Repo](https://github.com/dropbox/scooter)
+
+- [**Responsive Boilerplate**](http://responsivebp.com) - Powerful, accessible, developer friendly framework for building responsive websites.  
+  ![](https://img.shields.io/github/stars/responsivebp/responsive.svg?style=social&label=Star)
+  [Docs](http://responsivebp.com/getting-started/),
+  [Repo](https://github.com/responsivebp/responsive)
+  | #SCSS
 
 - [**Centurion**](https://www.centurionframework.com) - Web-based framework for rapid prototyping and building larger web projects.  
   ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social&label=Star)
