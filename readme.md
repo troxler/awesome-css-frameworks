@@ -123,6 +123,7 @@ Frameworks that are smaller than ~5KB.
   | #SCSS
 
 - [**Semantic UI**](https://semantic-ui.com) - User interface is the language of the web.  
+  *Note: The project seems to be inactive but there is an active fork called [Fomantic UI](https://github.com/fomantic/fomantic-ui/).*  
   ![](https://img.shields.io/github/stars/semantic-org/semantic-ui.svg?style=social&label=Star)
   [Docs](https://semantic-ui.com/introduction/getting-started.html),
   [Repo](https://github.com/semantic-org/semantic-ui)
