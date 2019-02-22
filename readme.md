@@ -40,6 +40,11 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize.svg?style=social&label=Star)
   [Repo](https://github.com/sindresorhus/modern-normalize)
   | #CSS
+  
+- [**CSS Remedy**](https://github.com/mozdevs/cssremedy) - Start your project with a remedy for the technical debt of CSS.  
+  ![](https://img.shields.io/github/stars/mozdevs/cssremedy.svg?style=social&label=Star)
+  [Repo](https://github.com/mozdevs/cssremedy)
+  | #CSS
 
 
 ## Very Lightweight
