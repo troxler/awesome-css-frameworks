@@ -227,6 +227,12 @@ Frameworks that are smaller than ~5KB.
 
 ## Specialized
 
+- [**NES.css**](https://nostalgic-css.github.io/NES.css/) - NES-style CSS Framework.  
+  ![](https://img.shields.io/github/stars/nostalgic-css/NES.css.svg?style=social&label=Star)
+  [Docs](https://github.com/nostalgic-css/NES.css#installation),
+  [Repo](https://github.com/nostalgic-css/NES.css)
+  | #SCSS
+
 - [**Tailwind CSS**](https://tailwindcss.com) - Utility-first CSS framework for rapid UI development.  
   ![](https://img.shields.io/github/stars/tailwindcss/tailwindcss.svg?style=social&label=Star)
   [Docs](https://tailwindcss.com/docs/what-is-tailwind/),
