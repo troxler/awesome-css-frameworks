@@ -4,7 +4,7 @@ List of awesome CSS frameworks.
 
 Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob/master/.github/CONTRIBUTING.md).
 
-<strong>Contents</strong>
+## Contents
 - [Base / Reset / Normalize](#base--reset--normalize)
 - [Very Lightweight](#very-lightweight)
 - [General Purpose](#general-purpose)
@@ -361,6 +361,7 @@ We are keeping them here for reference/inspiration and hope for a revival.
 
 ---
 
+## License
 License [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/):
 
 > You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
