@@ -68,7 +68,7 @@ Frameworks that are smaller than ~5KB.
 
 - [**mini.css**](http://minicss.org) - Minimal, responsive, style-agnostic CSS framework.  
   ![](https://img.shields.io/github/stars/Chalarangelo/mini.css.svg?style=social&label=Star)
-  [Docs](http://minicss.org/modules),
+  [Docs](http://minicss.org/docs),
   [Repo](https://github.com/Chalarangelo/mini.css)
   | #SCSS
 
@@ -150,10 +150,10 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/picturepan2/spectre)
   | #SCSS
 
-- [**Primer**](http://primercss.io) - CSS framework that powers GitHub's front-end design.  
-  ![](https://img.shields.io/github/stars/primer/primer-css.svg?style=social&label=Star)
-  [Docs](http://primercss.io/scaffolding/),
-  [Repo](https://github.com/primer/primer-css)
+- [**Primer**](https://primer.style/) - CSS framework that powers GitHub's front-end design.  
+  ![](https://img.shields.io/github/stars/primer/css.svg?style=social&label=Star)
+  [Docs](https://styleguide.github.com/primer/),
+  [Repo](https://github.com/primer/css)
   | #SCSS
 
 - [**Tachyons**](http://tachyons.io) - Quickly build and design new UI without writing CSS.  
@@ -171,9 +171,9 @@ Frameworks that are smaller than ~5KB.
   | #SCSS
 
 - [**Base**](http://getbase.org) - Rock solid, responsive HTML/CSS framework.  
-  ![](https://img.shields.io/github/stars/matthewhartman/base.svg?style=social&label=Star)
-  [Docs](http://getbase.org/docs/),
-  [Repo](https://github.com/matthewhartman/base)
+  ![](https://img.shields.io/github/stars/getbase/base.svg?style=social&label=Star)
+  [Docs](https://github.com/getbase/base/blob/master/readme.md#documentation),
+  [Repo](https://github.com/getbase/base)
   | #SCSS #LESS
 
 - [**Carbon Components**](http://www.carbondesignsystem.com/) - Component library behind IBM's Carbon Design System.  
@@ -182,10 +182,10 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/IBM/carbon-components)
   | #SCSS
   
-- [**turretcss**](http://turretcss.com) - Responsive front-end framework for accessible and semantic websites.  
+- [**turretcss**](https://turretcss.com) - Responsive front-end framework for accessible and semantic websites.  
   ![](https://img.shields.io/github/stars/turretcss/turretcss.svg?style=social&label=Star)
-  [Demo](http://turretcss.com/docs/demo/),
-  [Docs](http://turretcss.com/docs/getting-started/),
+  [Demo](https://turretcss.com/demo/),
+  [Docs](https://turretcss.com/getting-started/),
   [Repo](https://github.com/turretcss/turretcss)
   | #CSS
 
