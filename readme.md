@@ -189,6 +189,12 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/turretcss/turretcss)
   | #CSS
 
+- [**siimple**](https://www.siimple.xyz) - A minimalist and flexible CSS toolkit for building responsive, flat and clean web designs.  
+  ![](https://img.shields.io/github/stars/siimple/siimple.svg?style=social&label=Star)
+  [Docs](https://docs.siimple.xyz),
+  [Repo](https://github.com/siimple/siimple)
+  | #CSS #SCSS
+
 - [**HiQ**](https://jonathanharrell.github.io/hiq/) - Simple CSS foundation with responsive typography and input styling.  
   ![](https://img.shields.io/github/stars/jonathanharrell/hiq.svg?style=social&label=Star)
   [Docs](https://jonathanharrell.github.io/hiq/guide/),
