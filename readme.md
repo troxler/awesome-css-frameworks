@@ -194,6 +194,13 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://jonathanharrell.github.io/hiq/guide/),
   [Repo](https://github.com/jonathanharrell/hiq/)
   | #PostCSS
+  
+- [**PatternFly**](https://www.patternfly.org/) - A community of designers and developers collaborating to build a UI framework for enterprise web applications.
+  ![](https://img.shields.io/github/stars/patternfly/patternfly.svg?style=social&label=Star)
+  [Demo](https://www.patternfly.org/pattern-library/),
+  [Docs](https://www.patternfly.org/get-started/),
+  [Repo](https://github.com/patternfly/patternfly)
+  | #CSS
 
 
 ## Material Design
