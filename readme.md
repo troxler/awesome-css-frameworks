@@ -181,7 +181,14 @@ Frameworks that are smaller than ~5KB.
   [Docs](http://www.carbondesignsystem.com/components/overview),
   [Repo](https://github.com/IBM/carbon-components)
   | #SCSS
-  
+
+- [**PatternFly**](https://www.patternfly.org/) - UI framework for enterprise web applications.  
+  ![](https://img.shields.io/github/stars/patternfly/patternfly.svg?style=social&label=Star)
+  [Demo](https://www.patternfly.org/pattern-library/),
+  [Docs](https://www.patternfly.org/get-started/),
+  [Repo](https://github.com/patternfly/patternfly)
+  | #SCSS #LESS
+
 - [**turretcss**](https://turretcss.com) - Responsive front-end framework for accessible and semantic websites.  
   ![](https://img.shields.io/github/stars/turretcss/turretcss.svg?style=social&label=Star)
   [Demo](https://turretcss.com/demo/),
