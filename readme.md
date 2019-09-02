@@ -202,6 +202,12 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/jonathanharrell/hiq/)
   | #PostCSS
 
+- [**Cirrus**](https://spiderpig86.github.io/Cirrus/) - A fully responsive and comprehensive CSS framework with beautiful controls and simplistic structure.
+  ![](https://img.shields.io/github/stars/spiderpig86/Cirrus.svg?style=social&label=Star)
+  [Docs](https://spiderpig86.github.io/Cirrus/)
+  [Repo](https://github.com/Spiderpig86/Cirrus)
+  | #CSS
+
 
 ## Material Design
 
