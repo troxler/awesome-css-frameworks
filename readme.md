@@ -196,6 +196,12 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/turretcss/turretcss)
   | #CSS
 
+- [**Cirrus**](https://spiderpig86.github.io/Cirrus/) - Responsive and comprehensive CSS framework with beautiful controls and simplistic structure.  
+  ![](https://img.shields.io/github/stars/spiderpig86/Cirrus.svg?style=social&label=Star)
+  [Docs](https://spiderpig86.github.io/Cirrus/docs/),
+  [Repo](https://github.com/Spiderpig86/Cirrus)
+  | #CSS
+
 - [**HiQ**](https://jonathanharrell.github.io/hiq/) - Simple CSS foundation with responsive typography and input styling.  
   ![](https://img.shields.io/github/stars/jonathanharrell/hiq.svg?style=social&label=Star)
   [Docs](https://jonathanharrell.github.io/hiq/guide/),
