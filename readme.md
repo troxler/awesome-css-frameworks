@@ -45,6 +45,11 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   ![](https://img.shields.io/github/stars/mozdevs/cssremedy.svg?style=social&label=Star)
   [Repo](https://github.com/mozdevs/cssremedy)
   | #CSS
+  
+- [**ress**](https://github.com/filipelinhares/ress) - Modern CSS reset.  
+  ![](https://img.shields.io/github/stars/mozdevs/ress.svg?style=social&label=Star)
+  [Repo](https://github.com/filipelinhares/ress)
+  | #CSS
 
 
 ## Very Lightweight
