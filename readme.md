@@ -47,8 +47,13 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   | #CSS
   
 - [**ress**](https://github.com/filipelinhares/ress) - Modern CSS reset.  
-  ![](https://img.shields.io/github/stars/mozdevs/ress.svg?style=social&label=Star)
+  ![](https://img.shields.io/github/stars/filipelinhares/ress.svg?style=social&label=Star)
   [Repo](https://github.com/filipelinhares/ress)
+  | #CSS
+  
+- [**a-modern-css-reset**](https://github.com/hankchizljaw/modern-css-reset) - A Modern CSS Reset.  
+  ![](https://img.shields.io/github/stars/hankchizljaw/modern-css-reset.svg?style=social&label=Star)
+  [Repo](https://github.com/hankchizljaw/modern-css-reset)
   | #CSS
 
 
