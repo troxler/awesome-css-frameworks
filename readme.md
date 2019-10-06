@@ -40,6 +40,11 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize.svg?style=social&label=Star)
   [Repo](https://github.com/sindresorhus/modern-normalize)
   | #CSS
+  
+- [**a-modern-css-reset**](https://github.com/hankchizljaw/modern-css-reset) - A Modern CSS Reset.  
+  ![](https://img.shields.io/github/stars/hankchizljaw/modern-css-reset.svg?style=social&label=Star)
+  [Repo](https://github.com/hankchizljaw/modern-css-reset)
+  | #CSS
 
 
 ## Very Lightweight
