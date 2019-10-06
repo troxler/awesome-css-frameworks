@@ -41,6 +41,11 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   [Repo](https://github.com/sindresorhus/modern-normalize)
   | #CSS
 
+- [**ress**](https://github.com/filipelinhares/ress) - Modern CSS reset.  
+  ![](https://img.shields.io/github/stars/filipelinhares/ress.svg?style=social&label=Star)
+  [Repo](https://github.com/filipelinhares/ress)
+  | #CSS
+
 
 ## Very Lightweight
 
