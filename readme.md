@@ -80,6 +80,7 @@ Frameworks that are smaller than ~5KB.
 
 - [**Wing**](https://kbrsh.github.io/wing/) - Beautiful CSS framework designed for minimalists.  
   ![](https://img.shields.io/github/stars/kbrsh/wing.svg?style=social&label=Star)
+  [Docs](https://kbrsh.github.io/wing/#installation),
   [Repo](https://github.com/kbrsh/wing)
   | #Stylus
   
