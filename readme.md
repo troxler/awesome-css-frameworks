@@ -5,6 +5,7 @@ List of awesome CSS frameworks.
 Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob/master/.github/CONTRIBUTING.md).
 
 ## Contents
+
 - [Base / Reset / Normalize](#base--reset--normalize)
 - [Very Lightweight](#very-lightweight)
 - [General Purpose](#general-purpose)
@@ -12,7 +13,6 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 - [Specialized](#specialized)
 - [Toolkits](#toolkits)
 - [Stalled Development](#stalled-development)
-
 
 ## Base / Reset / Normalize
 
@@ -35,12 +35,11 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social&label=Star)
   [Repo](https://github.com/inuitcss/inuitcss)
   | #SCSS
-  
+
 - [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) - Normalize for Chrome, Firefox, and Safari only (no support for Edge or Internet Explorer).  
   ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize.svg?style=social&label=Star)
   [Repo](https://github.com/sindresorhus/modern-normalize)
   | #CSS
-
 
 ## Very Lightweight
 
@@ -83,7 +82,7 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://kbrsh.github.io/wing/#installation),
   [Repo](https://github.com/kbrsh/wing)
   | #Stylus
-  
+
 - [**Marx**](https://mblode.github.io/marx/) - Classless CSS reset.  
   ![](https://img.shields.io/github/stars/mblode/marx.svg?style=social&label=Star)
   [Docs](https://mblode.github.io/marx/documentation/),
@@ -94,7 +93,7 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social&label=Star)
   [Repo](https://github.com/yegor256/tacit/)
   | #SCSS
-  
+
 - [**awsm.css**](https://igoradamenko.github.io/awsm.css) - CSS library for semantic HTML markup without classes, attributes, etc.  
   ![](https://img.shields.io/github/stars/igoradamenko/awsm.css.svg?style=social&label=Star)
   [Demo](https://igoradamenko.github.io/awsm.css/),
@@ -105,7 +104,6 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social&label=Star)
   [Repo](https://github.com/jenil/chota)
   | #CSS
-
 
 ## General Purpose
 
@@ -118,7 +116,7 @@ Frameworks that are smaller than ~5KB.
   | #SCSS
 
 - [**Semantic UI**](https://semantic-ui.com) - User interface is the language of the web.  
-  *Note: The project seems to be inactive but there is an active fork called [Fomantic UI](https://github.com/fomantic/fomantic-ui/).*  
+  _Note: The project seems to be inactive but there is an active fork called [Fomantic UI](https://github.com/fomantic/fomantic-ui/)._  
   ![](https://img.shields.io/github/stars/semantic-org/semantic-ui.svg?style=social&label=Star)
   [Docs](https://semantic-ui.com/introduction/getting-started.html),
   [Repo](https://github.com/semantic-org/semantic-ui)
@@ -209,7 +207,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/jonathanharrell/hiq/)
   | #PostCSS
 
-
 ## Material Design
 
 - [**Material Components Web**](https://material.io/components/web/) - Modular and customizable Material Design UI components for the web.  
@@ -238,6 +235,11 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/digicorp/propeller)
   | #SCSS
 
+- [**Axentix**](https://useaxentix.com/) - A lightweight and open source Framework based on CSS-Grid using HTML, CSS and JS.  
+  ![](https://img.shields.io/github/stars/axentix/axentix.svg?style=social&label=Star)
+  [Docs](https://useaxentix.com/docs/getting-started),
+  [Repo](https://github.com/axentix/axentix)
+  | #SCSS
 
 ## Specialized
 
@@ -270,7 +272,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/Slicejack/bojler)
   | #SCSS
 
-
 ## Toolkits
 
 Toolkits are closer to a library than to a framework.
@@ -289,7 +290,6 @@ They do not provide actual styling but utilities (e.g. mixins) that you can use 
   [Docs](https://neat.bourbon.io/docs/latest/),
   [Repo](https://github.com/thoughtbot/neat)
   | #SCSS
-
 
 ## Stalled Development
 
@@ -376,6 +376,7 @@ We are keeping them here for reference/inspiration and hope for a revival.
 ---
 
 ## License
+
 License [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/):
 
 > You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
