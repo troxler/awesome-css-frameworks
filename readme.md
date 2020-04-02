@@ -283,13 +283,6 @@ They do not provide actual styling but utilities (e.g. mixins) that you can use 
   [Scaffold](http://bitters.bourbon.io/)
   | #SCSS
 
-- [**Neat**](https://neat.bourbon.io/) - Lightweight and flexible Sass grid.  
-  ![](https://img.shields.io/github/stars/thoughtbot/neat.svg?style=social&label=Star)
-  [Demo](https://neat.bourbon.io/examples/),
-  [Docs](https://neat.bourbon.io/docs/latest/),
-  [Repo](https://github.com/thoughtbot/neat)
-  | #SCSS
-
 
 ## Stalled Development
 
@@ -370,6 +363,13 @@ We are keeping them here for reference/inspiration and hope for a revival.
   ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social&label=Star)
   [Docs](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
   [Repo](https://github.com/justinhough/Centurion)
+  
+- [**Neat**](https://neat.bourbon.io/) - Lightweight and flexible Sass grid.  
+  ![](https://img.shields.io/github/stars/thoughtbot/neat.svg?style=social&label=Star)
+  [Demo](https://neat.bourbon.io/examples/),
+  [Docs](https://neat.bourbon.io/docs/latest/),
+  [Repo](https://github.com/thoughtbot/neat)
+  | #SCSS
 
 </details>
 
