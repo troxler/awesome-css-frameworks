@@ -283,13 +283,6 @@ They do not provide actual styling but utilities (e.g. mixins) that you can use 
   [Scaffold](http://bitters.bourbon.io/)
   | #SCSS
 
-- [**Neat**](https://neat.bourbon.io/) - Lightweight and flexible Sass grid.  
-  ![](https://img.shields.io/github/stars/thoughtbot/neat.svg?style=social&label=Star)
-  [Demo](https://neat.bourbon.io/examples/),
-  [Docs](https://neat.bourbon.io/docs/latest/),
-  [Repo](https://github.com/thoughtbot/neat)
-  | #SCSS
-
 
 ## Stalled Development
 
@@ -323,6 +316,13 @@ We are keeping them here for reference/inspiration and hope for a revival.
 - [**Basscss**](http://basscss.com) - Low-level CSS toolkit.  
   ![](https://img.shields.io/github/stars/basscss/basscss.svg?style=social&label=Star)
   [Repo](https://github.com/basscss/basscss/)
+  
+- [**Neat**](https://neat.bourbon.io/) - Lightweight and flexible Sass grid.  
+  ![](https://img.shields.io/github/stars/thoughtbot/neat.svg?style=social&label=Star)
+  [Demo](https://neat.bourbon.io/examples/),
+  [Docs](https://neat.bourbon.io/docs/latest/),
+  [Repo](https://github.com/thoughtbot/neat)
+  | #SCSS
 
 - [**Mobi.css**](http://getmobicss.com) - Lightweight, scalable, mobile-first CSS framework.  
   ![](https://img.shields.io/github/stars/mobi-css/mobi.css.svg?style=social&label=Star)
