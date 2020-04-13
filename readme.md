@@ -36,7 +36,12 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social&label=Star)
   [Repo](https://github.com/inuitcss/inuitcss)
   | #SCSS
-  
+
+- [**ress**](https://github.com/filipelinhares/ress) - Modern CSS reset.  
+  ![](https://img.shields.io/github/stars/filipelinhares/ress.svg?style=social&label=Star)
+  [Repo](https://github.com/filipelinhares/ress)
+  | #CSS
+
 - [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) - Normalize for Chrome, Firefox, and Safari only (no support for Edge or Internet Explorer).  
   ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize.svg?style=social&label=Star)
   [Repo](https://github.com/sindresorhus/modern-normalize)
