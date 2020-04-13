@@ -52,6 +52,11 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 
 Frameworks that use semantic HTML and do not rely on classes.
 
+- [**Water.css**](https://watercss.netlify.com/) - Just-add-CSS collection of styles to make simple websites just a little nicer.  
+  ![](https://img.shields.io/github/stars/kognise/water.css.svg?style=social&label=Star)
+  [Repo](https://github.com/kognise/water.css)
+  | #CSS
+
 - [**sakura**](https://oxal.org/projects/sakura/) - Minimal classless CSS framework/theme.  
   ![](https://img.shields.io/github/stars/oxalorg/sakura.svg?style=social&label=Star)
   [Demo](https://oxal.org/projects/sakura/demo/),
