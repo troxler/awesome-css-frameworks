@@ -248,6 +248,13 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/digicorp/propeller)
   | #SCSS
 
+- [**MDBootstrap**](https://mdbootstrap.com) - Powerful and free framework, mix-up of best features of Bootstrap (speed and clarity, reliability, responsiveness ) with Material Design from Google.  
+  ![](https://img.shields.io/github/stars/mdbootstrap/bootstrap-material-design.svg?style=social&label=Star)
+  [Demo](https://mdbootstrap.com/docs/jquery/css/demo/),
+  [Docs](https://mdbootstrap.com/),
+  [Repo](https://github.com/mdbootstrap/bootstrap-material-design)
+  | #SCSS
+
 
 ## Specialized
 
