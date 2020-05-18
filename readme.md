@@ -263,6 +263,12 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/nostalgic-css/NES.css)
   | #SCSS
 
+- [**Chakra UI**](https://chakra-ui.com/) - Build accessible React apps & websites with speed.  
+  ![](https://img.shields.io/github/stars/chakra-ui/chakra-ui.svg?style=social&label=Star)
+  [Docs](https://chakra-ui.com/getting-started),
+  [Repo](https://github.com/chakra-ui/chakra-ui)
+  | #CSS
+
 - [**Gutenberg**](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.  
   ![](https://img.shields.io/github/stars/BafS/Gutenberg.svg?style=social&label=Star)
   [Demo](http://bafs.github.io/Gutenberg/),
