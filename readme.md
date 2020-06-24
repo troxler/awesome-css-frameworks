@@ -80,11 +80,11 @@ Frameworks that use semantic HTML and do not rely on classes.
   [Repo](https://github.com/igoradamenko/awsm.css)
   | #SCSS
   
-- [**Native Elements**](https://native-elements.dev) - CSS library for semantic HTML markup without classes based on custom properties.
-![](https://img.shields.io/github/stars/n-elements/core.svg?style=social&label=Star)
-[Demo](https://app.native-elements.dev),
-[Repo](https://github.com/n-elements/core)
-| #CSS
+- [**Native Elements**](https://native-elements.dev) - CSS library for semantic HTML markup without classes based on custom properties.  
+  ![](https://img.shields.io/github/stars/n-elements/core.svg?style=social&label=Star)
+  [Demo](https://app.native-elements.dev),
+  [Repo](https://github.com/n-elements/core)
+  | #CSS
 
 
 ## Very Lightweight
