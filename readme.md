@@ -27,6 +27,11 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   [Repo](https://github.com/csstools/sanitize.css)
   | #CSS
 
+- [**main.css**](https://github.com/h5bp/main.css) - The HTML5 Boilerplate CSS.  
+  ![](https://img.shields.io/github/stars/h5bp/main.css.svg?style=social&label=Star)
+  [Repo](https://github.com/h5bp/main.css)
+  | #CSS
+
 - [**minireset.css**](http://jgthms.com/minireset.css/) - Tiny modern CSS reset.  
   ![](https://img.shields.io/github/stars/jgthms/minireset.css.svg?style=social&label=Star)
   [Repo](https://github.com/jgthms/minireset.css)
