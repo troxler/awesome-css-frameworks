@@ -8,7 +8,6 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 <a href="https://frontaid.io/?pk_campaign=cssfw"><img
   src="media/frontaid.png"
   width="600"
-  height="123"
   alt="FrontAid CMS - Agile Content Management with Git."></a>
 
 ## Contents
