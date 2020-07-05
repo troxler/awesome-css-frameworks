@@ -269,6 +269,11 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://github.com/nostalgic-css/NES.css#installation),
   [Repo](https://github.com/nostalgic-css/NES.css)
   | #SCSS
+  
+- [**98.css**](https://jdan.github.io/98.css/) - CSS library for building interfaces that look like Windows 98.  
+  ![](https://img.shields.io/github/stars/jdan/98.css.svg?style=social&label=Star)
+  [Repo](https://github.com/jdan/98.css)
+  | #CSS
 
 - [**Gutenberg**](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.  
   ![](https://img.shields.io/github/stars/BafS/Gutenberg.svg?style=social&label=Star)
