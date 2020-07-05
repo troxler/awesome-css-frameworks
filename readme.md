@@ -263,10 +263,8 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/nostalgic-css/NES.css)
   | #SCSS
   
-- [**98.css**](https://jdan.github.io/98.css/) - 98.css is a CSS library for building interfaces that look like Windows 98.  
+- [**98.css**](https://jdan.github.io/98.css/) - CSS library for building interfaces that look like Windows 98.  
   ![](https://img.shields.io/github/stars/jdan/98.css.svg?style=social&label=Star)
-  [Demo](https://jdan.github.io/98.css/),
-  [Docs](https://jdan.github.io/98.css/),
   [Repo](https://github.com/jdan/98.css)
   | #CSS
 
