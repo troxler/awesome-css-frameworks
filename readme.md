@@ -225,6 +225,11 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/jonathanharrell/hiq/)
   | #PostCSS
 
+- [**Garden**](https://garden.zendesk.com/) - Design system for Zendesk where we grow beautifully simple and accessible UI components.
+  ![](https://img.shields.io/github/stars/zendeskgarden/react-components.svg?style=social&label=Star)
+  [Docs](https://zendeskgarden.github.io/react-components/),
+  [Repo](hhttps://github.com/zendeskgarden/react-components)
+  | #CSS
 
 ## Material Design
 
