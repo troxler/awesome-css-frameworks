@@ -295,6 +295,12 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/Slicejack/bojler)
   | #SCSS
 
+- [**Charts.css**](https://chartscss.org/) - CSS data visualization framework.  
+  ![](https://img.shields.io/github/stars/ChartsCSS/charts.css.svg?style=social&label=Star)
+  [Docs](https://chartscss.org/),
+  [Repo](https://github.com/ChartsCSS/charts.css)
+  | #CSS
+
 
 ## Toolkits
 
