@@ -289,6 +289,11 @@ Frameworks that are smaller than ~5KB.
   [Docs](http://bojler.slicejack.com/getting-started/),
   [Repo](https://github.com/Slicejack/bojler)
   | #SCSS
+  
+- [**Potion**](https://github.com/mvoloskov/potion) - a single CSS file that makes your HTML look like that famous note taking app.  
+  ![](https://img.shields.io/github/stars/mvoloskov/potion.svg?style=social&label=Star)
+  [Demo](http://miloslav.website/potion)
+  | #CSS
 
 
 ## Toolkits
