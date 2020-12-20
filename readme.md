@@ -43,11 +43,6 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   [Repo](https://github.com/inuitcss/inuitcss)
   | #SCSS
 
-- [**minireset.css**](http://jgthms.com/minireset.css/) - Tiny modern CSS reset.  
-  ![](https://img.shields.io/github/stars/jgthms/minireset.css.svg?style=social&label=Star)
-  [Repo](https://github.com/jgthms/minireset.css)
-  | #Sass
-  
 - [**modern-css-reset**](https://github.com/hankchizljaw/modern-css-reset) - Tiny little reset that you can use as the basis of your CSS projects.  
   ![](https://img.shields.io/github/stars/hankchizljaw/modern-css-reset.svg?style=social&label=Star)
   [Repo](https://github.com/hankchizljaw/modern-css-reset)
