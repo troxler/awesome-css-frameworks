@@ -11,6 +11,7 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   alt="FrontAid CMS - Agile Content Management with Git."></a>
 
 ## Contents
+
 - [Base / Reset / Normalize](#base--reset--normalize)
 - [Class-less](#class-less)
 - [Very Lightweight](#very-lightweight)
@@ -19,7 +20,6 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 - [Specialized](#specialized)
 - [Toolkits](#toolkits)
 - [Stalled Development](#stalled-development)
-
 
 ## Base / Reset / Normalize
 
@@ -47,7 +47,6 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   ![](https://img.shields.io/github/stars/hankchizljaw/modern-css-reset.svg?style=social&label=Star)
   [Repo](https://github.com/hankchizljaw/modern-css-reset)
   | #CSS
-  
 - [**ress**](https://github.com/filipelinhares/ress) - Modern CSS reset.  
   ![](https://img.shields.io/github/stars/filipelinhares/ress.svg?style=social&label=Star)
   [Repo](https://github.com/filipelinhares/ress)
@@ -57,7 +56,6 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize.svg?style=social&label=Star)
   [Repo](https://github.com/sindresorhus/modern-normalize)
   | #CSS
-
 
 ## Class-less
 
@@ -73,7 +71,6 @@ Frameworks that use semantic HTML and do not rely on classes.
   [Demo](https://oxal.org/projects/sakura/demo/),
   [Repo](https://github.com/oxalorg/sakura)
   | #SCSS
-  
 - [**Marx**](https://mblode.github.io/marx/) - Classless CSS reset.  
   ![](https://img.shields.io/github/stars/mblode/marx.svg?style=social&label=Star)
   [Docs](https://mblode.github.io/marx/documentation/),
@@ -84,13 +81,17 @@ Frameworks that use semantic HTML and do not rely on classes.
   ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social&label=Star)
   [Repo](https://github.com/yegor256/tacit/)
   | #SCSS
-  
 - [**awsm.css**](https://igoradamenko.github.io/awsm.css) - CSS library for semantic HTML markup without classes, attributes, etc.  
   ![](https://img.shields.io/github/stars/igoradamenko/awsm.css.svg?style=social&label=Star)
   [Demo](https://igoradamenko.github.io/awsm.css/),
   [Repo](https://github.com/igoradamenko/awsm.css)
   | #SCSS
 
+- [**simple.css**](https://simplecss.org/) - A classless CSS framework to make a good looking site quickly.  
+  ![](https://img.shields.io/github/stars/kevquirk/simple.css.svg?style=social&label=Star)
+  [Demo](https://simplecss.org/demo),
+  [Repo](https://github.com/kevquirk/simple.css)
+  | #SCSS
 
 ## Very Lightweight
 
@@ -127,7 +128,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/jenil/chota)
   | #CSS
 
-
 ## General Purpose
 
 - [**Bootstrap**](http://getbootstrap.com) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.  
@@ -139,7 +139,7 @@ Frameworks that are smaller than ~5KB.
   | #SCSS
 
 - [**Semantic UI**](https://semantic-ui.com) - User interface is the language of the web.  
-  *Note: The project seems to be inactive but there is an active fork called [Fomantic UI](https://github.com/fomantic/fomantic-ui/).*  
+  _Note: The project seems to be inactive but there is an active fork called [Fomantic UI](https://github.com/fomantic/fomantic-ui/)._  
   ![](https://img.shields.io/github/stars/semantic-org/semantic-ui.svg?style=social&label=Star)
   [Docs](https://semantic-ui.com/introduction/getting-started.html),
   [Repo](https://github.com/semantic-org/semantic-ui)
@@ -229,7 +229,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/jonathanharrell/hiq/)
   | #PostCSS
 
-
 ## Material Design
 
 - [**Material Components Web**](https://material.io/components/web/) - Modular and customizable Material Design UI components for the web.  
@@ -258,7 +257,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/digicorp/propeller)
   | #SCSS
 
-
 ## Specialized
 
 - [**Tailwind CSS**](https://tailwindcss.com) - Utility-first CSS framework for rapid UI development.  
@@ -272,7 +270,6 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://github.com/nostalgic-css/NES.css#installation),
   [Repo](https://github.com/nostalgic-css/NES.css)
   | #SCSS
-  
 - [**98.css**](https://jdan.github.io/98.css/) - CSS library for building interfaces that look like Windows 98.  
   ![](https://img.shields.io/github/stars/jdan/98.css.svg?style=social&label=Star)
   [Repo](https://github.com/jdan/98.css)
@@ -295,7 +292,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/Slicejack/bojler)
   | #SCSS
 
-
 ## Toolkits
 
 Toolkits are closer to a library than to a framework.
@@ -307,7 +303,6 @@ They do not provide actual styling but utilities (e.g. mixins) that you can use 
   [Repo](https://github.com/thoughtbot/bourbon/),
   [Scaffold](http://bitters.bourbon.io/)
   | #SCSS
-
 
 ## Stalled Development
 
@@ -341,7 +336,6 @@ We are keeping them here for reference/inspiration and hope for a revival.
 - [**Basscss**](http://basscss.com) - Low-level CSS toolkit.  
   ![](https://img.shields.io/github/stars/basscss/basscss.svg?style=social&label=Star)
   [Repo](https://github.com/basscss/basscss/)
-  
 - [**Neat**](https://neat.bourbon.io/) - Lightweight and flexible Sass grid.  
   ![](https://img.shields.io/github/stars/thoughtbot/neat.svg?style=social&label=Star)
   [Demo](https://neat.bourbon.io/examples/),
@@ -407,6 +401,7 @@ We are keeping them here for reference/inspiration and hope for a revival.
 ---
 
 ## License
+
 License [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/):
 
 > You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
