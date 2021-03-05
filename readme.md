@@ -68,6 +68,12 @@ Frameworks that use semantic HTML and do not rely on classes.
   [Repo](https://github.com/kognise/water.css)
   | #CSS
 
+- [**MVP.css**](https://andybrewer.github.io/mvp/) - Minimalist stylesheet for HTML elements.  
+  ![](https://img.shields.io/github/stars/andybrewer/mvp.svg?style=social&label=Star)
+  [Docs](https://andybrewer.github.io/mvp/#docs),
+  [Repo](https://github.com/andybrewer/mvp/)
+  | #CSS
+
 - [**sakura**](https://oxal.org/projects/sakura/) - Minimal classless CSS framework/theme.  
   ![](https://img.shields.io/github/stars/oxalorg/sakura.svg?style=social&label=Star)
   [Demo](https://oxal.org/projects/sakura/demo/),
