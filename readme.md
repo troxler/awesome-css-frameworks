@@ -16,6 +16,7 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 - [Very Lightweight](#very-lightweight)
 - [General Purpose](#general-purpose)
 - [Material Design](#material-design)
+- [Utility-based](#utility-based)
 - [Specialized](#specialized)
 - [Toolkits](#toolkits)
 - [Stalled Development](#stalled-development)
@@ -181,13 +182,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/picturepan2/spectre)
   | #SCSS
 
-- [**Tachyons**](http://tachyons.io) - Quickly build and design new UI without writing CSS.  
-  ![](https://img.shields.io/github/stars/tachyons-css/tachyons.svg?style=social&label=Star)
-  [Demo](http://tachyons.io/gallery/),
-  [Docs](http://tachyons.io/docs/),
-  [Repo](https://github.com/tachyons-css/tachyons/)
-  | #CSS
-
 - [**Primer**](https://primer.style/) - CSS framework that powers GitHub's front-end design.  
   ![](https://img.shields.io/github/stars/primer/css.svg?style=social&label=Star)
   [Docs](https://styleguide.github.com/primer/),
@@ -269,13 +263,23 @@ Frameworks that are smaller than ~5KB.
   | #SCSS
 
 
-## Specialized
+## Utility-based
 
 - [**Tailwind CSS**](https://tailwindcss.com) - Utility-first CSS framework for rapid UI development.  
   ![](https://img.shields.io/github/stars/tailwindcss/tailwindcss.svg?style=social&label=Star)
   [Docs](https://tailwindcss.com/docs/what-is-tailwind/),
   [Repo](https://github.com/tailwindcss/tailwindcss)
   | #CSS
+
+- [**Tachyons**](http://tachyons.io) - Quickly build and design new UI without writing CSS.  
+  ![](https://img.shields.io/github/stars/tachyons-css/tachyons.svg?style=social&label=Star)
+  [Demo](http://tachyons.io/gallery/),
+  [Docs](http://tachyons.io/docs/),
+  [Repo](https://github.com/tachyons-css/tachyons/)
+  | #CSS
+
+
+## Specialized
 
 - [**NES.css**](https://nostalgic-css.github.io/NES.css/) - NES-style CSS Framework.  
   ![](https://img.shields.io/github/stars/nostalgic-css/NES.css.svg?style=social&label=Star)
