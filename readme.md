@@ -58,6 +58,10 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   [Repo](https://github.com/sindresorhus/modern-normalize)
   | #CSS
 
+- [**Natural Selection**](https://github.com/frontaid/natural-selection) - Collection of best-practice CSS selectors.  
+  ![](https://img.shields.io/github/stars/frontaid/natural-selection.svg?style=social&label=Star)
+  | #CSS
+
 
 ## Class-less
 
