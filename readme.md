@@ -261,6 +261,12 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://propeller.in/get-started/),
   [Repo](https://github.com/digicorp/propeller)
   | #SCSS
+  
+- [**Material UI**](https://djibe.github.io/material/) - Pure Bootstrap front-end responsive framework based on Google's Material Design with some extras.  
+  ![](https://img.shields.io/github/stars/djibe/material.svg?style=social&label=Star)
+  [Docs](https://djibe.github.io/material/docs/4.6/getting-started/introduction/),
+  [Repo](https://github.com/djibe/material)
+  | #SCSS
 
 
 ## Utility-based
