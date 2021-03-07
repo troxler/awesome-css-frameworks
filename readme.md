@@ -149,13 +149,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/twbs/bootstrap)
   | #SCSS
 
-- [**Semantic UI**](https://semantic-ui.com) - User interface is the language of the web.  
-  *Note: The project seems to be inactive but there is an active fork called [Fomantic UI](https://github.com/fomantic/fomantic-ui/).*  
-  ![](https://img.shields.io/github/stars/semantic-org/semantic-ui.svg?style=social&label=Star)
-  [Docs](https://semantic-ui.com/introduction/getting-started.html),
-  [Repo](https://github.com/semantic-org/semantic-ui)
-  | #LESS
-
 - [**Bulma**](http://bulma.io) - Modern CSS framework based on Flexbox.  
   ![](https://img.shields.io/github/stars/jgthms/bulma.svg?style=social&label=Star)
   [Demo](http://bulma.io/expo/),
@@ -193,6 +186,12 @@ Frameworks that are smaller than ~5KB.
   [Docs](http://www.carbondesignsystem.com/components/overview),
   [Repo](https://github.com/IBM/carbon-components)
   | #SCSS
+
+- [**Fomantic-UI**](https://fomantic-ui.com/) - Build beautiful websites fast, with concise HTML, intuitive javascript, and simplified debugging.  
+  ![](https://img.shields.io/github/stars/fomantic/fomantic-ui.svg?style=social&label=Star)
+  [Docs](https://fomantic-ui.com/introduction/getting-started.html),
+  [Repo](https://github.com/fomantic/fomantic-ui/)
+  | #LESS
 
 - [**Blaze UI**](https://www.blazeui.com) - Open source modular toolkit providing great structure for building websites quickly with a scalable and maintainable foundation.  
   ![](https://img.shields.io/github/stars/BlazeUI/blaze.svg?style=social&label=Star)
@@ -336,6 +335,12 @@ We are keeping them here for reference/inspiration and hope for a revival.
 
 <details>
   <summary><strong>Show Section</strong></summary>
+
+- [**Semantic UI**](https://semantic-ui.com) - User interface is the language of the web.  
+  ![](https://img.shields.io/github/stars/semantic-org/semantic-ui.svg?style=social&label=Star)
+  [Docs](https://semantic-ui.com/introduction/getting-started.html),
+  [Repo](https://github.com/semantic-org/semantic-ui)
+  | #LESS
 
 - [**Material Design Lite**](https://getmdl.io) - Material Design components in HTML/CSS/JS.  
   ![](https://img.shields.io/github/stars/google/material-design-lite.svg?style=social&label=Star)
