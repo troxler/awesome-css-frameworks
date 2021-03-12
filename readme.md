@@ -249,12 +249,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/muicss/mui)
   | #SCSS
 
-- [**Propeller**](https://propeller.in) - Front-end responsive framework based on Google's Material Design standards & Bootstrap.  
-  ![](https://img.shields.io/github/stars/digicorp/propeller.svg?style=social&label=Star)
-  [Docs](https://propeller.in/get-started/),
-  [Repo](https://github.com/digicorp/propeller)
-  | #SCSS
-
 
 ## Utility-based
 
@@ -404,6 +398,12 @@ We are keeping them here for reference/inspiration and hope for a revival.
   ![](https://img.shields.io/github/stars/imperavi/kube.svg?style=social&label=Star)
   [Docs](https://imperavi.com/kube/docs/),
   [Repo](https://github.com/imperavi/kube)
+  | #SCSS
+
+- [**Propeller**](https://propeller.in) - Front-end responsive framework based on Google's Material Design standards & Bootstrap.  
+  ![](https://img.shields.io/github/stars/digicorp/propeller.svg?style=social&label=Star)
+  [Docs](https://propeller.in/get-started/),
+  [Repo](https://github.com/digicorp/propeller)
   | #SCSS
 
 - [**Concise CSS**](http://concisecss.com) - Give up the bloat. Stop tripping over your classes. Be concise.  
