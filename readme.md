@@ -380,10 +380,6 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Repo](https://github.com/kbrsh/wing)
   | #Stylus
 
-- [**Pills**](http://arkpod.in/pills/) - Simple responsive CSS Grid for humans.  
-  ![](https://img.shields.io/github/stars/rohitkrai03/pills.svg?style=social&label=Star)
-  [Repo](https://github.com/rohitkrai03/pills)
-
 - [**Cutestrap**](https://www.cutestrap.com) - Sassy, opinionated CSS framework, a tiny alternative to Bootstrap.  
   ![](https://img.shields.io/github/stars/tylerchilds/cutestrap.svg?style=social&label=Star)
   [Repo](https://github.com/tylerchilds/cutestrap)
@@ -393,12 +389,6 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Demo](https://unsemantic.com/demo-responsive),
   [Docs](https://unsemantic.com/css-documentation),
   [Repo](https://github.com/nathansmith/unsemantic)
-
-- [**Kube**](https://imperavi.com/kube/) - Web framework for professional developers and designers.  
-  ![](https://img.shields.io/github/stars/imperavi/kube.svg?style=social&label=Star)
-  [Docs](https://imperavi.com/kube/docs/),
-  [Repo](https://github.com/imperavi/kube)
-  | #SCSS
 
 - [**Propeller**](https://propeller.in) - Front-end responsive framework based on Google's Material Design standards & Bootstrap.  
   ![](https://img.shields.io/github/stars/digicorp/propeller.svg?style=social&label=Star)
@@ -411,10 +401,6 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](http://concisecss.com/documentation/),
   [Repo](https://github.com/ConciseCSS/concise.css)
   | #SCSS
-
-- [**Scooter**](http://dropbox.github.io/scooter/) - SCSS framework & UI library for Dropbox web.  
-  ![](https://img.shields.io/github/stars/dropbox/scooter.svg?style=social&label=Star)
-  [Repo](https://github.com/dropbox/scooter)
 
 - [**Responsive Boilerplate**](http://responsivebp.com) - Powerful, accessible, developer friendly framework for building responsive websites.  
   ![](https://img.shields.io/github/stars/responsivebp/responsive.svg?style=social&label=Star)
