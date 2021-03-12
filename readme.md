@@ -127,12 +127,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/franciscop/picnic)
   | #SCSS
 
-- [**Wing**](https://kbrsh.github.io/wing/) - Beautiful CSS framework designed for minimalists.  
-  ![](https://img.shields.io/github/stars/kbrsh/wing.svg?style=social&label=Star)
-  [Docs](https://kbrsh.github.io/wing/#installation),
-  [Repo](https://github.com/kbrsh/wing)
-  | #Stylus
-
 - [**Chota**](https://jenil.github.io/chota/) - Really small CSS framework.  
   ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social&label=Star)
   [Repo](https://github.com/jenil/chota)
@@ -385,6 +379,12 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](http://getmobicss.com/docs/introduction.html),
   [Repo](https://github.com/mobi-css/mobi.css)
   | #CSS
+
+- [**Wing**](https://kbrsh.github.io/wing/) - Beautiful CSS framework designed for minimalists.  
+  ![](https://img.shields.io/github/stars/kbrsh/wing.svg?style=social&label=Star)
+  [Docs](https://kbrsh.github.io/wing/#installation),
+  [Repo](https://github.com/kbrsh/wing)
+  | #Stylus
 
 - [**Pills**](http://arkpod.in/pills/) - Simple responsive CSS Grid for humans.  
   ![](https://img.shields.io/github/stars/rohitkrai03/pills.svg?style=social&label=Star)
