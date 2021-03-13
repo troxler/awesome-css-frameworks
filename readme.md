@@ -330,23 +330,6 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Repo](https://github.com/semantic-org/semantic-ui)
   | #LESS
 
-- [**Material Design Lite**](https://getmdl.io) - Material Design components in HTML/CSS/JS.  
-  ![](https://img.shields.io/github/stars/google/material-design-lite.svg?style=social&label=Star)
-  [Demo](https://getmdl.io/showcase/index.html),
-  [Docs](https://getmdl.io/started/index.html),
-  [Repo](https://github.com/google/material-design-lite)
-
-- [**Skeleton**](http://getskeleton.com) - Dead simple, responsive boilerplate.  
-  ![](https://img.shields.io/github/stars/dhg/Skeleton.svg?style=social&label=Star)
-  [Demo](http://getskeleton.com/#examples),
-  [Docs](http://getskeleton.com/#grid),
-  [Repo](https://github.com/dhg/Skeleton/)
-
-- [**Compass**](http://compass-style.org) - Open-source CSS authoring framework.  
-  ![](https://img.shields.io/github/stars/Compass/compass.svg?style=social&label=Star)
-  [Docs](http://compass-style.org/help/),
-  [Repo](https://github.com/Compass/compass)
-
 - [**Flexbox Grid**](http://flexboxgrid.com) - Grid based on CSS3 flexbox.  
   ![](https://img.shields.io/github/stars/kristoferjoseph/flexboxgrid.svg?style=social&label=Star)
   [Repo](https://github.com/kristoferjoseph/flexboxgrid)
