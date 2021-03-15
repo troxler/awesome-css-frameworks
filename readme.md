@@ -265,6 +265,7 @@ Frameworks that are smaller than ~5KB.
 
 - [**Tailwind CSS**](https://tailwindcss.com) - Utility-first CSS framework for rapid UI development.  
   ![](https://img.shields.io/github/stars/tailwindcss/tailwindcss.svg?style=social&label=Star)
+  [Demo](https://tailwindcss.com/),
   [Docs](https://tailwindcss.com/docs/what-is-tailwind/),
   [Repo](https://github.com/tailwindcss/tailwindcss)
   | #CSS
