@@ -302,7 +302,8 @@ Frameworks that are smaller than ~5KB.
 - [**TuiCss**](https://github.com/vinibiavatti1/TuiCss) - Library to create MS-DOS interfaces.  
   ![](https://img.shields.io/github/stars/vinibiavatti1/TuiCss.svg?style=social&label=Star)
   [Demo](https://github.com/vinibiavatti1/TuiCss/wiki/Examples),
-  [Docs](https://github.com/vinibiavatti1/TuiCss/wiki)
+  [Docs](https://github.com/vinibiavatti1/TuiCss/wiki),
+  [Repo](https://github.com/vinibiavatti1/TuiCss)
   | #SCSS
 
 
