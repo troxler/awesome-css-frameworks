@@ -267,7 +267,7 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/tailwindcss/tailwindcss.svg?style=social&label=Star)
   [Demo](https://tailwindcss.com/),
   [Docs](https://tailwindcss.com/docs/what-is-tailwind/),
-  [Repo](https://github.com/tailwindcss/tailwindcss)
+  [Repo](https://github.com/tailwindlabs/tailwindcss)
   | #CSS
 
 - [**Tachyons**](https://tachyons.io) - Quickly build and design new UI without writing CSS.  
