@@ -394,7 +394,7 @@ We are keeping them here for reference/inspiration and hope for a revival.
 
 - [**Propeller**](https://propeller.in) - Front-end responsive framework based on Google's Material Design standards & Bootstrap.  
   ![](https://img.shields.io/github/stars/digicorp/propeller.svg?style=social&label=Star)
-  [Docs](https://propeller.in/get-started/),
+  [Docs](https://propeller.in/frameworks/open-source/get-started/),
   [Repo](https://github.com/digicorp/propeller)
   | #SCSS
 
