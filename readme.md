@@ -242,7 +242,7 @@ Frameworks that are smaller than ~5KB.
 
 - [**Material Components Web**](https://material.io/components/web/) - Modular and customizable Material Design UI components for the web.  
   ![](https://img.shields.io/github/stars/material-components/material-components-web.svg?style=social&label=Star)
-  [Demo](https://material.io/components/web/catalog/),
+  [Demo](https://material.io/components?platform=web),
   [Docs](https://material.io/develop/web/getting-started),
   [Repo](https://github.com/material-components/material-components-web)
   | #SCSS
