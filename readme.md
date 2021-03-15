@@ -77,6 +77,7 @@ Frameworks that use semantic HTML and do not rely on classes.
 
 - [**MVP.css**](https://andybrewer.github.io/mvp/) - Minimalist stylesheet for HTML elements.  
   ![](https://img.shields.io/github/stars/andybrewer/mvp.svg?style=social&label=Star)
+  [Demo](https://andybrewer.github.io/mvp/mvp.html),
   [Docs](https://andybrewer.github.io/mvp/#docs),
   [Repo](https://github.com/andybrewer/mvp/)
   | #CSS
