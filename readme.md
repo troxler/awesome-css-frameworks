@@ -84,6 +84,7 @@ Frameworks that use semantic HTML and do not rely on classes.
 - [**sakura**](https://oxal.org/projects/sakura/) - Minimal classless CSS framework/theme.  
   ![](https://img.shields.io/github/stars/oxalorg/sakura.svg?style=social&label=Star)
   [Demo](https://oxal.org/projects/sakura/demo/),
+  [Docs](https://oxal.org/projects/sakura/),
   [Repo](https://github.com/oxalorg/sakura)
   | #SCSS
   
