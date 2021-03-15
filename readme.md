@@ -310,7 +310,7 @@ Frameworks that are smaller than ~5KB.
 
 - [**Bojler**](https://bojler.slicejack.com) - Email framework for developing responsive and lightweight email templates.  
   ![](https://img.shields.io/github/stars/Slicejack/bojler.svg?style=social&label=Star)
-  [Docs](https://bojler.slicejack.com/getting-started/),
+  [Docs](https://bojler.slicejack.com/documentation/getting-started/),
   [Repo](https://github.com/Slicejack/bojler)
   | #SCSS
 
