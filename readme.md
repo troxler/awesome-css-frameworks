@@ -290,6 +290,7 @@ Frameworks that are smaller than ~5KB.
 
 - [**Tufte CSS**](https://edwardtufte.github.io/tufte-css/) - Style your webpage like Edward Tufte’s handouts.  
   ![](https://img.shields.io/github/stars/edwardtufte/tufte-css.svg?style=social&label=Star)
+  [Demo](https://edwardtufte.github.io/tufte-css/),
   [Repo](https://github.com/edwardtufte/tufte-css)
   | #CSS
 
