@@ -118,7 +118,7 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/yahoo/pure.svg?style=social&label=Star)
   [Demo](https://purecss.io/layouts/),
   [Docs](https://purecss.io/start/),
-  [Repo](https://github.com/yahoo/pure/)
+  [Repo](https://github.com/pure-css/pure)
   | #CSS
 
 - [**Milligram**](https://milligram.io) - Minimalist CSS framework.  
