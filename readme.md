@@ -200,7 +200,7 @@ Frameworks that are smaller than ~5KB.
 - [**Blaze UI**](https://www.blazeui.com) - Open source modular toolkit providing great structure for building websites quickly with a scalable and maintainable foundation.  
   ![](https://img.shields.io/github/stars/BlazeUI/blaze.svg?style=social&label=Star)
   [Demo](https://www.blazeui.com/components/buttons/),
-  [Docs](https://www.blazeui.com/getting-started/install),
+  [Docs](https://www.blazeui.com/getting-started/install/),
   [Repo](https://github.com/BlazeSoftware/atoms)
   | #SCSS
 
