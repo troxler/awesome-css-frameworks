@@ -201,7 +201,7 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/BlazeUI/blaze.svg?style=social&label=Star)
   [Demo](https://www.blazeui.com/components/buttons/),
   [Docs](https://www.blazeui.com/getting-started/install),
-  [Repo](https://github.com/BlazeUI/blaze)
+  [Repo](https://github.com/BlazeSoftware/atoms)
   | #SCSS
 
 - [**PatternFly**](https://www.patternfly.org/) - UI framework for enterprise web applications.  
