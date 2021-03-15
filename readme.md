@@ -156,7 +156,7 @@ Frameworks that are smaller than ~5KB.
 - [**Bulma**](https://bulma.io) - Modern CSS framework based on Flexbox.  
   ![](https://img.shields.io/github/stars/jgthms/bulma.svg?style=social&label=Star)
   [Demo](https://bulma.io/expo/),
-  [Docs](https://bulma.io/documentation/overview/start),
+  [Docs](https://bulma.io/documentation/overview/start/),
   [Repo](https://github.com/jgthms/bulma)
   | #Sass
 
