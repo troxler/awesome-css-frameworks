@@ -96,6 +96,8 @@ Frameworks that use semantic HTML and do not rely on classes.
 
 - [**Tacit**](https://yegor256.github.io/tacit/) - CSS framework for dummies, without classes.  
   ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social&label=Star)
+  [Demo](https://yegor256.github.io/tacit/),
+  [Docs](https://www.yegor256.com/2015/04/13/tacit-css-framework-for-dummies.html),
   [Repo](https://github.com/yegor256/tacit/)
   | #SCSS
   
