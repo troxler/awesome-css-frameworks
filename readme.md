@@ -187,7 +187,7 @@ Frameworks that are smaller than ~5KB.
 
 - [**Carbon Components**](https://www.carbondesignsystem.com/) - Component library behind IBM's Carbon Design System.  
   ![](https://img.shields.io/github/stars/IBM/carbon-components.svg?style=social&label=Star)
-  [Docs](https://www.carbondesignsystem.com/components/overview),
+  [Docs](https://www.carbondesignsystem.com/components/overview/),
   [Repo](https://github.com/carbon-design-system/carbon)
   | #SCSS
 
