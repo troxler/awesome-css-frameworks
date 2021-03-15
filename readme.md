@@ -69,7 +69,7 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 
 Frameworks that use semantic HTML and do not rely on classes.
 
-- [**Water.css**](https://watercss.netlify.com/) - Just-add-CSS collection of styles to make simple websites just a little nicer.  
+- [**Water.css**](https://watercss.netlify.app/) - Just-add-CSS collection of styles to make simple websites just a little nicer.  
   ![](https://img.shields.io/github/stars/kognise/water.css.svg?style=social&label=Star)
   [Docs](https://watercss.kognise.dev/),
   [Repo](https://github.com/kognise/water.css)
