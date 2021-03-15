@@ -122,6 +122,7 @@ Frameworks that are smaller than ~5KB.
 
 - [**Milligram**](http://milligram.io) - Minimalist CSS framework.  
   ![](https://img.shields.io/github/stars/milligram/milligram.svg?style=social&label=Star)
+  [Demo](https://milligram.io/showcase.html),
   [Docs](http://milligram.io/#getting-started),
   [Repo](https://github.com/milligram/milligram)
   | #Sass
