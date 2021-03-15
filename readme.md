@@ -297,6 +297,7 @@ Frameworks that are smaller than ~5KB.
 - [**Gutenberg**](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.  
   ![](https://img.shields.io/github/stars/BafS/Gutenberg.svg?style=social&label=Star)
   [Demo](https://bafs.github.io/Gutenberg/),
+  [Docs](https://bafs.github.io/Gutenberg/),
   [Repo](https://github.com/BafS/Gutenberg)
   | #SCSS
 
