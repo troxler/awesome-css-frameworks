@@ -226,6 +226,7 @@ Frameworks that are smaller than ~5KB.
 
 - [**Cirrus**](https://spiderpig86.github.io/Cirrus/) - Responsive and comprehensive CSS framework with beautiful controls and simplistic structure.  
   ![](https://img.shields.io/github/stars/spiderpig86/Cirrus.svg?style=social&label=Star)
+  [Demo](https://spiderpig86.github.io/Cirrus/#examples),
   [Docs](https://spiderpig86.github.io/Cirrus/docs/),
   [Repo](https://github.com/Spiderpig86/Cirrus)
   | #CSS
