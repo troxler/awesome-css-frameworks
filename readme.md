@@ -160,7 +160,7 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/jgthms/bulma)
   | #Sass
 
-- [**Foundation**](http://foundation.zurb.com) - The most advanced responsive front-end framework in the world.  
+- [**Foundation**](https://get.foundation/) - The most advanced responsive front-end framework in the world.  
   ![](https://img.shields.io/github/stars/zurb/foundation-sites.svg?style=social&label=Star)
   [Docs](http://foundation.zurb.com/sites/docs/),
   [Repo](https://github.com/zurb/foundation-sites)
