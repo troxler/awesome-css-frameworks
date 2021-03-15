@@ -270,6 +270,7 @@ Frameworks that are smaller than ~5KB.
 
 - [**NES.css**](https://nostalgic-css.github.io/NES.css/) - NES-style CSS Framework.  
   ![](https://img.shields.io/github/stars/nostalgic-css/NES.css.svg?style=social&label=Star)
+  [Demo](https://nostalgic-css.github.io/NES.css/),
   [Docs](https://github.com/nostalgic-css/NES.css#installation),
   [Repo](https://github.com/nostalgic-css/NES.css)
   | #SCSS
