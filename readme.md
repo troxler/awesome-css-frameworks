@@ -139,7 +139,6 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/twbs/bootstrap.svg?style=social&label=Star)
   [Demo](https://getbootstrap.com/docs/4.0/examples/),
   [Docs](https://getbootstrap.com/docs/4.0/),
-  [Themes](https://github.com/therebelrobot/awesome-bootstrap),
   [Repo](https://github.com/twbs/bootstrap)
   | #SCSS
 
