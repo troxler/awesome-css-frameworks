@@ -48,7 +48,7 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   ![](https://img.shields.io/github/stars/hankchizljaw/modern-css-reset.svg?style=social&label=Star)
   [Repo](https://github.com/hankchizljaw/modern-css-reset)
   | #CSS
-  
+
 - [**ress**](https://github.com/filipelinhares/ress) - Modern CSS reset.  
   ![](https://img.shields.io/github/stars/filipelinhares/ress.svg?style=social&label=Star)
   [Repo](https://github.com/filipelinhares/ress)
@@ -61,7 +61,6 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 
 - [**Natural Selection**](https://github.com/frontaid/natural-selection) - Collection of best-practice CSS selectors.  
   ![](https://img.shields.io/github/stars/frontaid/natural-selection.svg?style=social&label=Star)
-  [Repo](https://github.com/frontaid/natural-selection)
   | #CSS
 
 
@@ -69,15 +68,13 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 
 Frameworks that use semantic HTML and do not rely on classes.
 
-- [**Water.css**](https://watercss.netlify.app/) - Just-add-CSS collection of styles to make simple websites just a little nicer.  
+- [**Water.css**](https://watercss.kognise.dev/) - Just-add-CSS collection of styles to make simple websites just a little nicer.  
   ![](https://img.shields.io/github/stars/kognise/water.css.svg?style=social&label=Star)
-  [Docs](https://watercss.kognise.dev/),
   [Repo](https://github.com/kognise/water.css)
   | #CSS
 
 - [**MVP.css**](https://andybrewer.github.io/mvp/) - Minimalist stylesheet for HTML elements.  
   ![](https://img.shields.io/github/stars/andybrewer/mvp.svg?style=social&label=Star)
-  [Demo](https://andybrewer.github.io/mvp/mvp.html),
   [Docs](https://andybrewer.github.io/mvp/#docs),
   [Repo](https://github.com/andybrewer/mvp/)
   | #CSS
@@ -85,10 +82,9 @@ Frameworks that use semantic HTML and do not rely on classes.
 - [**sakura**](https://oxal.org/projects/sakura/) - Minimal classless CSS framework/theme.  
   ![](https://img.shields.io/github/stars/oxalorg/sakura.svg?style=social&label=Star)
   [Demo](https://oxal.org/projects/sakura/demo/),
-  [Docs](https://oxal.org/projects/sakura/),
   [Repo](https://github.com/oxalorg/sakura)
   | #SCSS
-  
+
 - [**Marx**](https://mblode.github.io/marx/) - Classless CSS reset.  
   ![](https://img.shields.io/github/stars/mblode/marx.svg?style=social&label=Star)
   [Docs](https://mblode.github.io/marx/documentation/),
@@ -97,15 +93,12 @@ Frameworks that use semantic HTML and do not rely on classes.
 
 - [**Tacit**](https://yegor256.github.io/tacit/) - CSS framework for dummies, without classes.  
   ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social&label=Star)
-  [Demo](https://yegor256.github.io/tacit/),
-  [Docs](https://www.yegor256.com/2015/04/13/tacit-css-framework-for-dummies.html),
   [Repo](https://github.com/yegor256/tacit/)
   | #SCSS
-  
+
 - [**awsm.css**](https://igoradamenko.github.io/awsm.css/) - CSS library for semantic HTML markup without classes, attributes, etc.  
   ![](https://img.shields.io/github/stars/igoradamenko/awsm.css.svg?style=social&label=Star)
-  [Demo](https://igoradamenko.github.io/awsm.css/),
-  [Docs](https://igoradamenko.github.io/awsm.css/elements.html),
+  [Demo](https://igoradamenko.github.io/awsm.css/elements.html),
   [Repo](https://github.com/igoradamenko/awsm.css)
   | #SCSS
 
@@ -115,7 +108,7 @@ Frameworks that use semantic HTML and do not rely on classes.
 Frameworks that are smaller than ~5KB.
 
 - [**Pure**](https://purecss.io) - Set of small, responsive CSS modules that you can use in every web project.  
-  ![](https://img.shields.io/github/stars/yahoo/pure.svg?style=social&label=Star)
+  ![](https://img.shields.io/github/stars/pure-css/pure.svg?style=social&label=Star)
   [Demo](https://purecss.io/layouts/),
   [Docs](https://purecss.io/start/),
   [Repo](https://github.com/pure-css/pure)
@@ -265,7 +258,6 @@ Frameworks that are smaller than ~5KB.
 
 - [**Tailwind CSS**](https://tailwindcss.com) - Utility-first CSS framework for rapid UI development.  
   ![](https://img.shields.io/github/stars/tailwindcss/tailwindcss.svg?style=social&label=Star)
-  [Demo](https://tailwindcss.com/),
   [Docs](https://tailwindcss.com/docs),
   [Repo](https://github.com/tailwindlabs/tailwindcss)
   | #CSS
@@ -286,25 +278,20 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://github.com/nostalgic-css/NES.css#installation),
   [Repo](https://github.com/nostalgic-css/NES.css)
   | #SCSS
-  
+
 - [**98.css**](https://jdan.github.io/98.css/) - CSS library for building interfaces that look like Windows 98.  
   ![](https://img.shields.io/github/stars/jdan/98.css.svg?style=social&label=Star)
-  [Demo](https://jdan.github.io/98.css/),
-  [Docs](https://jdan.github.io/98.css/),
   [Repo](https://github.com/jdan/98.css)
   | #CSS
 
 - [**Gutenberg**](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.  
   ![](https://img.shields.io/github/stars/BafS/Gutenberg.svg?style=social&label=Star)
   [Demo](https://bafs.github.io/Gutenberg/),
-  [Docs](https://bafs.github.io/Gutenberg/),
-  [Repo](https://github.com/BafS/Gutenberg)
+  [Docs](https://github.com/BafS/Gutenberg#what-does-the-framework-do-)
   | #SCSS
 
 - [**Tufte CSS**](https://edwardtufte.github.io/tufte-css/) - Style your webpage like Edward Tufte’s handouts.  
   ![](https://img.shields.io/github/stars/edwardtufte/tufte-css.svg?style=social&label=Star)
-  [Demo](https://edwardtufte.github.io/tufte-css/),
-  [Docs](https://edwardtufte.github.io/tufte-css/),
   [Repo](https://github.com/edwardtufte/tufte-css)
   | #CSS
 
@@ -317,8 +304,7 @@ Frameworks that are smaller than ~5KB.
 - [**TuiCss**](https://github.com/vinibiavatti1/TuiCss) - Library to create MS-DOS interfaces.  
   ![](https://img.shields.io/github/stars/vinibiavatti1/TuiCss.svg?style=social&label=Star)
   [Demo](https://github.com/vinibiavatti1/TuiCss/wiki/Examples),
-  [Docs](https://github.com/vinibiavatti1/TuiCss/wiki),
-  [Repo](https://github.com/vinibiavatti1/TuiCss)
+  [Docs](https://github.com/vinibiavatti1/TuiCss/wiki)
   | #SCSS
 
 
@@ -356,7 +342,7 @@ We are keeping them here for reference/inspiration and hope for a revival.
 - [**Basscss**](https://basscss.com) - Low-level CSS toolkit.  
   ![](https://img.shields.io/github/stars/basscss/basscss.svg?style=social&label=Star)
   [Repo](https://github.com/basscss/basscss/)
-  
+
 - [**Neat**](https://neat.bourbon.io/) - Lightweight and flexible Sass grid.  
   ![](https://img.shields.io/github/stars/thoughtbot/neat.svg?style=social&label=Star)
   [Demo](https://neat.bourbon.io/examples/),
