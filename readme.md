@@ -179,7 +179,7 @@ Frameworks that are smaller than ~5KB.
   | #SCSS
 
 - [**Carbon Components**](https://www.carbondesignsystem.com/) - Component library behind IBM's Carbon Design System.  
-  ![](https://img.shields.io/github/stars/IBM/carbon-components.svg?style=social&label=Star)
+  ![](https://img.shields.io/github/stars/carbon-design-system/carbon-components.svg?style=social&label=Star)
   [Docs](https://www.carbondesignsystem.com/components/overview/),
   [Repo](https://github.com/carbon-design-system/carbon)
   | #SCSS
@@ -191,7 +191,7 @@ Frameworks that are smaller than ~5KB.
   | #LESS
 
 - [**Blaze UI**](https://www.blazeui.com) - Open source modular toolkit providing great structure for building websites quickly with a scalable and maintainable foundation.  
-  ![](https://img.shields.io/github/stars/BlazeUI/blaze.svg?style=social&label=Star)
+  ![](https://img.shields.io/github/stars/BlazeSoftware/atoms.svg?style=social&label=Star)
   [Demo](https://www.blazeui.com/components/buttons/),
   [Docs](https://www.blazeui.com/getting-started/install/),
   [Repo](https://github.com/BlazeSoftware/atoms)
@@ -257,7 +257,7 @@ Frameworks that are smaller than ~5KB.
 ## Utility-based
 
 - [**Tailwind CSS**](https://tailwindcss.com) - Utility-first CSS framework for rapid UI development.  
-  ![](https://img.shields.io/github/stars/tailwindcss/tailwindcss.svg?style=social&label=Star)
+  ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss.svg?style=social&label=Star)
   [Docs](https://tailwindcss.com/docs),
   [Repo](https://github.com/tailwindlabs/tailwindcss)
   | #CSS
