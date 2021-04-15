@@ -105,7 +105,7 @@ Frameworks that use semantic HTML and do not rely on classes.
 
 ## Very Lightweight
 
-Frameworks that are smaller than ~5KB.
+Frameworks that are smaller than ~20KB.
 
 - [**Pure**](https://purecss.io) - Set of small, responsive CSS modules that you can use in every web project.  
   ![](https://img.shields.io/github/stars/pure-css/pure.svg?style=social&label=Star)
@@ -134,6 +134,13 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://jenil.github.io/chota/#docs),
   [Repo](https://github.com/jenil/chota)
   | #CSS
+  
+- [**Skeleton**](http://getskeleton.com/) - A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development.  
+  ![](https://img.shields.io/github/stars/dhg/Skeleton.svg?style=social&label=Star)
+  [Demo](http://getskeleton.com/examples/landing/),
+  [Docs](http://getskeleton.com/),
+  [Repo](https://github.com/dhg/Skeleton)
+  | #CSS  
 
 
 ## General Purpose
