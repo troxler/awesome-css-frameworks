@@ -24,6 +24,13 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 
 ## Base / Reset / Normalize
 
+- [**Reseter.css**](https://github.com/krishdevdb/reseter.css) - A Futuristic Alternative To Normalize.css And CSS Resets.  
+  ![](https://img.shields.io/github/stars/krishdevdb/reseter.css.svg?style=social&label=Star)
+  [Demo](https://www.cssscript.com/demo/css-reset-normalizer/),
+  [Docs](https://krishdevdb.github.io/reseter.css/),
+  [Repo](https://github.com/krishdevdb/reseter.css)
+  | #CSS #SASS #SCSS #LESS #STYLUS #STYLED-COMPONENTS
+
 - [**normalize.css**](https://necolas.github.io/normalize.css/) - Modern, HTML5-ready alternative to CSS resets.  
   ![](https://img.shields.io/github/stars/necolas/normalize.css.svg?style=social&label=Star)
   [Repo](https://github.com/necolas/normalize.css/)
