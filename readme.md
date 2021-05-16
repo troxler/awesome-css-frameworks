@@ -239,11 +239,10 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/material-components/material-components-web)
   | #SCSS
 
-- [**Materialize**](https://materializecss.com) - CSS framework based on material design.  
-  ![](https://img.shields.io/github/stars/Dogfalo/materialize.svg?style=social&label=Star)
-  [Demo](https://materializecss.com/showcase.html),
-  [Docs](https://materializecss.com/getting-started.html),
-  [Repo](https://github.com/Dogfalo/materialize)
+- [**Materialize**](https://materializecss.github.io/materialize/) - CSS framework based on material design.  
+  ![](https://img.shields.io/github/stars/materializecss/materialize.svg?style=social&label=Star)
+  [Docs](https://materializecss.github.io/materialize/getting-started.html),
+  [Repo](https://github.com/materializecss/materialize)
   | #SCSS
 
 - [**MUI**](https://www.muicss.com) - Lightweight CSS framework that follows Google's Material Design guidelines.  
