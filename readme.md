@@ -251,6 +251,12 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://www.muicss.com/docs/v1/getting-started/introduction),
   [Repo](https://github.com/muicss/mui)
   | #SCSS
+  
+- [**Tronic247 Material**](https://www.tronic247.com/material/) - Lightweight CSS framework based on jQuery that follows Google's Material Design guidelines.  
+  ![](https://img.shields.io/github/stars/tronic247/material.svg?style=social&label=Star)
+  [Docs](https://www.tronic247.com/material/docs/getting-started),
+  [Repo](https://github.com/Tronic247/material)
+  | #SCSS
 
 
 ## Utility-based
