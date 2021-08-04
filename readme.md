@@ -228,6 +228,13 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://jonathanharrell.github.io/hiq/guide/),
   [Repo](https://github.com/jonathanharrell/hiq/)
   | #PostCSS
+  
+- [**Pico.css**](https://picocss.com/) - Elegant styles for all natives HTML elements and dark mode automatically enabled.  
+  ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social&label=Star)
+  [Demo](https://picocss.com/#examples),
+  [Docs](https://picocss.com/docs/),
+  [Repo](https://github.com/picocss/pico)
+  | #SCSS
 
 
 ## Material Design
