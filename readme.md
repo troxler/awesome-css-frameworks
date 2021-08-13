@@ -238,6 +238,13 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://material.io/develop/web/getting-started),
   [Repo](https://github.com/material-components/material-components-web)
   | #SCSS
+  
+- [**Material Design for Bootstrap v5 & v4**](https://mdbootstrap.com/) - Combination of Bootstrap and material design.  
+  ![](https://img.shields.io/github/stars/mdbootstrap/mdb-ui-kit.svg?style=social&label=Star)
+  [Demo](https://mdbootstrap.com/docs/standard/components/),
+  [Docs](https://mdbootstrap.com/docs/standard/getting-started/installation/),
+  [Repo](https://github.com/mdbootstrap/mdb-ui-kit)
+  | #SCSS
 
 - [**Materialize**](https://materializecss.com) - CSS framework based on material design.  
   ![](https://img.shields.io/github/stars/Dogfalo/materialize.svg?style=social&label=Star)
