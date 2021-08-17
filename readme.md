@@ -239,13 +239,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/material-components/material-components-web)
   | #SCSS
 
-- [**Materialize**](https://materializecss.com) - CSS framework based on material design.  
-  ![](https://img.shields.io/github/stars/Dogfalo/materialize.svg?style=social&label=Star)
-  [Demo](https://materializecss.com/showcase.html),
-  [Docs](https://materializecss.com/getting-started.html),
-  [Repo](https://github.com/Dogfalo/materialize)
-  | #SCSS
-
 - [**MUI**](https://www.muicss.com) - Lightweight CSS framework that follows Google's Material Design guidelines.  
   ![](https://img.shields.io/github/stars/muicss/mui.svg?style=social&label=Star)
   [Docs](https://www.muicss.com/docs/v1/getting-started/introduction),
@@ -333,6 +326,13 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://semantic-ui.com/introduction/getting-started.html),
   [Repo](https://github.com/semantic-org/semantic-ui)
   | #LESS
+
+- [**Materialize**](https://materializecss.com) - CSS framework based on material design.  
+  ![](https://img.shields.io/github/stars/Dogfalo/materialize.svg?style=social&label=Star)
+  [Demo](https://materializecss.com/showcase.html),
+  [Docs](https://materializecss.com/getting-started.html),
+  [Repo](https://github.com/Dogfalo/materialize)
+  | #SCSS
 
 - [**Flexbox Grid**](https://flexboxgrid.com) - Grid based on CSS3 flexbox.  
   ![](https://img.shields.io/github/stars/kristoferjoseph/flexboxgrid.svg?style=social&label=Star)
