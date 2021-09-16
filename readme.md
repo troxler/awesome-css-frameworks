@@ -222,6 +222,13 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://spiderpig86.github.io/Cirrus/docs/),
   [Repo](https://github.com/Spiderpig86/Cirrus)
   | #CSS
+  
+- [**Pico.css**](https://picocss.com/) - Elegant styles for all native HTML elements, dark mode automatically enabled.  
+  ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social&label=Star)
+  [Demo](https://picocss.com/#examples),
+  [Docs](https://picocss.com/docs/),
+  [Repo](https://github.com/picocss/pico)
+  | #SCSS
 
 - [**HiQ**](https://jonathanharrell.github.io/hiq/) - Simple CSS foundation with responsive typography and input styling.  
   ![](https://img.shields.io/github/stars/jonathanharrell/hiq.svg?style=social&label=Star)
