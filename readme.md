@@ -133,6 +133,35 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/jenil/chota)
   | #CSS
 
+- [**Skeleton CSS**](http://getskeleton.com/) - A dead simple, responsive boilerplate.
+  ![](https://img.shields.io/github/stars/dhg/Skeleton.svg?style=social&label=Star)
+  [Demo](http://getskeleton.com/#examples),
+  [Docs](http://getskeleton.com/#intro),
+  [Repo](https://github.com/dhg/Skeleton)
+  | #CSS
+
+- [**Mini CSS**](https://minicss.org/) - minimal, responsive, style-agnostic
+  CSS framework.
+  ![](https://img.shields.io/github/stars/Chalarangelo/mini.css.svg?style=social&label=Star)
+  [Demo](https://minicss.org/flavors),
+  [Docs](https://minicss.org/docs),
+  [Repo](https://github.com/Chalarangelo/mini.css)
+  | #CSS
+
+- [**BASSCSS**](https://basscss.com/) - Low-Level and Very Lightweight CSS Toolkit.
+  ![](https://img.shields.io/github/stars/basscss/basscss.svg?style=social&label=Star)
+  [Demo](https://basscss.com/#getting-started),
+  [Docs](https://basscss.com/#getting-started),
+  [Repo](https://github.com/basscss/basscss)
+  | #CSS
+
+- [**Simmple**](https://siimple.xyz/) - A minimal CSS toolkit for building flat, clean and responsive web designs.
+  ![](https://img.shields.io/github/stars/siimple/siimple.svg?style=social&label=Star)
+  [Demo](https://docs.siimple.xyz/components/alert.html),
+  [Docs](https://docs.siimple.xyz/),
+  [Repo](https://github.com/siimple/siimple)
+  | #CSS
+
 ## General Purpose
 
 - [**Bootstrap**](https://getbootstrap.com) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.  
