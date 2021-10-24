@@ -138,6 +138,10 @@ Frameworks that are smaller than ~5KB.
 
 ## General Purpose
 
+- [**antiweb**](https://git.sr.ht/~sircmpwn/antiweb) - antiweb is a CSS framework which aims to help you build websites and web applications which focus on simplicity, accessibility, usability, and compatibility with a broad set of web browsers and platforms, including platforms like Netsurf, IE6, and Lynx.
+  [Repo](https://git.sr.ht/~sircmpwn/antiweb)
+  | #SCSS
+
 - [**Bootstrap**](https://getbootstrap.com) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.  
   ![](https://img.shields.io/github/stars/twbs/bootstrap.svg?style=social&label=Star)
   [Demo](https://getbootstrap.com/docs/4.0/examples/),
