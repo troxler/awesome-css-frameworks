@@ -273,7 +273,7 @@ Frameworks that are smaller than ~5KB.
   [Demo](https://open-props.style/#gallery),
   [Docs](https://open-props.style),
   [Repo](https://github.com/argyleink/open-props/)
-  | #CSS
+  | #CSS #PostCSS
 
 
 ## Specialized
