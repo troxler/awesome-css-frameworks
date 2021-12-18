@@ -224,6 +224,13 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/picocss/pico)
   | #SCSS
 
+- [**Vanilla Framework**](https://vanillaframework.io/) - Simple, extensible CSS framework. Written by the Canonical Web Team.  
+  ![](https://img.shields.io/github/stars/canonical-web-and-design/vanilla-framework.svg?style=social&label=Star)
+  [Demo](https://vanillaframework.io/docs/examples),
+  [Docs](https://vanillaframework.io/docs/),
+  [Repo](https://github.com/canonical-web-and-design/vanilla-framework)
+  | #SCSS
+
 - [**HiQ**](https://jonathanharrell.github.io/hiq/) - Simple CSS foundation with responsive typography and input styling.  
   ![](https://img.shields.io/github/stars/jonathanharrell/hiq.svg?style=social&label=Star)
   [Docs](https://jonathanharrell.github.io/hiq/guide/),
