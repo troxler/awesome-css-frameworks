@@ -216,12 +216,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/turretcss/turretcss)
   | #CSS
 
-- [**Vanilla Framework**](https://vanillaframework.io/) - A simple, extensible CSS framework, backed by open-source code and written in Sass by the Canonical Web Team.  
-  ![](https://img.shields.io/github/stars/canonical-web-and-design/vanilla-framework.svg?style=social&label=Star)
-  [Docs](https://vanillaframework.io/docs/),
-  [Repo](https://github.com/canonical-web-and-design/vanilla-framework)
-  | #SCSS
-
 - [**Cirrus**](https://cirrus-ui.netlify.app/) - Component and utility centric SCSS framework designed for rapid prototyping.  
   ![](https://img.shields.io/github/stars/spiderpig86/Cirrus.svg?style=social&label=Star)
   [Demo](https://cirrus-ui.netlify.app/getting-started/examples),
@@ -234,6 +228,13 @@ Frameworks that are smaller than ~5KB.
   [Demo](https://picocss.com/#examples),
   [Docs](https://picocss.com/docs/),
   [Repo](https://github.com/picocss/pico)
+  | #SCSS
+
+- [**Vanilla Framework**](https://vanillaframework.io/) - Simple, extensible CSS framework. Written by the Canonical Web Team.  
+  ![](https://img.shields.io/github/stars/canonical-web-and-design/vanilla-framework.svg?style=social&label=Star)
+  [Demo](https://vanillaframework.io/docs/examples),
+  [Docs](https://vanillaframework.io/docs/),
+  [Repo](https://github.com/canonical-web-and-design/vanilla-framework)
   | #SCSS
 
 - [**HiQ**](https://jonathanharrell.github.io/hiq/) - Simple CSS foundation with responsive typography and input styling.  
