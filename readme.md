@@ -39,15 +39,15 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   [Repo](https://github.com/jgthms/minireset.css)
   | #Sass
 
-- [**inuitcss**](https://github.com/inuitcss/inuitcss) - Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.  
-  ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social&label=Star)
-  [Repo](https://github.com/inuitcss/inuitcss)
-  | #SCSS
-
 - [**modern-css-reset**](https://github.com/hankchizljaw/modern-css-reset) - Tiny little reset that you can use as the basis of your CSS projects.  
   ![](https://img.shields.io/github/stars/hankchizljaw/modern-css-reset.svg?style=social&label=Star)
   [Repo](https://github.com/hankchizljaw/modern-css-reset)
   | #CSS
+
+- [**inuitcss**](https://github.com/inuitcss/inuitcss) - Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.  
+  ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social&label=Star)
+  [Repo](https://github.com/inuitcss/inuitcss)
+  | #SCSS
 
 - [**ress**](https://github.com/filipelinhares/ress) - Modern CSS reset.  
   ![](https://img.shields.io/github/stars/filipelinhares/ress.svg?style=social&label=Star)
@@ -183,6 +183,13 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/fomantic/fomantic-ui/)
   | #LESS
 
+- [**Pico.css**](https://picocss.com/) - Elegant styles for all native HTML elements, dark mode automatically enabled.  
+  ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social&label=Star)
+  [Demo](https://picocss.com/#examples),
+  [Docs](https://picocss.com/docs/),
+  [Repo](https://github.com/picocss/pico)
+  | #SCSS
+
 - [**Blaze UI**](https://www.blazeui.com) - Open source modular toolkit providing great structure for building websites quickly with a scalable and maintainable foundation.  
   ![](https://img.shields.io/github/stars/BlazeSoftware/atoms.svg?style=social&label=Star)
   [Demo](https://www.blazeui.com/components/buttons/),
@@ -190,18 +197,18 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/BlazeSoftware/atoms)
   | #SCSS
 
-- [**PatternFly**](https://www.patternfly.org/) - UI framework for enterprise web applications.  
-  ![](https://img.shields.io/github/stars/patternfly/patternfly.svg?style=social&label=Star)
-  [Demo](https://www.patternfly.org/pattern-library/),
-  [Docs](https://www.patternfly.org/get-started/),
-  [Repo](https://github.com/patternfly/patternfly)
-  | #SCSS #LESS
-
 - [**Base**](https://getbase.org) - Rock solid, responsive HTML/CSS framework.  
   ![](https://img.shields.io/github/stars/getbase/base.svg?style=social&label=Star)
   [Docs](https://github.com/getbase/base/blob/master/readme.md#documentation),
   [Repo](https://github.com/getbase/base)
   | #SCSS #LESS
+
+- [**Cirrus**](https://cirrus-ui.netlify.app/) - Component and utility centric SCSS framework designed for rapid prototyping.  
+  ![](https://img.shields.io/github/stars/spiderpig86/Cirrus.svg?style=social&label=Star)
+  [Demo](https://cirrus-ui.netlify.app/getting-started/examples),
+  [Docs](https://cirrus-ui.netlify.app/getting-started/setup),
+  [Repo](https://github.com/Spiderpig86/Cirrus)
+  | #CSS
 
 - [**turretcss**](https://turretcss.com) - Responsive front-end framework for accessible and semantic websites.  
   ![](https://img.shields.io/github/stars/turretcss/turretcss.svg?style=social&label=Star)
@@ -210,26 +217,19 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/turretcss/turretcss)
   | #CSS
 
-- [**Cirrus**](https://cirrus-ui.netlify.app/) - Component and utility centric SCSS framework designed for rapid prototyping.  
-  ![](https://img.shields.io/github/stars/spiderpig86/Cirrus.svg?style=social&label=Star)
-  [Demo](https://cirrus-ui.netlify.app/getting-started/examples),
-  [Docs](https://cirrus-ui.netlify.app/getting-started/setup),
-  [Repo](https://github.com/Spiderpig86/Cirrus)
-  | #CSS
-  
-- [**Pico.css**](https://picocss.com/) - Elegant styles for all native HTML elements, dark mode automatically enabled.  
-  ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social&label=Star)
-  [Demo](https://picocss.com/#examples),
-  [Docs](https://picocss.com/docs/),
-  [Repo](https://github.com/picocss/pico)
-  | #SCSS
-
 - [**Vanilla Framework**](https://vanillaframework.io/) - Simple, extensible CSS framework. Written by the Canonical Web Team.  
   ![](https://img.shields.io/github/stars/canonical-web-and-design/vanilla-framework.svg?style=social&label=Star)
   [Demo](https://vanillaframework.io/docs/examples),
   [Docs](https://vanillaframework.io/docs/),
   [Repo](https://github.com/canonical-web-and-design/vanilla-framework)
   | #SCSS
+
+- [**PatternFly**](https://www.patternfly.org/) - UI framework for enterprise web applications.  
+  ![](https://img.shields.io/github/stars/patternfly/patternfly.svg?style=social&label=Star)
+  [Demo](https://www.patternfly.org/pattern-library/),
+  [Docs](https://www.patternfly.org/get-started/),
+  [Repo](https://github.com/patternfly/patternfly)
+  | #SCSS #LESS
 
 - [**HiQ**](https://jonathanharrell.github.io/hiq/) - Simple CSS foundation with responsive typography and input styling.  
   ![](https://img.shields.io/github/stars/jonathanharrell/hiq.svg?style=social&label=Star)
@@ -284,16 +284,16 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/jdan/98.css)
   | #CSS
 
+- [**Tufte CSS**](https://edwardtufte.github.io/tufte-css/) - Style your webpage like Edward Tufte’s handouts.  
+  ![](https://img.shields.io/github/stars/edwardtufte/tufte-css.svg?style=social&label=Star)
+  [Repo](https://github.com/edwardtufte/tufte-css)
+  | #CSS
+
 - [**Gutenberg**](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.  
   ![](https://img.shields.io/github/stars/BafS/Gutenberg.svg?style=social&label=Star)
   [Demo](https://bafs.github.io/Gutenberg/),
   [Docs](https://github.com/BafS/Gutenberg#what-does-the-framework-do-)
   | #SCSS
-
-- [**Tufte CSS**](https://edwardtufte.github.io/tufte-css/) - Style your webpage like Edward Tufte’s handouts.  
-  ![](https://img.shields.io/github/stars/edwardtufte/tufte-css.svg?style=social&label=Star)
-  [Repo](https://github.com/edwardtufte/tufte-css)
-  | #CSS
 
 - [**Bojler**](https://bojler.slicejack.com) - Email framework for developing responsive and lightweight email templates.  
   ![](https://img.shields.io/github/stars/Slicejack/bojler.svg?style=social&label=Star)
