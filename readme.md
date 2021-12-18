@@ -230,6 +230,11 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/jonathanharrell/hiq/)
   | #PostCSS
 
+- [**Doodle CSS**](https://github.com/chr15m/DoodleCSS) - A simple hand drawn HTML/CSS theme.  
+  ![](https://img.shields.io/github/stars/chr15m/DoodleCSS.svg?style=social&label=Star)
+  [Demo](https://chr15m.github.io/DoodleCSS/),
+  [Repo](https://github.com/chr15m/DoodleCSS)
+  | #CSS
 
 ## Material Design
 
