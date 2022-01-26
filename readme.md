@@ -85,6 +85,13 @@ Frameworks that use semantic HTML and do not rely on classes.
   [Repo](https://github.com/oxalorg/sakura)
   | #SCSS
 
+- [**Simple.css**](https://simplecss.org) - Classless CSS template that allows you to make a good looking website really quickly.  
+  ![](https://img.shields.io/github/stars/kevquirk/simple.css.svg?style=social&label=Star)
+  [Demo](https://simplecss.org/demo),
+  [Docs](https://github.com/kevquirk/simple.css/wiki),
+  [Repo](https://github.com/kevquirk/simple.css)
+  | #SCSS
+
 - [**Marx**](https://mblode.github.io/marx/) - Classless CSS reset.  
   ![](https://img.shields.io/github/stars/mblode/marx.svg?style=social&label=Star)
   [Docs](https://mblode.github.io/marx/documentation/),
