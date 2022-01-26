@@ -268,6 +268,13 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://tachyons.io/docs/),
   [Repo](https://github.com/tachyons-css/tachyons/)
   | #CSS
+  
+- [**Open Props**](https://open-props.style) - CSS custom properties to help accelerate adaptive and consistent design.  
+  ![](https://img.shields.io/github/stars/argyleink/open-props.svg?style=social&label=Star)
+  [Demo](https://open-props.style/#gallery),
+  [Docs](https://open-props.style/#getting-started),
+  [Repo](https://github.com/argyleink/open-props/)
+  | #CSS #PostCSS
 
 
 ## Specialized
