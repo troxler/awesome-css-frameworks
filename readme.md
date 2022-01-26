@@ -90,7 +90,7 @@ Frameworks that use semantic HTML and do not rely on classes.
   [Demo](https://simplecss.org/demo),
   [Docs](https://github.com/kevquirk/simple.css/wiki),
   [Repo](https://github.com/kevquirk/simple.css)
-  | #SCSS
+  | #CSS
 
 - [**Marx**](https://mblode.github.io/marx/) - Classless CSS reset.  
   ![](https://img.shields.io/github/stars/mblode/marx.svg?style=social&label=Star)
