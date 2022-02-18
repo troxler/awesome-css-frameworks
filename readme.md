@@ -85,12 +85,6 @@ Frameworks that use semantic HTML and do not rely on classes.
   [Repo](https://github.com/oxalorg/sakura)
   | #SCSS
 
-- [**Marx**](https://mblode.github.io/marx/) - Classless CSS reset.  
-  ![](https://img.shields.io/github/stars/mblode/marx.svg?style=social&label=Star)
-  [Docs](https://mblode.github.io/marx/documentation/),
-  [Repo](https://github.com/mblode/marx)
-  | #SCSS #Stylus
-
 - [**Tacit**](https://yegor256.github.io/tacit/) - CSS framework for dummies, without classes.  
   ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social&label=Star)
   [Repo](https://github.com/yegor256/tacit/)
