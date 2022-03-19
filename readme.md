@@ -132,6 +132,13 @@ Frameworks that are smaller than ~5KB.
 
 ## General Purpose
 
+- [**AgnosticUI**](http://agnosticui.com) - Accessible CSS component primitives that also work with React, Vue 3, Svelte, and Angular
+  ![](https://img.shields.io/github/stars/agnosticui/agnosticui.svg?style=social&label=Star)
+  [Demo](https://developtodesign.com/agnosticui-examples),
+  [Docs](https://www.agnosticui.com),
+  [Repo](https://github.com/agnosticui/agnosticui)
+  | #CSS
+
 - [**Bootstrap**](https://getbootstrap.com) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.  
   ![](https://img.shields.io/github/stars/twbs/bootstrap.svg?style=social&label=Star)
   [Demo](https://getbootstrap.com/docs/4.0/examples/),
