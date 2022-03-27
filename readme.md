@@ -129,6 +129,12 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/jenil/chota)
   | #CSS
 
+- [**minstyle.io**](https://minstyle.io) - Simple & light CSS framework, including dark mode.  
+  ![](https://img.shields.io/github/stars/Airmime/minstyle.io.svg?style=social&label=Star)
+  [Docs](https://minstyle.io/docs/about),
+  [Repo](https://github.com/Airmime/minstyle.io)
+  | #SCSS
+
 
 ## General Purpose
 
