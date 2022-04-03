@@ -204,7 +204,7 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/Spiderpig86/Cirrus)
   | #CSS
 
-- [**ILUS CSS**](https://atoms19.github.io/ilus) - funky css framework with lots of components, utilities and a responsive grid.
+- [**ILUS CSS**](https://atoms19.github.io/ilus) - funky css framework with lots of components,animations,utilities and a responsive grid.
   ![](https://img.shields.io/github/stars/atoms19/ILUS.CSS.svg?style=social&label=Star)
   [Docs](https://atoms19.github.io/ilus),
   [Repo](https://github.com/atoms19/ILUS.CSS)
