@@ -296,6 +296,11 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://github.com/BafS/Gutenberg#what-does-the-framework-do-)
   | #SCSS
 
+- [**XP.css**](https://botoxparty.github.io/XP.css/) - CSS library for building interfaces that look like Windows XP.  
+  ![](https://img.shields.io/github/stars/botoxparty/XP.css.svg?style=social&label=Star)
+  [Repo](https://github.com/botoxparty/XP.css)
+  | #PostCSS
+
 - [**Bojler**](https://bojler.slicejack.com) - Email framework for developing responsive and lightweight email templates.  
   ![](https://img.shields.io/github/stars/Slicejack/bojler.svg?style=social&label=Star)
   [Docs](https://bojler.slicejack.com/documentation/getting-started/),
@@ -308,6 +313,10 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://github.com/vinibiavatti1/TuiCss/wiki)
   | #SCSS
 
+- [**7.css**](https://khang-nd.github.io/7.css/) - CSS library for building interfaces that look like Windows 7.  
+  ![](https://img.shields.io/github/stars/khang-nd/7.css.svg?style=social&label=Star)
+  [Repo](https://github.com/khang-nd/7.css)
+  | #PostCSS
 
 ## Toolkits
 
