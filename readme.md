@@ -84,6 +84,13 @@ Frameworks that use semantic HTML and do not rely on classes.
   [Demo](https://oxal.org/projects/sakura/demo/),
   [Repo](https://github.com/oxalorg/sakura)
   | #SCSS
+  
+- [**new.css**](https://newcss.net/) - Classless CSS framework to write modern websites using only HTML.  
+  ![](https://img.shields.io/github/stars/xz/new.css.svg?style=social&label=Star)
+  [Demo](https://newcss.net/demo/),
+  [Docs](https://newcss.net/usage/),
+  [Repo](https://github.com/xz/new.css)
+  | #CSS
 
 - [**Tacit**](https://yegor256.github.io/tacit/) - CSS framework for dummies, without classes.  
   ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social&label=Star)
