@@ -24,11 +24,6 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 
 ## Base / Reset / Normalize
 
-- [**normalize.css**](https://necolas.github.io/normalize.css/) - Modern, HTML5-ready alternative to CSS resets.  
-  ![](https://img.shields.io/github/stars/necolas/normalize.css.svg?style=social&label=Star)
-  [Repo](https://github.com/necolas/normalize.css/)
-  | #CSS
-
 - [**sanitize.css**](https://csstools.github.io/sanitize.css/) - The best-practices CSS foundation.  
   ![](https://img.shields.io/github/stars/csstools/sanitize.css.svg?style=social&label=Star)
   [Repo](https://github.com/csstools/sanitize.css)
@@ -335,6 +330,11 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://semantic-ui.com/introduction/getting-started.html),
   [Repo](https://github.com/semantic-org/semantic-ui)
   | #LESS
+
+- [**normalize.css**](https://necolas.github.io/normalize.css/) - Modern, HTML5-ready alternative to CSS resets.  
+  ![](https://img.shields.io/github/stars/necolas/normalize.css.svg?style=social&label=Star)
+  [Repo](https://github.com/necolas/normalize.css/)
+  | #CSS
 
 - [**Materialize**](https://materializecss.com) - CSS framework based on material design.  
   ![](https://img.shields.io/github/stars/Dogfalo/materialize.svg?style=social&label=Star)
