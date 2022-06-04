@@ -29,6 +29,11 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   [Repo](https://github.com/csstools/sanitize.css)
   | #CSS
 
+- [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) - Normalize browsers' default style.  
+  ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize.svg?style=social&label=Star)
+  [Repo](https://github.com/sindresorhus/modern-normalize)
+  | #CSS
+
 - [**minireset.css**](https://jgthms.com/minireset.css/) - Tiny modern CSS reset.  
   ![](https://img.shields.io/github/stars/jgthms/minireset.css.svg?style=social&label=Star)
   [Repo](https://github.com/jgthms/minireset.css)
@@ -47,11 +52,6 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 - [**ress**](https://github.com/filipelinhares/ress) - Modern CSS reset.  
   ![](https://img.shields.io/github/stars/filipelinhares/ress.svg?style=social&label=Star)
   [Repo](https://github.com/filipelinhares/ress)
-  | #CSS
-
-- [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) - Normalize for Chrome, Firefox, and Safari only (no support for Edge or Internet Explorer).  
-  ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize.svg?style=social&label=Star)
-  [Repo](https://github.com/sindresorhus/modern-normalize)
   | #CSS
 
 - [**Natural Selection**](https://github.com/frontaid/natural-selection) - Collection of best-practice CSS selectors.  
