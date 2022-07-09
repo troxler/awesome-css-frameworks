@@ -382,6 +382,10 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Repo](https://github.com/kbrsh/wing)
   | #Stylus
 
+- [**CSS Remedy**](https://github.com/jensimmons/cssremedy) - Start your project with a remedy for the technical debt of CSS.  
+  ![](https://img.shields.io/github/stars/jensimmons/cssremedy.svg?style=social&label=Star)
+  | #CSS
+
 - [**Cutestrap**](https://www.cutestrap.com) - Sassy, opinionated CSS framework, a tiny alternative to Bootstrap.  
   ![](https://img.shields.io/github/stars/tylerchilds/cutestrap.svg?style=social&label=Star)
   [Repo](https://github.com/tylerchilds/cutestrap)
