@@ -24,14 +24,14 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 
 ## Base / Reset / Normalize
 
-- [**normalize.css**](https://necolas.github.io/normalize.css/) - Modern, HTML5-ready alternative to CSS resets.  
-  ![](https://img.shields.io/github/stars/necolas/normalize.css.svg?style=social&label=Star)
-  [Repo](https://github.com/necolas/normalize.css/)
-  | #CSS
-
 - [**sanitize.css**](https://csstools.github.io/sanitize.css/) - The best-practices CSS foundation.  
   ![](https://img.shields.io/github/stars/csstools/sanitize.css.svg?style=social&label=Star)
   [Repo](https://github.com/csstools/sanitize.css)
+  | #CSS
+
+- [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) - Normalize browsers' default style.  
+  ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize.svg?style=social&label=Star)
+  [Repo](https://github.com/sindresorhus/modern-normalize)
   | #CSS
 
 - [**minireset.css**](https://jgthms.com/minireset.css/) - Tiny modern CSS reset.  
@@ -52,11 +52,6 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 - [**ress**](https://github.com/filipelinhares/ress) - Modern CSS reset.  
   ![](https://img.shields.io/github/stars/filipelinhares/ress.svg?style=social&label=Star)
   [Repo](https://github.com/filipelinhares/ress)
-  | #CSS
-
-- [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) - Normalize for Chrome, Firefox, and Safari only (no support for Edge or Internet Explorer).  
-  ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize.svg?style=social&label=Star)
-  [Repo](https://github.com/sindresorhus/modern-normalize)
   | #CSS
 
 - [**Natural Selection**](https://github.com/frontaid/natural-selection) - Collection of best-practice CSS selectors.  
@@ -341,6 +336,11 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://semantic-ui.com/introduction/getting-started.html),
   [Repo](https://github.com/semantic-org/semantic-ui)
   | #LESS
+
+- [**normalize.css**](https://necolas.github.io/normalize.css/) - Modern, HTML5-ready alternative to CSS resets.  
+  ![](https://img.shields.io/github/stars/necolas/normalize.css.svg?style=social&label=Star)
+  [Repo](https://github.com/necolas/normalize.css/)
+  | #CSS
 
 - [**Materialize**](https://materializecss.com) - CSS framework based on material design.  
   ![](https://img.shields.io/github/stars/Dogfalo/materialize.svg?style=social&label=Star)
