@@ -264,6 +264,12 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://open-props.style/#getting-started),
   [Repo](https://github.com/argyleink/open-props/)
   | #CSS #PostCSS
+  
+- [**Uniform CSS**](https://uniformcss.com) - A fully configurable utility class generator built for Sass projects.  
+  ![](https://img.shields.io/github/stars/ThinkUniform/uniformcss.svg?style=social&label=Star)
+  [Docs](https://uniformcss.com/docs/overview),
+  [Repo](https://github.com/ThinkUniform/uniformcss)
+  | #CSS #SCSS
 
 
 ## Specialized
