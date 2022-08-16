@@ -156,7 +156,7 @@ Frameworks that are smaller than ~5KB.
 
 - [**Primer**](https://primer.style/) - CSS framework that powers GitHub's front-end design.  
   ![](https://img.shields.io/github/stars/primer/css.svg?style=social&label=Star)
-  [Docs](https://styleguide.github.com/primer/),
+  [Docs](https://primer.style/css/),
   [Repo](https://github.com/primer/css)
   | #SCSS
 
