@@ -241,6 +241,12 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://www.muicss.com/docs/v1/getting-started/introduction),
   [Repo](https://github.com/muicss/mui)
   | #SCSS
+  
+- [**Beercss**](https://www.beercss.com/) - A CSS framework to build material design interfaces in record time without stress for devs.  
+  ![](https://img.shields.io/github/stars/beercss/beercss.svg?style=social&label=Star)
+  [Docs](https://github.com/beercss/beercss/blob/main/docs/INDEX.md),
+  [Repo](https://github.com/beercss/beercss)
+  | #CSS
 
 
 ## Utility-based
