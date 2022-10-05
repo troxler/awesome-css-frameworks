@@ -226,6 +226,12 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/jonathanharrell/hiq/)
   | #PostCSS
 
+- [**Fylgja**](https://fylgja.dev/) - The modular highly customizable CSS framework.
+  ![](https://img.shields.io/github/stars/fylgja/fylgja.svg?style=social&label=Star)
+  [Docs](https://fylgja.dev/components/),
+  [Repo](https://github.com/fylgja/fylgja)
+  | #CSS #SCSS
+
 
 ## Material Design
 
