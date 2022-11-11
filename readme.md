@@ -134,6 +134,12 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/twbs/bootstrap)
   | #SCSS
 
+- [**Semantic UI**](https://semantic-ui.com) - User interface is the language of the web.  
+  ![](https://img.shields.io/github/stars/semantic-org/semantic-ui.svg?style=social&label=Star)
+  [Docs](https://semantic-ui.com/introduction/getting-started.html),
+  [Repo](https://github.com/semantic-org/semantic-ui)
+  | #LESS
+
 - [**Bulma**](https://bulma.io) - Modern CSS framework based on Flexbox.  
   ![](https://img.shields.io/github/stars/jgthms/bulma.svg?style=social&label=Star)
   [Demo](https://bulma.io/expo/),
@@ -324,12 +330,6 @@ We are keeping them here for reference/inspiration and hope for a revival.
 
 <details>
   <summary><strong>Show Section</strong></summary>
-
-- [**Semantic UI**](https://semantic-ui.com) - User interface is the language of the web.  
-  ![](https://img.shields.io/github/stars/semantic-org/semantic-ui.svg?style=social&label=Star)
-  [Docs](https://semantic-ui.com/introduction/getting-started.html),
-  [Repo](https://github.com/semantic-org/semantic-ui)
-  | #LESS
 
 - [**normalize.css**](https://necolas.github.io/normalize.css/) - Modern, HTML5-ready alternative to CSS resets.  
   ![](https://img.shields.io/github/stars/necolas/normalize.css.svg?style=social&label=Star)
