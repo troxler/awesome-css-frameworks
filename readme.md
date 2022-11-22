@@ -124,7 +124,7 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/franciscop/picnic)
   | #SCSS
 
-- [**lit**](https://ajusa.github.io/lit/) - A ridiculously small responsive css framework.  
+- [**Lit**](https://ajusa.github.io/lit/) - A ridiculously small responsive css framework.  
   ![](https://img.shields.io/github/stars/ajusa/lit.svg?style=social&label=Star)
   [Docs](https://ajusa.github.io/lit/docs/lit.html?),
   [Repo](https://github.com/ajusa/lit)
@@ -361,6 +361,13 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://materializecss.com/getting-started.html),
   [Repo](https://github.com/Dogfalo/materialize)
   | #SCSS
+
+- [**Material Design Lite**](https://getmdl.io/index.html) - Material Design Components in HTML/CSS/JS.  
+  ![](https://img.shields.io/github/stars/google/material-design-lite.svg?style=social&label=Star)
+  [Demo](https://getmdl.io/templates/index.html),
+  [Docs](https://getmdl.io/started/index.html),
+  [Repo](https://github.com/google/material-design-lite)
+  | #CSS
 
 - [**Spectre.css**](https://picturepan2.github.io/spectre/) - Lightweight, responsive and modern CSS framework.  
   ![](https://img.shields.io/github/stars/picturepan2/spectre.svg?style=social&label=Star)
