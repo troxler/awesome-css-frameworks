@@ -80,7 +80,7 @@ Frameworks that use semantic HTML and do not rely on classes.
   [Repo](https://github.com/oxalorg/sakura)
   | #SCSS
 
-- [**Simple.css**](https://simplecss.org/) - A classless CSS framework.  
+- [**Simple.css**](https://simplecss.org/) - A classless CSS framework that makes semantic HTML look good.  
   ![](https://img.shields.io/github/stars/kevquirk/simple.css.svg?style=social&label=Star)
   [Demo](https://simplecss.org/demo),
   [Docs](https://github.com/kevquirk/simple.css/wiki),
@@ -123,6 +123,12 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://picnicss.com/documentation),
   [Repo](https://github.com/franciscop/picnic)
   | #SCSS
+
+- [**lit**](https://ajusa.github.io/lit/) - A ridiculously small responsive css framework.  
+  ![](https://img.shields.io/github/stars/ajusa/lit.svg?style=social&label=Star)
+  [Docs](https://ajusa.github.io/lit/docs/lit.html?),
+  [Repo](https://github.com/ajusa/lit)
+  | #CSS
 
 - [**Chota**](https://jenil.github.io/chota/) - Really small CSS framework.  
   ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social&label=Star)
@@ -205,6 +211,12 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://cirrus-ui.netlify.app/getting-started/setup),
   [Repo](https://github.com/Spiderpig86/Cirrus)
   | #CSS
+
+- [**Mustard UI**](https://kylelogue.github.io/mustard-ui/index.html) - A starter CSS framework that actually looks good.  
+  ![](https://img.shields.io/github/stars/kylelogue/mustard-ui?style=social&label=Star)
+  [Docs](https://kylelogue.github.io/mustard-ui/docs/installation/index.html),
+  [Repo](https://github.com/kylelogue/mustard-ui)
+  | #SCSS
 
 - [**turretcss**](https://turretcss.com) - Responsive front-end framework for accessible and semantic websites.  
   ![](https://img.shields.io/github/stars/turretcss/turretcss.svg?style=social&label=Star)
