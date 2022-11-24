@@ -80,6 +80,13 @@ Frameworks that use semantic HTML and do not rely on classes.
   [Repo](https://github.com/oxalorg/sakura)
   | #SCSS
 
+- [**Simple.css**](https://simplecss.org/) - A classless CSS framework that makes semantic HTML look good.  
+  ![](https://img.shields.io/github/stars/kevquirk/simple.css.svg?style=social&label=Star)
+  [Demo](https://simplecss.org/demo),
+  [Docs](https://github.com/kevquirk/simple.css/wiki),
+  [Repo](https://github.com/kevquirk/simple.css)
+  | #CSS
+
 - [**Tacit**](https://yegor256.github.io/tacit/) - CSS framework for dummies, without classes.  
   ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social&label=Star)
   [Repo](https://github.com/yegor256/tacit/)
@@ -116,6 +123,12 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://picnicss.com/documentation),
   [Repo](https://github.com/franciscop/picnic)
   | #SCSS
+
+- [**Lit**](https://ajusa.github.io/lit/) - A ridiculously small responsive css framework.  
+  ![](https://img.shields.io/github/stars/ajusa/lit.svg?style=social&label=Star)
+  [Docs](https://ajusa.github.io/lit/docs/lit.html?),
+  [Repo](https://github.com/ajusa/lit)
+  | #CSS
 
 - [**Chota**](https://jenil.github.io/chota/) - Really small CSS framework.  
   ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social&label=Star)
@@ -198,6 +211,12 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://cirrus-ui.netlify.app/getting-started/setup),
   [Repo](https://github.com/Spiderpig86/Cirrus)
   | #CSS
+
+- [**Mustard UI**](https://kylelogue.github.io/mustard-ui/index.html) - A starter CSS framework that actually looks good.  
+  ![](https://img.shields.io/github/stars/kylelogue/mustard-ui?style=social&label=Star)
+  [Docs](https://kylelogue.github.io/mustard-ui/docs/installation/index.html),
+  [Repo](https://github.com/kylelogue/mustard-ui)
+  | #SCSS
 
 - [**turretcss**](https://turretcss.com) - Responsive front-end framework for accessible and semantic websites.  
   ![](https://img.shields.io/github/stars/turretcss/turretcss.svg?style=social&label=Star)
@@ -342,6 +361,13 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://materializecss.com/getting-started.html),
   [Repo](https://github.com/Dogfalo/materialize)
   | #SCSS
+
+- [**Material Design Lite**](https://getmdl.io/index.html) - Material Design Components in HTML/CSS/JS.  
+  ![](https://img.shields.io/github/stars/google/material-design-lite.svg?style=social&label=Star)
+  [Demo](https://getmdl.io/templates/index.html),
+  [Docs](https://getmdl.io/started/index.html),
+  [Repo](https://github.com/google/material-design-lite)
+  | #CSS
 
 - [**Spectre.css**](https://picturepan2.github.io/spectre/) - Lightweight, responsive and modern CSS framework.  
   ![](https://img.shields.io/github/stars/picturepan2/spectre.svg?style=social&label=Star)
