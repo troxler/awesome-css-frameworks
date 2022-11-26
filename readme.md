@@ -119,7 +119,7 @@ Frameworks that are smaller than ~5KB.
 
 - [**Chota**](https://jenil.github.io/chota/) - Really small CSS framework.  
   ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social&label=Star)
-  [Demo](https://cdn.rawgit.com/jenil/chota/master/test/index.html),
+  [Demo](https://raw.githack.com/jenil/chota/master/test/index.html),
   [Docs](https://jenil.github.io/chota/#docs),
   [Repo](https://github.com/jenil/chota)
   | #CSS
