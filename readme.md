@@ -264,6 +264,13 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://open-props.style/#getting-started),
   [Repo](https://github.com/argyleink/open-props/)
   | #CSS #PostCSS
+  
+- [**Stylify CSS**](https://stylifycss.com) - Stylify uses CSS-like selectors to dynamically generate optimized utility-first CSS.  
+  ![](https://img.shields.io/github/stars/stylify/packages.svg?style=social&label=Star) 
+  [Demo](https://stylifycss.com), 
+  [Docs](https://stylifycss.com/docs/get-started), 
+  [Repo](https://github.com/stylify/packages) 
+  | #CSS
 
 
 ## Specialized
