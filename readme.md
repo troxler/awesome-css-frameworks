@@ -242,6 +242,12 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/muicss/mui)
   | #SCSS
 
+- [**Materialize**](https://materializecss.github.io/materialize/) - Responsive front-end library based on Google's Material Design.  
+  ![](https://img.shields.io/github/stars/materializecss/materialize.svg?style=social&label=Star)
+  [Docs](https://materializecss.github.io/materialize/getting-started.html),
+  [Repo](https://github.com/materializecss/materialize)
+  | #SCSS
+
 
 ## Utility-based
 
