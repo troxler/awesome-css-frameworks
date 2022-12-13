@@ -124,6 +124,13 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/jenil/chota)
   | #CSS
 
+- [**Skeleton**](http://getskeleton.com/) - A dead simple, responsive boilerplate. 
+  ![](https://img.shields.io/github/stars/dhg/skeleton.svg?style=social&label=Star)
+  [Demo](http://getskeleton.com/examples/landing/),
+  [Docs](http://getskeleton.com/#intro),
+  [Repo](https://github.com/dhg/Skeleton)
+  | #CSS
+
 
 ## General Purpose
 
