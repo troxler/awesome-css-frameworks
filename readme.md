@@ -124,14 +124,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/jenil/chota)
   | #CSS
 
-- [**Skeleton**](http://getskeleton.com/) - A dead simple, responsive boilerplate. 
-  ![](https://img.shields.io/github/stars/dhg/skeleton.svg?style=social&label=Star)
-  [Demo](http://getskeleton.com/examples/landing/),
-  [Docs](http://getskeleton.com/#intro),
-  [Repo](https://github.com/dhg/Skeleton)
-  | #CSS
-
-
 ## General Purpose
 
 - [**Bootstrap**](https://getbootstrap.com) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.  
@@ -233,6 +225,12 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/jonathanharrell/hiq/)
   | #PostCSS
 
+- [**Semantic UI**](https://semantic-ui.com/) - Semantic is a UI component framework based around useful principles from natural language.
+  ![](https://img.shields.io/github/stars/semantic-org/semantic-ui.svg?style=social&label=Star)
+  [Demo](https://jsfiddle.net/Banandrew/ca0rovs3/),
+  [Docs](https://semantic-ui.com/introduction/getting-started),
+  [Repo](https://github.com/semantic-org/semantic-ui)
+  | #CSS
 
 ## Material Design
 
