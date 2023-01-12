@@ -74,6 +74,13 @@ Frameworks that use semantic HTML and do not rely on classes.
   [Repo](https://github.com/andybrewer/mvp/)
   | #CSS
 
+- [**new.css**](https://newcss.net/) - Write modern websites using only HTML.  
+  ![](https://img.shields.io/github/stars/xz/new.css.svg?style=social&label=Star)
+  [Demo](https://newcss.net/demo/),
+  [Docs](https://newcss.net/usage/),
+  [Repo](https://github.com/xz/new.css)
+  | #CSS
+
 - [**sakura**](https://oxal.org/projects/sakura/) - Minimal classless CSS framework/theme.  
   ![](https://img.shields.io/github/stars/oxalorg/sakura.svg?style=social&label=Star)
   [Demo](https://oxal.org/projects/sakura/demo/),
