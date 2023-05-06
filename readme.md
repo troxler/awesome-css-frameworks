@@ -124,7 +124,13 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/jenil/chota)
   | #CSS
 
+- [**Lit**](https://ajusa.github.io/lit/) - A ridiculously small responsive css framework (< 1KB).  
+  ![](https://img.shields.io/github/stars/ajusa/lit.svg?style=social&label=Star)
+  [Docs](https://ajusa.github.io/lit/),
+  [Repo](https://github.com/ajusa/lit)
+  | #CSS
 
+ 
 ## General Purpose
 
 - [**Bootstrap**](https://getbootstrap.com) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.  
