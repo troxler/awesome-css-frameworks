@@ -85,12 +85,6 @@ Frameworks that use semantic HTML and do not rely on classes.
   [Repo](https://github.com/yegor256/tacit/)
   | #SCSS
 
-- [**awsm.css**](https://igoradamenko.github.io/awsm.css/) - CSS library for semantic HTML markup without classes, attributes, etc.  
-  ![](https://img.shields.io/github/stars/igoradamenko/awsm.css.svg?style=social&label=Star)
-  [Demo](https://igoradamenko.github.io/awsm.css/elements.html),
-  [Repo](https://github.com/igoradamenko/awsm.css)
-  | #SCSS
-
 
 ## Very Lightweight
 
