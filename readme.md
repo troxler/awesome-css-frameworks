@@ -321,8 +321,7 @@ They do not provide actual styling but utilities (e.g. mixins) that you can use 
 - [**Bourbon**](https://www.bourbon.io/) - Lightweight Sass tool set.  
   ![](https://img.shields.io/github/stars/thoughtbot/bourbon.svg?style=social&label=Star)
   [Docs](https://www.bourbon.io/docs/latest/),
-  [Repo](https://github.com/thoughtbot/bourbon/),
-  [Scaffold](https://bitters.bourbon.io/)
+  [Repo](https://github.com/thoughtbot/bourbon/)
   | #SCSS
 
 
@@ -358,38 +357,9 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Repo](https://github.com/picturepan2/spectre)
   | #SCSS
 
-- [**Flexbox Grid**](https://flexboxgrid.com) - Grid based on CSS3 flexbox.  
-  ![](https://img.shields.io/github/stars/kristoferjoseph/flexboxgrid.svg?style=social&label=Star)
-  [Repo](https://github.com/kristoferjoseph/flexboxgrid)
-
 - [**Basscss**](https://basscss.com) - Low-level CSS toolkit.  
   ![](https://img.shields.io/github/stars/basscss/basscss.svg?style=social&label=Star)
   [Repo](https://github.com/basscss/basscss/)
-
-- [**Neat**](https://neat.bourbon.io/) - Lightweight and flexible Sass grid.  
-  ![](https://img.shields.io/github/stars/thoughtbot/neat.svg?style=social&label=Star)
-  [Demo](https://neat.bourbon.io/examples/),
-  [Docs](https://neat.bourbon.io/docs/latest/),
-  [Repo](https://github.com/thoughtbot/neat)
-  | #SCSS
-
-- [**mini.css**](https://minicss.org) - Minimal, responsive, style-agnostic CSS framework.  
-  ![](https://img.shields.io/github/stars/Chalarangelo/mini.css.svg?style=social&label=Star)
-  [Docs](https://minicss.org/docs),
-  [Repo](https://github.com/Chalarangelo/mini.css)
-  | #SCSS
-
-- [**Mobi.css**](https://getmobicss.com) - Lightweight, scalable, mobile-first CSS framework.  
-  ![](https://img.shields.io/github/stars/mobi-css/mobi.css.svg?style=social&label=Star)
-  [Docs](https://getmobicss.com/docs/introduction.html),
-  [Repo](https://github.com/mobi-css/mobi.css)
-  | #CSS
-
-- [**Wing**](https://kbrsh.github.io/wing/) - Beautiful CSS framework designed for minimalists.  
-  ![](https://img.shields.io/github/stars/kbrsh/wing.svg?style=social&label=Star)
-  [Docs](https://kbrsh.github.io/wing/#installation),
-  [Repo](https://github.com/kbrsh/wing)
-  | #Stylus
 
 - [**CSS Remedy**](https://github.com/jensimmons/cssremedy) - Start your project with a remedy for the technical debt of CSS.  
   ![](https://img.shields.io/github/stars/jensimmons/cssremedy.svg?style=social&label=Star)
