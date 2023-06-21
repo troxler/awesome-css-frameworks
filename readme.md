@@ -85,6 +85,11 @@ Frameworks that use semantic HTML and do not rely on classes.
   [Repo](https://github.com/yegor256/tacit/)
   | #SCSS
 
+- [**Lissom.CSS**](https://github.com/lissomware/css) - classless, minimalist, accessible, and themeable.
+  ![](https://img.shields.io/github/stars/lissomware/css.svg?style=social&label=Star)
+  [Docs](https://lissomware.github.io/css/),
+  [Repo](https://github.com/lissomware/css)
+  | #CSS
 
 ## Very Lightweight
 
