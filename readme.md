@@ -85,6 +85,10 @@ Frameworks that use semantic HTML and do not rely on classes.
   [Repo](https://github.com/yegor256/tacit/)
   | #SCSS
 
+- [**PicoCSS**](https://picocss.com/) - Minimal CSS Framework for semantic HTML.  
+  ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social&label=Star)
+  [Repo](https://github.com/picocss/pico)
+  | #SCSS
 
 ## Very Lightweight
 
