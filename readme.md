@@ -74,6 +74,11 @@ Frameworks that use semantic HTML and do not rely on classes.
   [Repo](https://github.com/andybrewer/mvp/)
   | #CSS
 
+- [**Simple.css**](https://simplecss.org/) - Lightweight, classless CSS framework.  
+  ![](https://img.shields.io/github/stars/kevquirk/simple.css?style=social&label=Star)
+  [Repo](https://github.com/kevquirk/simple.css/)
+  | #CSS
+
 - [**sakura**](https://oxal.org/projects/sakura/) - Minimal classless CSS framework/theme.  
   ![](https://img.shields.io/github/stars/oxalorg/sakura.svg?style=social&label=Star)
   [Demo](https://oxal.org/projects/sakura/demo/),
@@ -84,8 +89,7 @@ Frameworks that use semantic HTML and do not rely on classes.
   ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social&label=Star)
   [Repo](https://github.com/yegor256/tacit/)
   | #SCSS
-
-
+  
 ## Very Lightweight
 
 Frameworks that are smaller than ~5KB.
