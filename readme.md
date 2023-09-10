@@ -80,6 +80,13 @@ Frameworks that use semantic HTML and do not rely on classes.
   [Repo](https://github.com/oxalorg/sakura)
   | #SCSS
 
+- [**Simple.css**](https://simplecss.org/) - Lightweight, classless CSS framework.  
+  ![](https://img.shields.io/github/stars/kevquirk/simple.css?style=social&label=Star)
+  [Demo](https://simplecss.org/demo),
+  [Docs](https://github.com/kevquirk/simple.css/wiki),
+  [Repo](https://github.com/kevquirk/simple.css/)
+  | #CSS
+
 - [**Tacit**](https://yegor256.github.io/tacit/) - CSS framework for dummies, without classes.  
   ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social&label=Star)
   [Repo](https://github.com/yegor256/tacit/)
