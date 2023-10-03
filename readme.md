@@ -62,6 +62,10 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 ## Class-less
 
 Frameworks that use semantic HTML and do not rely on classes.
+- [**Pico.css**](https://picocss.com/) - Minimal CSS Framework for semantic HTML  
+  ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social&label=Star)
+  [Repo](https://github.com/picocss/pico)
+  | #CSS #Sass
 
 - [**Water.css**](https://watercss.kognise.dev/) - Just-add-CSS collection of styles to make simple websites just a little nicer.  
   ![](https://img.shields.io/github/stars/kognise/water.css.svg?style=social&label=Star)
