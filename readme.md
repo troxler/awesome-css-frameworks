@@ -65,6 +65,7 @@ Frameworks that use semantic HTML and do not rely on classes.
 - [**Pico.css**](https://picocss.com/) - Minimal CSS Framework for semantic HTML  
   ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social&label=Star)
   [Demo](https://picocss.com/#examples),
+  [Docs](https://picocss.com/docs/),
   [Repo](https://github.com/picocss/pico)
   | #CSS #Sass
 
