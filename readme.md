@@ -25,13 +25,10 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 ## Base / Reset / Normalize
 
 
-
 - [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) - Normalize browsers' default style.  
   ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize.svg?style=social&label=Star)
   [Repo](https://github.com/sindresorhus/modern-normalize)
   | #CSS
-
-
 
 - [**ress**](https://github.com/filipelinhares/ress) - Modern CSS reset.  
   ![](https://img.shields.io/github/stars/filipelinhares/ress.svg?style=social&label=Star)
@@ -47,10 +44,6 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 
 Frameworks that use semantic HTML and do not rely on classes.
 
-- [**Water.css**](https://watercss.kognise.dev/) - Just-add-CSS collection of styles to make simple websites just a little nicer.  
-  ![](https://img.shields.io/github/stars/kognise/water.css.svg?style=social&label=Star)
-  [Repo](https://github.com/kognise/water.css)
-  | #CSS
 
 - [**MVP.css**](https://andybrewer.github.io/mvp/) - Minimalist stylesheet for HTML elements.  
   ![](https://img.shields.io/github/stars/andybrewer/mvp.svg?style=social&label=Star)
@@ -343,12 +336,16 @@ We are keeping them here for reference/inspiration and hope for a revival.
   | #SCSS
   
 
-  
 - [**Spectre.css**](https://picturepan2.github.io/spectre/) - Lightweight, responsive and modern CSS framework.  
   ![](https://img.shields.io/github/stars/picturepan2/spectre.svg?style=social&label=Star)
   [Docs](https://picturepan2.github.io/spectre/getting-started.html),
   [Repo](https://github.com/picturepan2/spectre)
   | #SCSS
+
+- [**Water.css**](https://watercss.kognise.dev/) - Just-add-CSS collection of styles to make simple websites just a little nicer.  
+  ![](https://img.shields.io/github/stars/kognise/water.css.svg?style=social&label=Star)
+  [Repo](https://github.com/kognise/water.css)
+  | #CSS
 
 - [**Basscss**](https://basscss.com) - Low-level CSS toolkit.  
   ![](https://img.shields.io/github/stars/basscss/basscss.svg?style=social&label=Star)
