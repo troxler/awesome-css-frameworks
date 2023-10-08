@@ -81,12 +81,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/pure-css/pure)
   | #CSS
 
-- [**Milligram**](https://milligram.io) - Minimalist CSS framework.  
-  ![](https://img.shields.io/github/stars/milligram/milligram.svg?style=social&label=Star)
-  [Demo](https://milligram.io/showcase.html),
-  [Docs](https://milligram.io/#getting-started),
-  [Repo](https://github.com/milligram/milligram)
-  | #Sass
 
 - [**Picnic CSS**](https://picnicss.com) - Lightweight and beautiful library.  
   ![](https://img.shields.io/github/stars/franciscop/picnic.svg?style=social&label=Star)
@@ -164,11 +158,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/BlazeSoftware/atoms)
   | #SCSS
 
-- [**Base**](https://getbase.org) - Rock solid, responsive HTML/CSS framework.  
-  ![](https://img.shields.io/github/stars/getbase/base.svg?style=social&label=Star)
-  [Docs](https://github.com/getbase/base/blob/master/readme.md#documentation),
-  [Repo](https://github.com/getbase/base)
-  | #SCSS #LESS
 
 - [**Cirrus**](https://cirrus-ui.netlify.app/) - Component and utility centric SCSS framework designed for rapid prototyping.  
   ![](https://img.shields.io/github/stars/spiderpig86/Cirrus.svg?style=social&label=Star)
@@ -177,12 +166,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/Spiderpig86/Cirrus)
   | #CSS
 
-- [**turretcss**](https://turretcss.com) - Responsive front-end framework for accessible and semantic websites.  
-  ![](https://img.shields.io/github/stars/turretcss/turretcss.svg?style=social&label=Star)
-  [Demo](https://turretcss.com/demo/),
-  [Docs](https://turretcss.com/getting-started/),
-  [Repo](https://github.com/turretcss/turretcss)
-  | #CSS
 
 - [**Vanilla Framework**](https://vanillaframework.io/) - Simple, extensible CSS framework. Written by the Canonical Web Team.  
   ![](https://img.shields.io/github/stars/canonical-web-and-design/vanilla-framework.svg?style=social&label=Star)
@@ -342,6 +325,13 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Repo](https://github.com/picturepan2/spectre)
   | #SCSS
 
+- [**Milligram**](https://milligram.io) - Minimalist CSS framework.  
+  ![](https://img.shields.io/github/stars/milligram/milligram.svg?style=social&label=Star)
+  [Demo](https://milligram.io/showcase.html),
+  [Docs](https://milligram.io/#getting-started),
+  [Repo](https://github.com/milligram/milligram)
+  | #Sass
+
 - [**Water.css**](https://watercss.kognise.dev/) - Just-add-CSS collection of styles to make simple websites just a little nicer.  
   ![](https://img.shields.io/github/stars/kognise/water.css.svg?style=social&label=Star)
   [Repo](https://github.com/kognise/water.css)
@@ -385,6 +375,12 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://unsemantic.com/css-documentation),
   [Repo](https://github.com/nathansmith/unsemantic)
 
+- [**Base**](https://getbase.org) - Rock solid, responsive HTML/CSS framework.  
+  ![](https://img.shields.io/github/stars/getbase/base.svg?style=social&label=Star)
+  [Docs](https://github.com/getbase/base/blob/master/readme.md#documentation),
+  [Repo](https://github.com/getbase/base)
+  | #SCSS #LESS
+
 - [**Propeller**](https://propeller.in) - Front-end responsive framework based on Google's Material Design standards & Bootstrap.  
   ![](https://img.shields.io/github/stars/digicorp/propeller.svg?style=social&label=Star)
   [Docs](https://propeller.in/frameworks/open-source/get-started/),
@@ -396,7 +392,14 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://concisecss.com/documentation/),
   [Repo](https://github.com/ConciseCSS/concise.css)
   | #SCSS
-
+  
+- [**turretcss**](https://turretcss.com) - Responsive front-end framework for accessible and semantic websites.  
+  ![](https://img.shields.io/github/stars/turretcss/turretcss.svg?style=social&label=Star)
+  [Demo](https://turretcss.com/demo/),
+  [Docs](https://turretcss.com/getting-started/),
+  [Repo](https://github.com/turretcss/turretcss)
+  | #CSS
+  
 - [**Responsive Boilerplate**](https://responsivebp.com) - Powerful, accessible, developer friendly framework for building responsive websites.  
   ![](https://img.shields.io/github/stars/responsivebp/responsive.svg?style=social&label=Star)
   [Docs](https://responsivebp.com/getting-started/),
