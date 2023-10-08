@@ -197,12 +197,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/material-components/material-components-web)
   | #SCSS
 
-- [**MUI**](https://www.muicss.com) - Lightweight CSS framework that follows Google's Material Design guidelines.  
-  ![](https://img.shields.io/github/stars/muicss/mui.svg?style=social&label=Star)
-  [Docs](https://www.muicss.com/docs/v1/getting-started/introduction),
-  [Repo](https://github.com/muicss/mui)
-  | #SCSS
-
 - [**Materialize**](https://materializecss.github.io/materialize/) - Responsive front-end library based on Google's Material Design.  
   ![](https://img.shields.io/github/stars/materializecss/materialize.svg?style=social&label=Star)
   [Docs](https://materializecss.github.io/materialize/getting-started.html),
@@ -218,13 +212,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/tailwindlabs/tailwindcss)
   | #CSS
 
-- [**Tachyons**](https://tachyons.io) - Quickly build and design new UI without writing CSS.  
-  ![](https://img.shields.io/github/stars/tachyons-css/tachyons.svg?style=social&label=Star)
-  [Demo](https://tachyons.io/gallery/),
-  [Docs](https://tachyons.io/docs/),
-  [Repo](https://github.com/tachyons-css/tachyons/)
-  | #CSS
-  
 - [**Open Props**](https://open-props.style) - CSS custom properties to help accelerate adaptive and consistent design.  
   ![](https://img.shields.io/github/stars/argyleink/open-props.svg?style=social&label=Star)
   [Demo](https://open-props.style/#gallery),
@@ -324,6 +311,13 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://picturepan2.github.io/spectre/getting-started.html),
   [Repo](https://github.com/picturepan2/spectre)
   | #SCSS
+  
+- [**Tachyons**](https://tachyons.io) - Quickly build and design new UI without writing CSS.  
+  ![](https://img.shields.io/github/stars/tachyons-css/tachyons.svg?style=social&label=Star)
+  [Demo](https://tachyons.io/gallery/),
+  [Docs](https://tachyons.io/docs/),
+  [Repo](https://github.com/tachyons-css/tachyons/)
+  | #CSS
 
 - [**Milligram**](https://milligram.io) - Minimalist CSS framework.  
   ![](https://img.shields.io/github/stars/milligram/milligram.svg?style=social&label=Star)
@@ -345,7 +339,13 @@ We are keeping them here for reference/inspiration and hope for a revival.
   ![](https://img.shields.io/github/stars/csstools/sanitize.css.svg?style=social&label=Star)
   [Repo](https://github.com/csstools/sanitize.css)
   | #CSS
-
+  
+- [**MUI**](https://www.muicss.com) - Lightweight CSS framework that follows Google's Material Design guidelines.  
+  ![](https://img.shields.io/github/stars/muicss/mui.svg?style=social&label=Star)
+  [Docs](https://www.muicss.com/docs/v1/getting-started/introduction),
+  [Repo](https://github.com/muicss/mui)
+  | #SCSS
+  
 - [**modern-css-reset**](https://github.com/hankchizljaw/modern-css-reset) - Tiny little reset that you can use as the basis of your CSS projects.  
   ![](https://img.shields.io/github/stars/hankchizljaw/modern-css-reset.svg?style=social&label=Star)
   [Repo](https://github.com/hankchizljaw/modern-css-reset)
