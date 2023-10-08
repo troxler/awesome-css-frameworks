@@ -31,20 +31,7 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   [Repo](https://github.com/sindresorhus/modern-normalize)
   | #CSS
 
-- [**minireset.css**](https://jgthms.com/minireset.css/) - Tiny modern CSS reset.  
-  ![](https://img.shields.io/github/stars/jgthms/minireset.css.svg?style=social&label=Star)
-  [Repo](https://github.com/jgthms/minireset.css)
-  | #Sass
 
-- [**modern-css-reset**](https://github.com/hankchizljaw/modern-css-reset) - Tiny little reset that you can use as the basis of your CSS projects.  
-  ![](https://img.shields.io/github/stars/hankchizljaw/modern-css-reset.svg?style=social&label=Star)
-  [Repo](https://github.com/hankchizljaw/modern-css-reset)
-  | #CSS
-
-- [**inuitcss**](https://github.com/inuitcss/inuitcss) - Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.  
-  ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social&label=Star)
-  [Repo](https://github.com/inuitcss/inuitcss)
-  | #SCSS
 
 - [**ress**](https://github.com/filipelinhares/ress) - Modern CSS reset.  
   ![](https://img.shields.io/github/stars/filipelinhares/ress.svg?style=social&label=Star)
@@ -372,9 +359,24 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Repo](https://github.com/csstools/sanitize.css)
   | #CSS
 
+- [**modern-css-reset**](https://github.com/hankchizljaw/modern-css-reset) - Tiny little reset that you can use as the basis of your CSS projects.  
+  ![](https://img.shields.io/github/stars/hankchizljaw/modern-css-reset.svg?style=social&label=Star)
+  [Repo](https://github.com/hankchizljaw/modern-css-reset)
+  | #CSS
+
+- [**minireset.css**](https://jgthms.com/minireset.css/) - Tiny modern CSS reset.  
+  ![](https://img.shields.io/github/stars/jgthms/minireset.css.svg?style=social&label=Star)
+  [Repo](https://github.com/jgthms/minireset.css)
+  | #Sass
+
 - [**CSS Remedy**](https://github.com/jensimmons/cssremedy) - Start your project with a remedy for the technical debt of CSS.  
   ![](https://img.shields.io/github/stars/jensimmons/cssremedy.svg?style=social&label=Star)
   | #CSS
+
+- [**inuitcss**](https://github.com/inuitcss/inuitcss) - Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.  
+  ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social&label=Star)
+  [Repo](https://github.com/inuitcss/inuitcss)
+  | #SCSS
 
 - [**Cutestrap**](https://www.cutestrap.com) - Sassy, opinionated CSS framework, a tiny alternative to Bootstrap.  
   ![](https://img.shields.io/github/stars/tylerchilds/cutestrap.svg?style=social&label=Star)
