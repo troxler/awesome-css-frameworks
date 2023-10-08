@@ -24,10 +24,7 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 
 ## Base / Reset / Normalize
 
-- [**sanitize.css**](https://csstools.github.io/sanitize.css/) - The best-practices CSS foundation.  
-  ![](https://img.shields.io/github/stars/csstools/sanitize.css.svg?style=social&label=Star)
-  [Repo](https://github.com/csstools/sanitize.css)
-  | #CSS
+
 
 - [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) - Normalize browsers' default style.  
   ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize.svg?style=social&label=Star)
@@ -339,7 +336,12 @@ We are keeping them here for reference/inspiration and hope for a revival.
 
 <details>
   <summary><strong>Show Section</strong></summary>
-
+  
+- [**normalize.css**](https://necolas.github.io/normalize.css/) - Modern, HTML5-ready alternative to CSS resets.  
+  ![](https://img.shields.io/github/stars/necolas/normalize.css.svg?style=social&label=Star)
+  [Repo](https://github.com/necolas/normalize.css/)
+  | #CSS
+  
 - [**Semantic UI**](https://semantic-ui.com) - User interface is the language of the web.  
   ![](https://img.shields.io/github/stars/semantic-org/semantic-ui.svg?style=social&label=Star)
   [Docs](https://semantic-ui.com/introduction/getting-started.html),
@@ -352,7 +354,9 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://materializecss.com/getting-started.html),
   [Repo](https://github.com/Dogfalo/materialize)
   | #SCSS
+  
 
+  
 - [**Spectre.css**](https://picturepan2.github.io/spectre/) - Lightweight, responsive and modern CSS framework.  
   ![](https://img.shields.io/github/stars/picturepan2/spectre.svg?style=social&label=Star)
   [Docs](https://picturepan2.github.io/spectre/getting-started.html),
@@ -362,6 +366,11 @@ We are keeping them here for reference/inspiration and hope for a revival.
 - [**Basscss**](https://basscss.com) - Low-level CSS toolkit.  
   ![](https://img.shields.io/github/stars/basscss/basscss.svg?style=social&label=Star)
   [Repo](https://github.com/basscss/basscss/)
+
+- [**sanitize.css**](https://csstools.github.io/sanitize.css/) - The best-practices CSS foundation.  
+  ![](https://img.shields.io/github/stars/csstools/sanitize.css.svg?style=social&label=Star)
+  [Repo](https://github.com/csstools/sanitize.css)
+  | #CSS
 
 - [**CSS Remedy**](https://github.com/jensimmons/cssremedy) - Start your project with a remedy for the technical debt of CSS.  
   ![](https://img.shields.io/github/stars/jensimmons/cssremedy.svg?style=social&label=Star)
