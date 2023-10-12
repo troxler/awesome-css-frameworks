@@ -235,11 +235,6 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://github.com/BafS/Gutenberg#what-does-the-framework-do-)
   | #SCSS
 
-- [**XP.css**](https://botoxparty.github.io/XP.css/) - CSS library for building interfaces that look like Windows XP.  
-  ![](https://img.shields.io/github/stars/botoxparty/XP.css.svg?style=social&label=Star)
-  [Repo](https://github.com/botoxparty/XP.css)
-  | #PostCSS
-
 - [**Bojler**](https://bojler.slicejack.com) - Email framework for developing responsive and lightweight email templates.  
   ![](https://img.shields.io/github/stars/Slicejack/bojler.svg?style=social&label=Star)
   [Docs](https://bojler.slicejack.com/documentation/getting-started/),
@@ -366,6 +361,10 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Repo](https://github.com/inuitcss/inuitcss)
   | #SCSS
 
+- [**XP.css**](https://botoxparty.github.io/XP.css/) - CSS library for building interfaces that look like Windows XP.  
+  ![](https://img.shields.io/github/stars/botoxparty/XP.css.svg?style=social&label=Star)
+  [Repo](https://github.com/botoxparty/XP.css)
+  | #PostCSS
 - [**Cutestrap**](https://www.cutestrap.com) - Sassy, opinionated CSS framework, a tiny alternative to Bootstrap.  
   ![](https://img.shields.io/github/stars/tylerchilds/cutestrap.svg?style=social&label=Star)
   [Repo](https://github.com/tylerchilds/cutestrap)
