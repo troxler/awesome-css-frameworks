@@ -382,7 +382,7 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://concisecss.com/documentation/),
   [Repo](https://github.com/ConciseCSS/concise.css)
   | #SCSS
-  
+
 - [**Responsive Boilerplate**](https://responsivebp.com) - Powerful, accessible, developer friendly framework for building responsive websites.  
   ![](https://img.shields.io/github/stars/responsivebp/responsive.svg?style=social&label=Star)
   [Docs](https://responsivebp.com/getting-started/),
