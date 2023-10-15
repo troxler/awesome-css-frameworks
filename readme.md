@@ -382,6 +382,12 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://concisecss.com/documentation/),
   [Repo](https://github.com/ConciseCSS/concise.css)
   | #SCSS
+  
+- [**Responsive Boilerplate**](https://responsivebp.com) - Powerful, accessible, developer friendly framework for building responsive websites.  
+  ![](https://img.shields.io/github/stars/responsivebp/responsive.svg?style=social&label=Star)
+  [Docs](https://responsivebp.com/getting-started/),
+  [Repo](https://github.com/responsivebp/responsive)
+  | #SCSS
 
 - [**turretcss**](https://turretcss.com) - Responsive front-end framework for accessible and semantic websites.  
   ![](https://img.shields.io/github/stars/turretcss/turretcss.svg?style=social&label=Star)
@@ -389,12 +395,6 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://turretcss.com/getting-started/),
   [Repo](https://github.com/turretcss/turretcss)
   | #CSS
-  
-- [**Responsive Boilerplate**](https://responsivebp.com) - Powerful, accessible, developer friendly framework for building responsive websites.  
-  ![](https://img.shields.io/github/stars/responsivebp/responsive.svg?style=social&label=Star)
-  [Docs](https://responsivebp.com/getting-started/),
-  [Repo](https://github.com/responsivebp/responsive)
-  | #SCSS
 
 - [**Centurion**](https://www.centurionframework.com) - Web-based framework for rapid prototyping and building larger web projects.  
   ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social&label=Star)
