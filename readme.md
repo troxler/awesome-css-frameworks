@@ -24,7 +24,6 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 
 ## Base / Reset / Normalize
 
-
 - [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) - Normalize browsers' default style.  
   ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize.svg?style=social&label=Star)
   [Repo](https://github.com/sindresorhus/modern-normalize)
@@ -43,7 +42,6 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 ## Class-less
 
 Frameworks that use semantic HTML and do not rely on classes.
-
 
 - [**MVP.css**](https://andybrewer.github.io/mvp/) - Minimalist stylesheet for HTML elements.  
   ![](https://img.shields.io/github/stars/andybrewer/mvp.svg?style=social&label=Star)
@@ -80,7 +78,6 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://purecss.io/start/),
   [Repo](https://github.com/pure-css/pure)
   | #CSS
-
 
 - [**Picnic CSS**](https://picnicss.com) - Lightweight and beautiful library.  
   ![](https://img.shields.io/github/stars/franciscop/picnic.svg?style=social&label=Star)
@@ -158,14 +155,12 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/BlazeSoftware/atoms)
   | #SCSS
 
-
 - [**Cirrus**](https://cirrus-ui.netlify.app/) - Component and utility centric SCSS framework designed for rapid prototyping.  
   ![](https://img.shields.io/github/stars/spiderpig86/Cirrus.svg?style=social&label=Star)
   [Demo](https://cirrus-ui.netlify.app/getting-started/examples),
   [Docs](https://cirrus-ui.netlify.app/getting-started/setup),
   [Repo](https://github.com/Spiderpig86/Cirrus)
   | #CSS
-
 
 - [**Vanilla Framework**](https://vanillaframework.io/) - Simple, extensible CSS framework. Written by the Canonical Web Team.  
   ![](https://img.shields.io/github/stars/canonical-web-and-design/vanilla-framework.svg?style=social&label=Star)
@@ -267,6 +262,7 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/khang-nd/7.css)
   | #PostCSS
 
+
 ## Toolkits
 
 Toolkits are closer to a library than to a framework.
@@ -286,8 +282,7 @@ We are keeping them here for reference/inspiration and hope for a revival.
 
 <details>
   <summary><strong>Show Section</strong></summary>
-  
-  
+
 - [**Semantic UI**](https://semantic-ui.com) - User interface is the language of the web.  
   ![](https://img.shields.io/github/stars/semantic-org/semantic-ui.svg?style=social&label=Star)
   [Docs](https://semantic-ui.com/introduction/getting-started.html),
@@ -300,7 +295,6 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://materializecss.com/getting-started.html),
   [Repo](https://github.com/Dogfalo/materialize)
   | #SCSS
-  
 
 - [**Spectre.css**](https://picturepan2.github.io/spectre/) - Lightweight, responsive and modern CSS framework.  
   ![](https://img.shields.io/github/stars/picturepan2/spectre.svg?style=social&label=Star)
@@ -388,7 +382,7 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://concisecss.com/documentation/),
   [Repo](https://github.com/ConciseCSS/concise.css)
   | #SCSS
-  
+
 - [**turretcss**](https://turretcss.com) - Responsive front-end framework for accessible and semantic websites.  
   ![](https://img.shields.io/github/stars/turretcss/turretcss.svg?style=social&label=Star)
   [Demo](https://turretcss.com/demo/),
