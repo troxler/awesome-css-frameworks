@@ -24,30 +24,10 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 
 ## Base / Reset / Normalize
 
-- [**sanitize.css**](https://csstools.github.io/sanitize.css/) - The best-practices CSS foundation.  
-  ![](https://img.shields.io/github/stars/csstools/sanitize.css.svg?style=social&label=Star)
-  [Repo](https://github.com/csstools/sanitize.css)
-  | #CSS
-
 - [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) - Normalize browsers' default style.  
   ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize.svg?style=social&label=Star)
   [Repo](https://github.com/sindresorhus/modern-normalize)
   | #CSS
-
-- [**minireset.css**](https://jgthms.com/minireset.css/) - Tiny modern CSS reset.  
-  ![](https://img.shields.io/github/stars/jgthms/minireset.css.svg?style=social&label=Star)
-  [Repo](https://github.com/jgthms/minireset.css)
-  | #Sass
-
-- [**modern-css-reset**](https://github.com/hankchizljaw/modern-css-reset) - Tiny little reset that you can use as the basis of your CSS projects.  
-  ![](https://img.shields.io/github/stars/hankchizljaw/modern-css-reset.svg?style=social&label=Star)
-  [Repo](https://github.com/hankchizljaw/modern-css-reset)
-  | #CSS
-
-- [**inuitcss**](https://github.com/inuitcss/inuitcss) - Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.  
-  ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social&label=Star)
-  [Repo](https://github.com/inuitcss/inuitcss)
-  | #SCSS
 
 - [**ress**](https://github.com/filipelinhares/ress) - Modern CSS reset.  
   ![](https://img.shields.io/github/stars/filipelinhares/ress.svg?style=social&label=Star)
@@ -62,11 +42,6 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 ## Class-less
 
 Frameworks that use semantic HTML and do not rely on classes.
-
-- [**Water.css**](https://watercss.kognise.dev/) - Just-add-CSS collection of styles to make simple websites just a little nicer.  
-  ![](https://img.shields.io/github/stars/kognise/water.css.svg?style=social&label=Star)
-  [Repo](https://github.com/kognise/water.css)
-  | #CSS
 
 - [**MVP.css**](https://andybrewer.github.io/mvp/) - Minimalist stylesheet for HTML elements.  
   ![](https://img.shields.io/github/stars/andybrewer/mvp.svg?style=social&label=Star)
@@ -103,13 +78,6 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://purecss.io/start/),
   [Repo](https://github.com/pure-css/pure)
   | #CSS
-
-- [**Milligram**](https://milligram.io) - Minimalist CSS framework.  
-  ![](https://img.shields.io/github/stars/milligram/milligram.svg?style=social&label=Star)
-  [Demo](https://milligram.io/showcase.html),
-  [Docs](https://milligram.io/#getting-started),
-  [Repo](https://github.com/milligram/milligram)
-  | #Sass
 
 - [**Picnic CSS**](https://picnicss.com) - Lightweight and beautiful library.  
   ![](https://img.shields.io/github/stars/franciscop/picnic.svg?style=social&label=Star)
@@ -187,24 +155,11 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/BlazeSoftware/atoms)
   | #SCSS
 
-- [**Base**](https://getbase.org) - Rock solid, responsive HTML/CSS framework.  
-  ![](https://img.shields.io/github/stars/getbase/base.svg?style=social&label=Star)
-  [Docs](https://github.com/getbase/base/blob/master/readme.md#documentation),
-  [Repo](https://github.com/getbase/base)
-  | #SCSS #LESS
-
 - [**Cirrus**](https://cirrus-ui.netlify.app/) - Component and utility centric SCSS framework designed for rapid prototyping.  
   ![](https://img.shields.io/github/stars/spiderpig86/Cirrus.svg?style=social&label=Star)
   [Demo](https://cirrus-ui.netlify.app/getting-started/examples),
   [Docs](https://cirrus-ui.netlify.app/getting-started/setup),
   [Repo](https://github.com/Spiderpig86/Cirrus)
-  | #CSS
-
-- [**turretcss**](https://turretcss.com) - Responsive front-end framework for accessible and semantic websites.  
-  ![](https://img.shields.io/github/stars/turretcss/turretcss.svg?style=social&label=Star)
-  [Demo](https://turretcss.com/demo/),
-  [Docs](https://turretcss.com/getting-started/),
-  [Repo](https://github.com/turretcss/turretcss)
   | #CSS
 
 - [**Vanilla Framework**](https://vanillaframework.io/) - Simple, extensible CSS framework. Written by the Canonical Web Team.  
@@ -237,12 +192,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/material-components/material-components-web)
   | #SCSS
 
-- [**MUI**](https://www.muicss.com) - Lightweight CSS framework that follows Google's Material Design guidelines.  
-  ![](https://img.shields.io/github/stars/muicss/mui.svg?style=social&label=Star)
-  [Docs](https://www.muicss.com/docs/v1/getting-started/introduction),
-  [Repo](https://github.com/muicss/mui)
-  | #SCSS
-
 - [**Materialize**](https://materializecss.github.io/materialize/) - Responsive front-end library based on Google's Material Design.  
   ![](https://img.shields.io/github/stars/materializecss/materialize.svg?style=social&label=Star)
   [Docs](https://materializecss.github.io/materialize/getting-started.html),
@@ -258,13 +207,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/tailwindlabs/tailwindcss)
   | #CSS
 
-- [**Tachyons**](https://tachyons.io) - Quickly build and design new UI without writing CSS.  
-  ![](https://img.shields.io/github/stars/tachyons-css/tachyons.svg?style=social&label=Star)
-  [Demo](https://tachyons.io/gallery/),
-  [Docs](https://tachyons.io/docs/),
-  [Repo](https://github.com/tachyons-css/tachyons/)
-  | #CSS
-  
 - [**Open Props**](https://open-props.style) - CSS custom properties to help accelerate adaptive and consistent design.  
   ![](https://img.shields.io/github/stars/argyleink/open-props.svg?style=social&label=Star)
   [Demo](https://open-props.style/#gallery),
@@ -320,6 +262,7 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/khang-nd/7.css)
   | #PostCSS
 
+
 ## Toolkits
 
 Toolkits are closer to a library than to a framework.
@@ -358,14 +301,59 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://picturepan2.github.io/spectre/getting-started.html),
   [Repo](https://github.com/picturepan2/spectre)
   | #SCSS
+  
+- [**Tachyons**](https://tachyons.io) - Quickly build and design new UI without writing CSS.  
+  ![](https://img.shields.io/github/stars/tachyons-css/tachyons.svg?style=social&label=Star)
+  [Demo](https://tachyons.io/gallery/),
+  [Docs](https://tachyons.io/docs/),
+  [Repo](https://github.com/tachyons-css/tachyons/)
+  | #CSS
+
+- [**Milligram**](https://milligram.io) - Minimalist CSS framework.  
+  ![](https://img.shields.io/github/stars/milligram/milligram.svg?style=social&label=Star)
+  [Demo](https://milligram.io/showcase.html),
+  [Docs](https://milligram.io/#getting-started),
+  [Repo](https://github.com/milligram/milligram)
+  | #Sass
+
+- [**Water.css**](https://watercss.kognise.dev/) - Just-add-CSS collection of styles to make simple websites just a little nicer.  
+  ![](https://img.shields.io/github/stars/kognise/water.css.svg?style=social&label=Star)
+  [Repo](https://github.com/kognise/water.css)
+  | #CSS
 
 - [**Basscss**](https://basscss.com) - Low-level CSS toolkit.  
   ![](https://img.shields.io/github/stars/basscss/basscss.svg?style=social&label=Star)
   [Repo](https://github.com/basscss/basscss/)
 
+- [**sanitize.css**](https://csstools.github.io/sanitize.css/) - The best-practices CSS foundation.  
+  ![](https://img.shields.io/github/stars/csstools/sanitize.css.svg?style=social&label=Star)
+  [Repo](https://github.com/csstools/sanitize.css)
+  | #CSS
+  
+- [**MUI**](https://www.muicss.com) - Lightweight CSS framework that follows Google's Material Design guidelines.  
+  ![](https://img.shields.io/github/stars/muicss/mui.svg?style=social&label=Star)
+  [Docs](https://www.muicss.com/docs/v1/getting-started/introduction),
+  [Repo](https://github.com/muicss/mui)
+  | #SCSS
+  
+- [**modern-css-reset**](https://github.com/hankchizljaw/modern-css-reset) - Tiny little reset that you can use as the basis of your CSS projects.  
+  ![](https://img.shields.io/github/stars/hankchizljaw/modern-css-reset.svg?style=social&label=Star)
+  [Repo](https://github.com/hankchizljaw/modern-css-reset)
+  | #CSS
+
+- [**minireset.css**](https://jgthms.com/minireset.css/) - Tiny modern CSS reset.  
+  ![](https://img.shields.io/github/stars/jgthms/minireset.css.svg?style=social&label=Star)
+  [Repo](https://github.com/jgthms/minireset.css)
+  | #Sass
+
 - [**CSS Remedy**](https://github.com/jensimmons/cssremedy) - Start your project with a remedy for the technical debt of CSS.  
   ![](https://img.shields.io/github/stars/jensimmons/cssremedy.svg?style=social&label=Star)
   | #CSS
+
+- [**inuitcss**](https://github.com/inuitcss/inuitcss) - Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.  
+  ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social&label=Star)
+  [Repo](https://github.com/inuitcss/inuitcss)
+  | #SCSS
 
 - [**Cutestrap**](https://www.cutestrap.com) - Sassy, opinionated CSS framework, a tiny alternative to Bootstrap.  
   ![](https://img.shields.io/github/stars/tylerchilds/cutestrap.svg?style=social&label=Star)
@@ -376,6 +364,12 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Demo](https://unsemantic.com/demo-responsive),
   [Docs](https://unsemantic.com/css-documentation),
   [Repo](https://github.com/nathansmith/unsemantic)
+
+- [**Base**](https://getbase.org) - Rock solid, responsive HTML/CSS framework.  
+  ![](https://img.shields.io/github/stars/getbase/base.svg?style=social&label=Star)
+  [Docs](https://github.com/getbase/base/blob/master/readme.md#documentation),
+  [Repo](https://github.com/getbase/base)
+  | #SCSS #LESS
 
 - [**Propeller**](https://propeller.in) - Front-end responsive framework based on Google's Material Design standards & Bootstrap.  
   ![](https://img.shields.io/github/stars/digicorp/propeller.svg?style=social&label=Star)
@@ -394,6 +388,13 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://responsivebp.com/getting-started/),
   [Repo](https://github.com/responsivebp/responsive)
   | #SCSS
+
+- [**turretcss**](https://turretcss.com) - Responsive front-end framework for accessible and semantic websites.  
+  ![](https://img.shields.io/github/stars/turretcss/turretcss.svg?style=social&label=Star)
+  [Demo](https://turretcss.com/demo/),
+  [Docs](https://turretcss.com/getting-started/),
+  [Repo](https://github.com/turretcss/turretcss)
+  | #CSS
 
 - [**Centurion**](https://www.centurionframework.com) - Web-based framework for rapid prototyping and building larger web projects.  
   ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social&label=Star)
