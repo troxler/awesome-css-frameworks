@@ -222,18 +222,33 @@ Frameworks that are smaller than ~5KB.
 
 ## Specialized
 
+- [**NES.css**](https://nostalgic-css.github.io/NES.css/) - NES-style CSS Framework.  
+  ![](https://img.shields.io/github/stars/nostalgic-css/NES.css.svg?style=social&label=Star)
+  [Demo](https://nostalgic-css.github.io/NES.css/),
+  [Docs](https://github.com/nostalgic-css/NES.css#installation),
+  [Repo](https://github.com/nostalgic-css/NES.css)
+  | #SCSS
 
 - [**98.css**](https://jdan.github.io/98.css/) - CSS library for building interfaces that look like Windows 98.  
   ![](https://img.shields.io/github/stars/jdan/98.css.svg?style=social&label=Star)
   [Repo](https://github.com/jdan/98.css)
   | #CSS
 
+- [**Tufte CSS**](https://edwardtufte.github.io/tufte-css/) - Style your webpage like Edward Tufte’s handouts.  
+  ![](https://img.shields.io/github/stars/edwardtufte/tufte-css.svg?style=social&label=Star)
+  [Repo](https://github.com/edwardtufte/tufte-css)
+  | #CSS
 
 - [**Gutenberg**](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.  
   ![](https://img.shields.io/github/stars/BafS/Gutenberg.svg?style=social&label=Star)
   [Demo](https://bafs.github.io/Gutenberg/),
   [Docs](https://github.com/BafS/Gutenberg#what-does-the-framework-do-)
   | #SCSS
+
+- [**XP.css**](https://botoxparty.github.io/XP.css/) - CSS library for building interfaces that look like Windows XP.  
+  ![](https://img.shields.io/github/stars/botoxparty/XP.css.svg?style=social&label=Star)
+  [Repo](https://github.com/botoxparty/XP.css)
+  | #PostCSS
 
 - [**Bojler**](https://bojler.slicejack.com) - Email framework for developing responsive and lightweight email templates.  
   ![](https://img.shields.io/github/stars/Slicejack/bojler.svg?style=social&label=Star)
@@ -272,10 +287,6 @@ We are keeping them here for reference/inspiration and hope for a revival.
 <details>
   <summary><strong>Show Section</strong></summary>
   
-- [**normalize.css**](https://necolas.github.io/normalize.css/) - Modern, HTML5-ready alternative to CSS resets.  
-  ![](https://img.shields.io/github/stars/necolas/normalize.css.svg?style=social&label=Star)
-  [Repo](https://github.com/necolas/normalize.css/)
-  | #CSS
   
 - [**Semantic UI**](https://semantic-ui.com) - User interface is the language of the web.  
   ![](https://img.shields.io/github/stars/semantic-org/semantic-ui.svg?style=social&label=Star)
@@ -290,12 +301,6 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Repo](https://github.com/Dogfalo/materialize)
   | #SCSS
   
-- [**NES.css**](https://nostalgic-css.github.io/NES.css/) - NES-style CSS Framework.  
-  ![](https://img.shields.io/github/stars/nostalgic-css/NES.css.svg?style=social&label=Star)
-  [Demo](https://nostalgic-css.github.io/NES.css/),
-  [Docs](https://github.com/nostalgic-css/NES.css#installation),
-  [Repo](https://github.com/nostalgic-css/NES.css)
-  | #SCSS
 
 - [**Spectre.css**](https://picturepan2.github.io/spectre/) - Lightweight, responsive and modern CSS framework.  
   ![](https://img.shields.io/github/stars/picturepan2/spectre.svg?style=social&label=Star)
@@ -325,11 +330,6 @@ We are keeping them here for reference/inspiration and hope for a revival.
 - [**Basscss**](https://basscss.com) - Low-level CSS toolkit.  
   ![](https://img.shields.io/github/stars/basscss/basscss.svg?style=social&label=Star)
   [Repo](https://github.com/basscss/basscss/)
-
-- [**Tufte CSS**](https://edwardtufte.github.io/tufte-css/) - Style your webpage like Edward Tufte’s handouts.  
-  ![](https://img.shields.io/github/stars/edwardtufte/tufte-css.svg?style=social&label=Star)
-  [Repo](https://github.com/edwardtufte/tufte-css)
-  | #CSS
 
 - [**sanitize.css**](https://csstools.github.io/sanitize.css/) - The best-practices CSS foundation.  
   ![](https://img.shields.io/github/stars/csstools/sanitize.css.svg?style=social&label=Star)
@@ -361,10 +361,6 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Repo](https://github.com/inuitcss/inuitcss)
   | #SCSS
 
-- [**XP.css**](https://botoxparty.github.io/XP.css/) - CSS library for building interfaces that look like Windows XP.  
-  ![](https://img.shields.io/github/stars/botoxparty/XP.css.svg?style=social&label=Star)
-  [Repo](https://github.com/botoxparty/XP.css)
-  | #PostCSS
 - [**Cutestrap**](https://www.cutestrap.com) - Sassy, opinionated CSS framework, a tiny alternative to Bootstrap.  
   ![](https://img.shields.io/github/stars/tylerchilds/cutestrap.svg?style=social&label=Star)
   [Repo](https://github.com/tylerchilds/cutestrap)
