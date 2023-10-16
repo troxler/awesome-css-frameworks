@@ -166,7 +166,7 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/canonical-web-and-design/vanilla-framework.svg?style=social&label=Star)
   [Demo](https://vanillaframework.io/docs/examples),
   [Docs](https://vanillaframework.io/docs/),
-  [Repo](https://github.com/canonical-web-and-design/vanilla-framework)
+  [Repo](https://github.com/canonical/vanilla-framework)
   | #SCSS
 
 - [**PatternFly**](https://www.patternfly.org/) - UI framework for enterprise web applications.  
