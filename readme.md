@@ -197,6 +197,17 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://materializecss.github.io/materialize/getting-started.html),
   [Repo](https://github.com/materializecss/materialize)
   | #SCSS
+  
+- [**Tailwind CSS**]- A utility-first CSS framework that allows developers to quickly create custom designs using classes for common CSS properties.
+
+- [**Spectre css**]- A lightweight and responsive CSS framework that provides a basic set of styles and components to get started with web development.
+
+- [**Bulma css**]- A lightweight and modern CSS framework with a minimalistic design, making it easy to customize and use for building responsive websites.
+
+- [**Materialize CSS**]-  A CSS framework that follows Google's Material Design guidelines and offers a set of pre-built components with a clean and modern look.
+
+- [**Bulkit CSS**]- A modern and responsive CSS framework that is built specifically for the Bulma framework, providing additional features and components.
+
 
 
 ## Utility-based
