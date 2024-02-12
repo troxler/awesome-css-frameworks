@@ -198,6 +198,11 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/materializecss/materialize)
   | #SCSS
 
+- [**Beer CSS**](https://www.beercss.com) - Build material design interfaces in record time without stress for devs.
+  ![](https://img.shields.io/github/stars/beercss/beercss.svg?style=social&label=Star)
+  [Demo](https://codepen.io/collection/XydYMB),
+  [Repo](https://github.com/beercss/beercss)
+  | #CSS
 
 ## Utility-based
 
