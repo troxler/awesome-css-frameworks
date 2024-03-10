@@ -192,6 +192,11 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/material-components/material-components-web)
   | #SCSS
 
+- [**Beer CSS**](https://www.beercss.com) - Build material design interfaces in record time without stress for devs.  
+  ![](https://img.shields.io/github/stars/beercss/beercss.svg?style=social&label=Star)
+  [Repo](https://github.com/beercss/beercss)
+  | #CSS
+
 - [**Materialize**](https://materializecss.github.io/materialize/) - Responsive front-end library based on Google's Material Design.  
   ![](https://img.shields.io/github/stars/materializecss/materialize.svg?style=social&label=Star)
   [Docs](https://materializecss.github.io/materialize/getting-started.html),
