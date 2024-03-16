@@ -130,6 +130,13 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/primer/css)
   | #SCSS
 
+- [**Pico.css**](https://picocss.com/) - Elegant styles for all native HTML elements, dark mode automatically enabled.  
+  ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social&label=Star)
+  [Demo](https://picocss.com/#examples),
+  [Docs](https://picocss.com/docs/),
+  [Repo](https://github.com/picocss/pico)
+  | #SCSS
+
 - [**Carbon Components**](https://www.carbondesignsystem.com/) - Component library behind IBM's Carbon Design System.  
   ![](https://img.shields.io/github/stars/carbon-design-system/carbon-components.svg?style=social&label=Star)
   [Docs](https://www.carbondesignsystem.com/components/overview/),
@@ -141,13 +148,6 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://fomantic-ui.com/introduction/getting-started.html),
   [Repo](https://github.com/fomantic/fomantic-ui/)
   | #LESS
-
-- [**Pico.css**](https://picocss.com/) - Elegant styles for all native HTML elements, dark mode automatically enabled.  
-  ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social&label=Star)
-  [Demo](https://picocss.com/#examples),
-  [Docs](https://picocss.com/docs/),
-  [Repo](https://github.com/picocss/pico)
-  | #SCSS
 
 - [**Blaze UI**](https://www.blazeui.com) - Open source modular toolkit providing great structure for building websites quickly with a scalable and maintainable foundation.  
   ![](https://img.shields.io/github/stars/BlazeSoftware/atoms.svg?style=social&label=Star)
@@ -251,12 +251,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/botoxparty/XP.css)
   | #PostCSS
 
-- [**Bojler**](https://bojler.slicejack.com) - Email framework for developing responsive and lightweight email templates.  
-  ![](https://img.shields.io/github/stars/Slicejack/bojler.svg?style=social&label=Star)
-  [Docs](https://bojler.slicejack.com/documentation/getting-started/),
-  [Repo](https://github.com/Slicejack/bojler)
-  | #SCSS
-
 - [**TuiCss**](https://github.com/vinibiavatti1/TuiCss) - Library to create MS-DOS interfaces.  
   ![](https://img.shields.io/github/stars/vinibiavatti1/TuiCss.svg?style=social&label=Star)
   [Demo](https://github.com/vinibiavatti1/TuiCss/wiki/Examples),
@@ -267,6 +261,12 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/khang-nd/7.css.svg?style=social&label=Star)
   [Repo](https://github.com/khang-nd/7.css)
   | #PostCSS
+
+- [**Bojler**](https://bojler.slicejack.com) - Email framework for developing responsive and lightweight email templates.  
+  ![](https://img.shields.io/github/stars/Slicejack/bojler.svg?style=social&label=Star)
+  [Docs](https://bojler.slicejack.com/documentation/getting-started/),
+  [Repo](https://github.com/Slicejack/bojler)
+  | #SCSS
 
 
 ## Toolkits
