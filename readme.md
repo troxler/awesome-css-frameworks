@@ -183,6 +183,12 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/jonathanharrell/hiq/)
   | #PostCSS
 
+- [**FlatifyCSS**](https://flatifycss.com) - Modern flat design framework for the web.  
+  ![](https://img.shields.io/github/stars/amir2mi/flatifycss.svg?style=social&label=Star)
+  [Docs](https://flatifycss.com/docs/intro),
+  [Repo](https://github.com/amir2mi/flatifycss/)
+  | #SCSS
+
 
 ## Material Design
 
