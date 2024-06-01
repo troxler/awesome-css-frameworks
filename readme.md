@@ -143,6 +143,12 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/carbon-design-system/carbon)
   | #SCSS
 
+- [**U.S. Web Design System**](https://designsystem.digital.gov/) - Components used by U.S. federal government websites.  
+  ![](https://img.shields.io/github/stars/uswds/uswds.svg?style=social&label=Star)
+  [Docs](https://designsystem.digital.gov/components/overview/),
+  [Repo](https://github.com/uswds/uswds)
+  | #SCSS
+
 - [**Fomantic-UI**](https://fomantic-ui.com/) - Build beautiful websites fast, with concise HTML, intuitive javascript, and simplified debugging.  
   ![](https://img.shields.io/github/stars/fomantic/fomantic-ui.svg?style=social&label=Star)
   [Docs](https://fomantic-ui.com/introduction/getting-started.html),
