@@ -79,6 +79,13 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/pure-css/pure)
   | #CSS
 
+- [**Skeleton**](http://getskeleton.com) - A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development.  
+  ![](https://img.shields.io/github/stars/dhg/Skeleton.svg?style=social&label=Star)
+  [Demo](http://getskeleton.com/examples/landing/)
+  [Docs](http://getskeleton.com)
+  [Repo](https://github.com/dhg/Skeleton)
+  | #CSS
+
 - [**Picnic CSS**](https://picnicss.com) - Lightweight and beautiful library.  
   ![](https://img.shields.io/github/stars/franciscop/picnic.svg?style=social&label=Star)
   [Demo](https://picnicss.com/tests),
