@@ -216,6 +216,12 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/materializecss/materialize)
   | #SCSS
 
+- [**MUI**](https://mui.com/) - MUI provides free UI tools to speed up feature development. Use the Material UI component library or integrate your design system with our ready-to-use components.
+  ![](https://img.shields.io/github/stars/mui/material-ui.svg?style=social&label=Star)
+  [Docs](https://mui.com/material-ui/getting-started/),
+  [Repo](https://github.com/mui/material-ui)
+  | #CSS
+
 
 ## Utility-based
 
