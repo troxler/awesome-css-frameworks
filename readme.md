@@ -11,6 +11,7 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   alt="FrontAid CMS - Agile Content Management with Git."></a>
 
 ## Contents
+
 - [Base / Reset / Normalize](#base--reset--normalize)
 - [Class-less](#class-less)
 - [Very Lightweight](#very-lightweight)
@@ -20,7 +21,6 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 - [Specialized](#specialized)
 - [Toolkits](#toolkits)
 - [Stalled Development](#stalled-development)
-
 
 ## Base / Reset / Normalize
 
@@ -38,7 +38,6 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   ![](https://img.shields.io/github/stars/frontaid/natural-selection.svg?style=social&label=Star)
   | #CSS
 
-
 ## Class-less
 
 Frameworks that use semantic HTML and do not rely on classes.
@@ -48,6 +47,12 @@ Frameworks that use semantic HTML and do not rely on classes.
   [Docs](https://andybrewer.github.io/mvp/#docs),
   [Repo](https://github.com/andybrewer/mvp/)
   | #CSS
+
+  - [**New.css**](https://newcss.net/) - A classless CSS framework to write modern websites using only HTML.  
+    ![](https://camo.githubusercontent.com/0387227c8d01b9b82c05ce8f5de353cd997686628a388f03fb608544c1ddffe0/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f787a2f6e65772e6373733f7374796c653d736f6369616c)
+    [Docs](https://newcss.net/),
+    [Repo](https://github.com/xz/new.css)
+    | #CSS
 
 - [**sakura**](https://oxal.org/projects/sakura/) - Minimal classless CSS framework/theme.  
   ![](https://img.shields.io/github/stars/oxalorg/sakura.svg?style=social&label=Star)
@@ -66,7 +71,6 @@ Frameworks that use semantic HTML and do not rely on classes.
   ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social&label=Star)
   [Repo](https://github.com/yegor256/tacit/)
   | #SCSS
-
 
 ## Very Lightweight
 
@@ -93,6 +97,12 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/jenil/chota)
   | #CSS
 
+- [**Milligram**](https://milligram.io/) - Minimalist CSS framework.  
+  ![](https://img.shields.io/github/stars/milligram/milligram.svg?style=social&label=Star)
+  [Demo](https://milligram.io/#examples),
+  [Docs](https://milligram.io/#getting-started),
+  [Repo](https://github.com/milligram/milligram)
+  | #CSS
 
 ## General Purpose
 
@@ -195,7 +205,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/jonathanharrell/hiq/)
   | #PostCSS
 
-
 ## Material Design
 
 - [**Material Components Web**](https://material.io/components/web/) - Modular and customizable Material Design UI components for the web.  
@@ -210,12 +219,16 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/beercss/beercss)
   | #CSS
 
+- [**Vuetify**](https://vuetifyjs.com/en//) Open Source UI Library with Vue Components.  
+  ![](https://img.shields.io/github/stars/vuetifyjs/vuetify.svg?style=social&label=Star)
+  [Repo](https://github.com/vuetifyjs/vuetify)
+  | #Vue
+
 - [**Materialize**](https://materializecss.github.io/materialize/) - Responsive front-end library based on Google's Material Design.  
   ![](https://img.shields.io/github/stars/materializecss/materialize.svg?style=social&label=Star)
   [Docs](https://materializecss.github.io/materialize/getting-started.html),
   [Repo](https://github.com/materializecss/materialize)
   | #SCSS
-
 
 ## Utility-based
 
@@ -231,7 +244,6 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://open-props.style/#getting-started),
   [Repo](https://github.com/argyleink/open-props/)
   | #CSS #PostCSS
-
 
 ## Specialized
 
@@ -280,7 +292,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/Slicejack/bojler)
   | #SCSS
 
-
 ## Toolkits
 
 Toolkits are closer to a library than to a framework.
@@ -291,7 +302,6 @@ They do not provide actual styling but utilities (e.g. mixins) that you can use 
   [Docs](https://www.bourbon.io/docs/latest/),
   [Repo](https://github.com/thoughtbot/bourbon/)
   | #SCSS
-
 
 ## Stalled Development
 
@@ -319,7 +329,6 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://picturepan2.github.io/spectre/getting-started.html),
   [Repo](https://github.com/picturepan2/spectre)
   | #SCSS
-  
 - [**Tachyons**](https://tachyons.io) - Quickly build and design new UI without writing CSS.  
   ![](https://img.shields.io/github/stars/tachyons-css/tachyons.svg?style=social&label=Star)
   [Demo](https://tachyons.io/gallery/),
@@ -347,13 +356,11 @@ We are keeping them here for reference/inspiration and hope for a revival.
   ![](https://img.shields.io/github/stars/csstools/sanitize.css.svg?style=social&label=Star)
   [Repo](https://github.com/csstools/sanitize.css)
   | #CSS
-  
 - [**MUI**](https://www.muicss.com) - Lightweight CSS framework that follows Google's Material Design guidelines.  
   ![](https://img.shields.io/github/stars/muicss/mui.svg?style=social&label=Star)
   [Docs](https://www.muicss.com/docs/v1/getting-started/introduction),
   [Repo](https://github.com/muicss/mui)
   | #SCSS
-  
 - [**modern-css-reset**](https://github.com/hankchizljaw/modern-css-reset) - Tiny little reset that you can use as the basis of your CSS projects.  
   ![](https://img.shields.io/github/stars/hankchizljaw/modern-css-reset.svg?style=social&label=Star)
   [Repo](https://github.com/hankchizljaw/modern-css-reset)
@@ -424,6 +431,7 @@ We are keeping them here for reference/inspiration and hope for a revival.
 ---
 
 ## License
+
 License [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/):
 
 > You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
