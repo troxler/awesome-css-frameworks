@@ -219,6 +219,11 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/beercss/beercss)
   | #CSS
 
+- [**Vuetify**](https://vuetifyjs.com/en//) Open Source UI Library with Vue Components.  
+  ![](https://img.shields.io/github/stars/vuetifyjs/vuetify.svg?style=social&label=Star)
+  [Repo](https://github.com/vuetifyjs/vuetify)
+  | #Vue
+
 - [**Materialize**](https://materializecss.github.io/materialize/) - Responsive front-end library based on Google's Material Design.  
   ![](https://img.shields.io/github/stars/materializecss/materialize.svg?style=social&label=Star)
   [Docs](https://materializecss.github.io/materialize/getting-started.html),
