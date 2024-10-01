@@ -79,6 +79,13 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/pure-css/pure)
   | #CSS
 
+- [Milligram](https://milligram.io/) - A minimalist CSS framework.  
+  ![](https://img.shields.io/github/stars/milligram/milligram.svg?style=social&label=Star)
+  [Demo](https://milligram.io/#examples),
+  [Docs](https://milligram.io/#getting-started),
+  [Repo](https://github.com/milligram/milligram)
+  | #CSS
+
 - [**Picnic CSS**](https://picnicss.com) - Lightweight and beautiful library.  
   ![](https://img.shields.io/github/stars/franciscop/picnic.svg?style=social&label=Star)
   [Demo](https://picnicss.com/tests),
@@ -189,7 +196,7 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/StackExchange/Stacks)
   | #LESS
 
-- [**HiQ**](https://jonathanharrell.github.io/hiq/) - Simple CSS foundation with responsive typography and input styling.  
+- [**HiQ**](https://jonathanharrell.github.io/hiq/) - Simple CSS foundation with responsive typography and input styling.
   ![](https://img.shields.io/github/stars/jonathanharrell/hiq.svg?style=social&label=Star)
   [Docs](https://jonathanharrell.github.io/hiq/guide/),
   [Repo](https://github.com/jonathanharrell/hiq/)
@@ -198,19 +205,32 @@ Frameworks that are smaller than ~5KB.
 
 ## Material Design
 
-- [**Material Components Web**](https://material.io/components/web/) - Modular and customizable Material Design UI components for the web.  
+- [Material Design Lite](https://getmdl.io/) - Material Design Lite lets you add a Material Design look and feel to your websites.
+  ![](https://img.shields.io/github/stars/google/material-design-lite.svg?style=social&label=Star)
+  [Demo](https://getmdl.io/templates/index.html),
+  [Docs](https://getmdl.io/started/index.html),
+  [Repo](https://github.com/google/material-design-lite)
+  | #CSS
+
+- [**Material Components Web**](https://material.io/components/web/) - Modular and customizable Material Design UI components for the web.
   ![](https://img.shields.io/github/stars/material-components/material-components-web.svg?style=social&label=Star)
   [Demo](https://material.io/components?platform=web),
   [Docs](https://material.io/develop/web/getting-started),
   [Repo](https://github.com/material-components/material-components-web)
   | #SCSS
 
-- [**Beer CSS**](https://www.beercss.com) - Build material design interfaces in record time without stress for devs.  
+- [**Material Web**](https://material-web.dev/) - A library of web components that follows Google's Material Design guidelines.
+  ![](https://img.shields.io/github/stars/material-components/material-web.svg?style=social&label=Star)
+  [Demo](https://material-web.dev/theming/material-theming/),
+  [Docs](https://material-web.dev/about/quick-start/),
+  [Repo](https://github.com/material-components/material-web)
+
+- [**Beer CSS**](https://www.beercss.com) - Build material design interfaces in record time without stress for devs.
   ![](https://img.shields.io/github/stars/beercss/beercss.svg?style=social&label=Star)
   [Repo](https://github.com/beercss/beercss)
   | #CSS
 
-- [**Materialize**](https://materializecss.github.io/materialize/) - Responsive front-end library based on Google's Material Design.  
+- [**Materialize**](https://materializecss.github.io/materialize/) - Responsive front-end library based on Google's Material Design.
   ![](https://img.shields.io/github/stars/materializecss/materialize.svg?style=social&label=Star)
   [Docs](https://materializecss.github.io/materialize/getting-started.html),
   [Repo](https://github.com/materializecss/materialize)
@@ -219,13 +239,13 @@ Frameworks that are smaller than ~5KB.
 
 ## Utility-based
 
-- [**Tailwind CSS**](https://tailwindcss.com) - Utility-first CSS framework for rapid UI development.  
+- [**Tailwind CSS**](https://tailwindcss.com) - Utility-first CSS framework for rapid UI development.
   ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss.svg?style=social&label=Star)
   [Docs](https://tailwindcss.com/docs),
   [Repo](https://github.com/tailwindlabs/tailwindcss)
   | #CSS
 
-- [**Open Props**](https://open-props.style) - CSS custom properties to help accelerate adaptive and consistent design.  
+- [**Open Props**](https://open-props.style) - CSS custom properties to help accelerate adaptive and consistent design.
   ![](https://img.shields.io/github/stars/argyleink/open-props.svg?style=social&label=Star)
   [Demo](https://open-props.style/#gallery),
   [Docs](https://open-props.style/#getting-started),
