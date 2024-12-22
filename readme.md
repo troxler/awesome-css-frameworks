@@ -18,7 +18,6 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 - [Material Design](#material-design)
 - [Utility-based](#utility-based)
 - [Specialized](#specialized)
-- [Toolkits](#toolkits)
 - [Stalled Development](#stalled-development)
 
 
@@ -286,18 +285,6 @@ Frameworks that are smaller than ~5KB.
   | #SCSS
 
 
-## Toolkits
-
-Toolkits are closer to a library than to a framework.
-They do not provide actual styling but utilities (e.g. mixins) that you can use in your CSS preprocessor.
-
-- [**Bourbon**](https://www.bourbon.io/) - Lightweight Sass tool set.  
-  ![](https://img.shields.io/github/stars/thoughtbot/bourbon.svg?style=social&label=Star)
-  [Docs](https://www.bourbon.io/docs/latest/),
-  [Repo](https://github.com/thoughtbot/bourbon/)
-  | #SCSS
-
-
 ## Stalled Development
 
 Frameworks that have not seen any real development for more than about one year or officially have been deprecated.
@@ -318,6 +305,12 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://tachyons.io/docs/),
   [Repo](https://github.com/tachyons-css/tachyons/)
   | #CSS
+
+- [**Bourbon**](https://www.bourbon.io/) - Lightweight Sass tool set.  
+  ![](https://img.shields.io/github/stars/thoughtbot/bourbon.svg?style=social&label=Star)
+  [Docs](https://www.bourbon.io/docs/latest/),
+  [Repo](https://github.com/thoughtbot/bourbon/)
+  | #SCSS
 
 - [**Water.css**](https://watercss.kognise.dev/) - Just-add-CSS collection of styles to make simple websites just a little nicer.  
   ![](https://img.shields.io/github/stars/kognise/water.css.svg?style=social&label=Star)
