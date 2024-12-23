@@ -11,14 +11,17 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   alt="FrontAid CMS - Agile Content Management with Git."></a>
 
 ## Contents
-- [Base / Reset / Normalize](#base--reset--normalize)
-- [Class-less](#class-less)
-- [Very Lightweight](#very-lightweight)
-- [General Purpose](#general-purpose)
-- [Material Design](#material-design)
-- [Utility-based](#utility-based)
-- [Specialized](#specialized)
-- [Stalled Development](#stalled-development)
+- [Awesome CSS Frameworks ](#awesome-css-frameworks-)
+  - [Contents](#contents)
+  - [Base / Reset / Normalize](#base--reset--normalize)
+  - [Class-less](#class-less)
+  - [Very Lightweight](#very-lightweight)
+  - [General Purpose](#general-purpose)
+  - [Material Design](#material-design)
+  - [Utility-based](#utility-based)
+  - [Specialized](#specialized)
+  - [Stalled Development](#stalled-development)
+  - [License](#license)
 
 
 ## Base / Reset / Normalize
@@ -194,6 +197,12 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/jonathanharrell/hiq/)
   | #PostCSS
 
+- [**LayX**](https://layx.xyz) - A Modern CSS Framework for Flexible and Responsive Layouts.  
+  ![](https://img.shields.io/github/stars/arif891/layx.svg?style=social&label=Star)
+  [Demo](https://layx.xyz/templates),
+  [Docs](https://layx.xyz/docs/getting_started/introduction),
+  [Repo](https://github.com/arif891/layx)
+  | #CSS
 
 ## Material Design
 
