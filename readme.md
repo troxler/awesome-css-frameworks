@@ -195,13 +195,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/jonathanharrell/hiq/)
   | #PostCSS
 
-- [**Orbit**](https://zumerlab.github.io/orbit-docs/) - CSS framework for creating simple or complex radial interfaces.  
-  ![](https://img.shields.io/github/stars/zumerlab/orbit.svg?style=social&label=Star)
-  [Demo](https://zumerlab.github.io/orbit-docs/examples/),
-  [Docs](https://zumerlab.github.io/orbit-docs/introduction/),
-  [Repo](https://github.com/zumerlab/orbit)
-  | #CSS #SCSS
-
 
 ## Material Design
 
@@ -285,6 +278,12 @@ Frameworks that are smaller than ~5KB.
   ![](https://img.shields.io/github/stars/Slicejack/bojler.svg?style=social&label=Star)
   [Docs](https://bojler.slicejack.com/documentation/getting-started/),
   [Repo](https://github.com/Slicejack/bojler)
+  | #SCSS
+
+- [**Orbit**](https://zumerlab.github.io/orbit-docs/) - CSS framework designed for building any kind of radial UI.  
+  ![](https://img.shields.io/github/stars/zumerlab/orbit.svg?style=social&label=Star)
+  [Docs](https://zumerlab.github.io/orbit-docs/introduction/),
+  [Repo](https://github.com/zumerlab/orbit)
   | #SCSS
 
 
