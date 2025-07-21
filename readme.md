@@ -73,6 +73,11 @@ Frameworks that use semantic HTML and do not rely on classes.
   [Repo](https://github.com/yegor256/tacit/)
   | #SCSS
 
+- [**MatchaCSS**](https://matcha.mizu.sh/) - a pure CSS library designed to style HTML elements similarly to a default browser stylesheet.  
+  ![](https://img.shields.io/github/stars/lowlighter/matcha.svg?style=social&label=Star)
+  [Repo](https://github.com/lowlighter/matcha)
+  | #SCSS
+
 
 ## Very Lightweight
 
