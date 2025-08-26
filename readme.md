@@ -76,7 +76,7 @@ Frameworks that use semantic HTML and do not rely on classes.
 
 ## Very Lightweight
 
-Frameworks that are smaller than ~5KB.
+Frameworks that are smaller than ~10KB.
 
 - [**Pure**](https://purecss.io) - Set of small, responsive CSS modules that you can use in every web project.  
   ![](https://img.shields.io/github/stars/pure-css/pure.svg?style=social&label=Star)
