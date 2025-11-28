@@ -193,13 +193,6 @@ Frameworks that are smaller than ~10KB.
 
 ## Material Design
 
-- [**Material Components Web**](https://material.io/components/web/) - Modular and customizable Material Design UI components for the web.  
-  ![](https://img.shields.io/github/stars/material-components/material-components-web.svg?style=social&label=Star)
-  [Demo](https://material.io/components?platform=web),
-  [Docs](https://material.io/develop/web/getting-started),
-  [Repo](https://github.com/material-components/material-components-web)
-  | #SCSS
-
 - [**Beer CSS**](https://www.beercss.com) - Build material design interfaces in record time without stress for devs.  
   ![](https://img.shields.io/github/stars/beercss/beercss.svg?style=social&label=Star)
   [Repo](https://github.com/beercss/beercss)
@@ -300,6 +293,13 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://semantic-ui.com/introduction/getting-started.html),
   [Repo](https://github.com/semantic-org/semantic-ui)
   | #LESS
+
+- [**Material Components Web**](https://material.io/components/web/) - Modular and customizable Material Design UI components for the web.  
+  ![](https://img.shields.io/github/stars/material-components/material-components-web.svg?style=social&label=Star)
+  [Demo](https://material.io/components?platform=web),
+  [Docs](https://material.io/develop/web/getting-started),
+  [Repo](https://github.com/material-components/material-components-web)
+  | #SCSS
 
 - [**Tachyons**](https://tachyons.io) - Quickly build and design new UI without writing CSS.  
   ![](https://img.shields.io/github/stars/tachyons-css/tachyons.svg?style=social&label=Star)
