@@ -190,6 +190,12 @@ Frameworks that are smaller than ~10KB.
   [Repo](https://github.com/jonathanharrell/hiq/)
   | #PostCSS
 
+- [**Tani**](https://tanicss.github.io/docs/) - A lightweight, utility-first CSS framework with rich component library.  
+  ![](https://img.shields.io/github/stars/TaniCSS/Tani.svg?style=social&label=Star)
+  [Docs](https://tanicss.github.io/docs/),
+  [Repo](https://github.com/TaniCSS/Tani)
+  | #CSS
+
 
 ## Material Design
 
