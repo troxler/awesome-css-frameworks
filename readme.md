@@ -273,11 +273,15 @@ Frameworks that are smaller than ~10KB.
   [Repo](https://github.com/Slicejack/bojler)
   | #SCSS
 
-- [**Orbit**](https://zumerlab.github.io/orbit-docs/) - CSS framework designed for building any kind of radial UI.  
+- [**Orbit**](https://zumerlab.github.io/orbit-docs/) - CSS framework designed for building any kind of radial UI.
   ![](https://img.shields.io/github/stars/zumerlab/orbit.svg?style=social&label=Star)
   [Docs](https://zumerlab.github.io/orbit-docs/introduction/),
   [Repo](https://github.com/zumerlab/orbit)
   | #SCSS
+
+- [**ZapTools**](https://zaptools.web.app) - Collection of 15+ browser-based CSS utility generators including gradient, shadow, flexbox, grid, clip-path, filter, animation, and Tailwind tools.
+  [Demo](https://zaptools.web.app)
+  | #CSS
 
 
 ## Stalled Development
