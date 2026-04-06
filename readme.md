@@ -6,6 +6,7 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 **Are you looking for React/Vue/Angular [UI Component Libraries](https://frontaid.ch/web/ui/libraries.html) instead?**
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for CSS framework workflow orchestration, automated styling management, and multi-agent coordination. MIT licensed.
 ## Contents
 - [Base / Reset / Normalize](#base--reset--normalize)
 - [Class-less](#class-less)
