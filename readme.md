@@ -190,6 +190,12 @@ Frameworks that are smaller than ~10KB.
   [Repo](https://github.com/jonathanharrell/hiq/)
   | #PostCSS
 
+- [**Lism CSS**](https://lism-css.com/) - Layout-first CSS framework with design tokens, utility classes, and React/Astro components.  
+  ![](https://img.shields.io/github/stars/lism-css/lism-css.svg?style=social&label=Star)
+  [Docs](https://lism-css.com/),
+  [Repo](https://github.com/lism-css/lism-css)
+  | #SCSS
+
 
 ## Material Design
 
