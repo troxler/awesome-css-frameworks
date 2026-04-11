@@ -272,6 +272,13 @@ Frameworks that are smaller than ~10KB.
   [Repo](https://github.com/zumerlab/orbit)
   | #SCSS
 
+- [**SoftUI**](https://softui-css.netlify.app) - Neumorphic CSS component library with soft shadows, dark mode, and 77+ components.  
+  ![](https://img.shields.io/github/stars/siddharth-bhansali/softui.svg?style=social&label=Star)
+  [Demo](https://softui-demo.netlify.app),
+  [Docs](https://softui-css.netlify.app/getting-started/),
+  [Repo](https://github.com/siddharth-bhansali/softui)
+  | #CSS
+
 
 ## Stalled Development
 
