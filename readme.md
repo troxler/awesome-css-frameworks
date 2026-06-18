@@ -95,6 +95,13 @@ Frameworks that are smaller than ~10KB.
   [Repo](https://github.com/jenil/chota)
   | #CSS
 
+- [**Blades**](https://blades.ninja/) - Framework-agnostic, class-light CSS⁺ toolkit.  
+  ![](https://img.shields.io/github/stars/anydigital/blades.svg?style=social&label=Star)
+  [Demo](https://blades.ninja/),
+  [Docs](https://blades.ninja/css/),
+  [Repo](https://github.com/anydigital/blades)
+  | #CSS
+
 
 ## General Purpose
 
