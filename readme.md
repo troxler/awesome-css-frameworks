@@ -70,6 +70,13 @@ Frameworks that use semantic HTML and do not rely on classes.
   | #SCSS
 
 
+- [**bullframe.css**](https://bullframecss.marcopontili.com) - Semantic-by-default CSS framework with optional classless builds, shared `--bf-*` tokens, and system dark. Native CSS, no Sass, no JS runtime.  
+  ![](https://img.shields.io/github/stars/marcop135/bullframe.css.svg?style=social&label=Star)
+  [Demo](https://bullframecss.marcopontili.com/kitchen-sink/),
+  [Docs](https://bullframecss.marcopontili.com/),
+  [Repo](https://github.com/marcop135/bullframe.css)
+  | #CSS
+
 ## Very Lightweight
 
 Frameworks that are smaller than ~10KB.
