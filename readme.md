@@ -184,6 +184,13 @@ Frameworks that are smaller than ~10KB.
   | #PostCSS
 
 
+- [**RevaCSS**](https://eristavi.github.io/RevaCSS/) - HTML-first CSS framework with shared appearance defaults, adaptive themes and a zero-JavaScript core.  
+  ![](https://img.shields.io/github/stars/eristavi/RevaCSS.svg?style=social&label=Star)
+  [Demo](https://eristavi.github.io/RevaCSS/demos/marketing/),
+  [Docs](https://eristavi.github.io/RevaCSS/guide/),
+  [Repo](https://github.com/eristavi/RevaCSS)
+  | #CSS
+
 ## Material Design
 
 - [**Beer CSS**](https://www.beercss.com) - Build material design interfaces in record time without stress for devs.  
