@@ -213,6 +213,12 @@ Frameworks that are smaller than ~10KB.
   [Repo](https://github.com/argyleink/open-props/)
   | #CSS #PostCSS
 
+- [**Master CSS**](https://css.master.co/) - Generate CSS from utility classes in markup, with design tokens and native cascade layers.  
+  ![](https://img.shields.io/github/stars/master-co/css.svg?style=social&label=Star)
+  [Docs](https://css.master.co/guide/installation),
+  [Repo](https://github.com/master-co/css)
+  | #CSS
+
 
 ## Specialized
 
