@@ -300,11 +300,6 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Repo](https://github.com/thoughtbot/bourbon/)
   | #SCSS
 
-- [**Water.css**](https://watercss.kognise.dev/) - Just-add-CSS collection of styles to make simple websites just a little nicer.  
-  ![](https://img.shields.io/github/stars/kognise/water.css.svg?style=social&label=Star)
-  [Repo](https://github.com/kognise/water.css)
-  | #CSS
-
 - [**sanitize.css**](https://csstools.github.io/sanitize.css/) - The best-practices CSS foundation.  
   ![](https://img.shields.io/github/stars/csstools/sanitize.css.svg?style=social&label=Star)
   [Repo](https://github.com/csstools/sanitize.css)
