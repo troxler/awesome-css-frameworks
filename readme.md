@@ -81,13 +81,6 @@ Frameworks that are smaller than ~10KB.
   [Repo](https://github.com/franciscop/picnic)
   | #SCSS
 
-- [**Chota**](https://jenil.github.io/chota/) - Really small CSS framework.  
-  ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social&label=Star)
-  [Demo](https://raw.githack.com/jenil/chota/master/test/index.html),
-  [Docs](https://jenil.github.io/chota/#docs),
-  [Repo](https://github.com/jenil/chota)
-  | #CSS
-
 
 ## General Purpose
 
@@ -329,6 +322,13 @@ We are keeping them here for reference/inspiration and hope for a revival.
 
 - [**CSS Remedy**](https://github.com/jensimmons/cssremedy) - Start your project with a remedy for the technical debt of CSS.  
   ![](https://img.shields.io/github/stars/jensimmons/cssremedy.svg?style=social&label=Star)
+  | #CSS
+
+- [**Chota**](https://jenil.github.io/chota/) - Really small CSS framework.  
+  ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social&label=Star)
+  [Demo](https://raw.githack.com/jenil/chota/master/test/index.html),
+  [Docs](https://jenil.github.io/chota/#docs),
+  [Repo](https://github.com/jenil/chota)
   | #CSS
 
 - [**Blaze UI**](https://www.blazeui.com) - Open source modular toolkit providing great structure for building websites quickly with a scalable and maintainable foundation.  
