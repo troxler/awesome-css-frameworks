@@ -38,13 +38,6 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 
 Frameworks that use semantic HTML and do not rely on classes.
 
-- [**Pico.css**](https://picocss.com/) - Elegant styles for all native HTML elements, dark mode automatically enabled.  
-  ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social&label=Star)
-  [Demo](https://picocss.com/#examples),
-  [Docs](https://picocss.com/docs/),
-  [Repo](https://github.com/picocss/pico)
-  | #SCSS
-
 - [**MVP.css**](https://andybrewer.github.io/mvp/) - Minimalist stylesheet for HTML elements.  
   ![](https://img.shields.io/github/stars/andybrewer/mvp.svg?style=social&label=Star)
   [Docs](https://andybrewer.github.io/mvp/#docs),
@@ -292,6 +285,13 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Demo](https://material.io/components?platform=web),
   [Docs](https://material.io/develop/web/getting-started),
   [Repo](https://github.com/material-components/material-components-web)
+  | #SCSS
+
+- [**Pico.css**](https://picocss.com/) - Elegant styles for all native HTML elements, dark mode automatically enabled.  
+  ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social&label=Star)
+  [Demo](https://picocss.com/#examples),
+  [Docs](https://picocss.com/docs/),
+  [Repo](https://github.com/picocss/pico)
   | #SCSS
 
 - [**Tachyons**](https://tachyons.io) - Quickly build and design new UI without writing CSS.  
