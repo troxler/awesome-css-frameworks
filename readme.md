@@ -169,12 +169,6 @@ Frameworks that are smaller than ~10KB.
   [Repo](https://github.com/jonathanharrell/hiq/)
   | #PostCSS
 
-- [**WovenUI**](https://wovenui.com) - Modern Dart Sass design system and component kit with compile-time token validation and native CSS custom properties.  
-  ![](https://img.shields.io/github/stars/WovenUI/wovenui.svg?style=social&label=Star)
-  [Demo](https://wovenui.com/playground/),
-  [Docs](https://wovenui.com/core/),
-  [Repo](https://github.com/WovenUI/core)
-  | #SCSS
 
 ## Material Design
 
@@ -204,6 +198,13 @@ Frameworks that are smaller than ~10KB.
   [Docs](https://open-props.style/#getting-started),
   [Repo](https://github.com/argyleink/open-props/)
   | #CSS #PostCSS
+
+- [**WovenUI**](https://wovenui.com) - Modern Sass design system with compile-time token validation and native CSS custom properties.  
+  ![](https://img.shields.io/github/stars/WovenUI/core.svg?style=social&label=Star)
+  [Demo](https://wovenui.com/playground/),
+  [Docs](https://wovenui.com/core/),
+  [Repo](https://github.com/WovenUI/core)
+  | #Sass
 
 
 ## Specialized
