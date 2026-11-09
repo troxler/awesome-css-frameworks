@@ -199,6 +199,13 @@ Frameworks that are smaller than ~10KB.
   [Repo](https://github.com/argyleink/open-props/)
   | #CSS #PostCSS
 
+- [**WovenUI**](https://wovenui.com) - Modern Sass design system with compile-time token validation and native CSS custom properties.  
+  ![](https://img.shields.io/github/stars/WovenUI/core.svg?style=social&label=Star)
+  [Demo](https://wovenui.com/playground/),
+  [Docs](https://wovenui.com/core/),
+  [Repo](https://github.com/WovenUI/core)
+  | #Sass
+
 
 ## Specialized
 
