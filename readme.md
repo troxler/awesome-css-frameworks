@@ -57,6 +57,12 @@ Frameworks that use semantic HTML and do not rely on classes.
   [Repo](https://github.com/kevquirk/simple.css/)
   | #CSS
 
+- [**T'Pico**](https://github.com/dday9/t-pico) - Classless library built using modern CSS that is a fork and complete rewrite of Pico CSS v2.1.1.  
+  ![](https://img.shields.io/github/stars/dday9/t-pico.svg?style=social&label=Star)
+  [Docs](https://github.com/dday9/t-pico/wiki),
+  [Repo](https://github.com/dday9/t-pico)
+  | #SCSS
+
 - [**Tacit**](https://yegor256.github.io/tacit/) - CSS framework for dummies, without classes.  
   ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social&label=Star)
   [Repo](https://github.com/yegor256/tacit/)
