@@ -258,6 +258,12 @@ Frameworks that are smaller than ~10KB.
   [Repo](https://github.com/zumerlab/orbit)
   | #SCSS
 
+- [**clio.css**](https://surfine.github.io/clio.css/) - CSS library for Classic Mac OS (System 6 to Mac OS 9) and NeXTSTEP interfaces, with every value traced to measured pixels.  
+  ![](https://img.shields.io/github/stars/surfine/clio.css.svg?style=social&label=Star)
+  [Docs](https://surfine.github.io/clio.css/),
+  [Repo](https://github.com/surfine/clio.css)
+  | #CSS
+
 
 ## Stalled Development
 
